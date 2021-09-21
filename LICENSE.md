@@ -1,5 +1,7 @@
 MIT License
 
+Copyright (c) 2016 George Cushen
+
 Copyright (c) 2021 Software Engineering Research Group
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
