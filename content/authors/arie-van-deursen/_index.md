@@ -25,24 +25,28 @@ interests:
 social:
   - icon: twitter
     icon_pack: fab
-    link: https://github.com/SERG-Delft
+    link: https://twitter.com/avandeursen
     label: Twitter
   - icon: github
     icon_pack: fab
-    link: https://github.com/SERG-Delft
+    link: https://github.com/avandeursen
     label: GitHub
-  - icon: linkedin
+  - icon: stack-overflow
     icon_pack: fab
-    link: https://github.com/SERG-Delft
-    label: GitHub
+    link: https://stackoverflow.com/users/165292/avandeursen
+    label: StackOverflow
+  - icon: speaker-deck
+    icon_pack: fab
+    link: https://speakerdeck.com/avandeursen
+    label: SpeakerDeck
   - icon: google-scholar
     icon_pack: ai
-    link: https://github.com/SERG-Delft
-    label: GitHub
-  - icon: link
+    link: https://scholar.google.nl/citations?user=jjCkWXgAAAAJ
+    label: Google Scholar
+  - icon: book
     icon_pack: fas
-    link: https://github.com/SERG-Delft
-    label: GitHub
+    link: https://pure.tudelft.nl/portal/en/persons/a-van-deursen(949eb2cc-4db0-4f33-bd56-13425fa5c24a)/publications.html?pageSize=all&page=0
+    label: Publications
 
 
 # Organizational groups that you belong to (for People widget)

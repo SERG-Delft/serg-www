@@ -24,24 +24,20 @@ interests:
 social:
   - icon: twitter
     icon_pack: fab
-    link: https://github.com/SERG-Delft
+    link: https://twitter.com/solingen
     label: Twitter
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/SERG-Delft
-    label: GitHub
   - icon: linkedin
     icon_pack: fab
-    link: https://github.com/SERG-Delft
-    label: GitHub
+    link: https://nl.linkedin.com/in/solingen/
+    label: Linkedin
   - icon: google-scholar
     icon_pack: ai
-    link: https://github.com/SERG-Delft
-    label: GitHub
-  - icon: link
+    link: https://scholar.google.nl/citations?user=9LxiPOUAAAAJ
+    label: Google Scholar
+  - icon: book
     icon_pack: fas
-    link: https://github.com/SERG-Delft
-    label: GitHub
+    link: https://pure.tudelft.nl/portal/en/persons/dm-van-solingen(2669c7b5-81a6-4f70-9d9d-e21ead041426)/publications.html?pageSize=100&page=0
+    label: Publications
 
 
 # Organizational groups that you belong to (for People widget)
