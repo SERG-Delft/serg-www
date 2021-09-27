@@ -1,5 +1,9 @@
 # Website of the Software Engineering Research Group (SERG)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d2db141e-55bd-44d9-a61e-95a49e6558c7/deploy-status)](https://app.netlify.com/sites/serg/deploys)
+![Security Headers](https://img.shields.io/security-headers?url=https%3A%2F%2Fserg.ewi.tudelft.nl)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fserg.ewi.tudelft.nl)
+
 This repo contains the sources of the Software Engineering Research Group (SERG) website.
 The website is built on top of the popular open-source static site generator [Hugo](https://gohugo.io/) and makes use of the [Wowchemy](https://wowchemy.com/) framework.
 The [Netlify](https://gohugo.io/) service is used to host the website.
