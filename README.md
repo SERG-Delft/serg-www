@@ -4,6 +4,8 @@
 ![Security Headers](https://img.shields.io/security-headers?url=https%3A%2F%2Fserg.ewi.tudelft.nl)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fserg.ewi.tudelft.nl)
 
+> This is a WIP revamp of our existing website
+
 This repo contains the sources of the Software Engineering Research Group (SERG) website.
 The website is built on top of the popular open-source static site generator [Hugo](https://gohugo.io/) and makes use of the [Wowchemy](https://wowchemy.com/) framework.
 The [Netlify](https://gohugo.io/) service is used to host the website.
