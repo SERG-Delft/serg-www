@@ -50,6 +50,6 @@ social:
 # Use one of the following values: Principal Investigators, Researchers, Postdoctoral Researchers, Ph.D. Candidates,
 # Scientific Developers, M.Sc. students, B.Sc. students, External Collaborators, Past members
 user_groups:
-  - Full Professors
+  - Assistant Professors
 
 ---

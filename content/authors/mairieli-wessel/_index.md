@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Burcu Kulahcioglu Ozkan
+title: Mairieli Wessel
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,8 +15,7 @@ bio: Software Engineering Research Group
 
 # List each interest with a dash
 interests:
-  - Software Testing 
-  - Concurrent and Distributed Systems
+  - Something
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,12 +43,11 @@ social:
     link: https://github.com/SERG-Delft
     label: GitHub
 
-
 # Organizational groups that you belong to (for People widget)
 # Set this to `[]` or comment out if you are not using People widget.
 # Use one of the following values: Principal Investigators, Researchers, Postdoctoral Researchers, Ph.D. Candidates,
 # Scientific Developers, M.Sc. students, B.Sc. students, External Collaborators, Past members
 user_groups:
-  - Assistant Professors
+  - Postdoctoral Researchers
 
 ---

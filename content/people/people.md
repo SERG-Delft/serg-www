@@ -19,10 +19,12 @@ content:
     - Full Professors
     - Associate Professors
     - Assistant Professors
-    - Researchers
     - Postdoctoral Researchers
+    - Researchers
     - Ph.D. Candidates
     - Scientific Developers
+    - Guests
+    - Support
     - M.Sc. students
     - B.Sc. students
     - External Collaborators
