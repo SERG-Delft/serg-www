@@ -13,4 +13,4 @@ header:
   image: ""
 ---
 
-CISELab is involved in the following ongoing funded research projects:
+SERG is involved in the following ongoing funded research projects:
