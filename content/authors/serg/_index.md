@@ -27,7 +27,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/SERG-Delft
-    label: GitHub
+    label: Check out our work on GitHub
     display:
       header: true
 ---
