@@ -40,7 +40,7 @@ local_business_type: ""
 org_name: Software Engineering Research Group
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description: Computational Intelligence for Software Engineering Lab
+description: Software Engineering Research Group
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter: ""
