@@ -5,6 +5,8 @@ title: Andy Zaidman
 # Is this the primary user of the site?
 superuser: false
 
+role: Full Professor
+
 # Organizations/Affiliations
 organizations:
   - name: Delft University of Technology

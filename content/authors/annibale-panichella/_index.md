@@ -5,6 +5,8 @@ title: Annibale Panichella
 # Is this the primary user of the site?
 superuser: false
 
+role: Assistant Professor
+
 # Organizations/Affiliations
 organizations:
   - name: Delft University of Technology

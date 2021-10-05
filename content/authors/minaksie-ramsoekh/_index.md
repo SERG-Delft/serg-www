@@ -5,6 +5,8 @@ title: Minaksie Ramsoekh
 # Is this the primary user of the site?
 superuser: false
 
+role: Secretary
+
 # Organizations/Affiliations
 organizations:
   - name: Delft University of Technology

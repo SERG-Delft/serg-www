@@ -5,6 +5,8 @@ title: Amir Mir
 # Is this the primary user of the site?
 superuser: false
 
+role: Ph.D. Candidate
+
 # Organizations/Affiliations
 organizations:
   - name: Delft University of Technology

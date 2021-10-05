@@ -5,6 +5,8 @@ title: Arie van Deursen
 # Is this the primary user of the site?
 superuser: false
 
+role: Group Leader, Head of Department of Software Technology
+
 # Organizations/Affiliations
 organizations:
   - name: Delft University of Technology
@@ -13,10 +15,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Software Engineering Research Group
 
+weight: 1
+
 # List each interest with a dash
 interests:
-- Group Leader
-- head of Department of Software Technology
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

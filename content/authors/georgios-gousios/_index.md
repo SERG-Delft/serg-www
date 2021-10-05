@@ -5,6 +5,8 @@ title: Georgios Gousios
 # Is this the primary user of the site?
 superuser: false
 
+role: Guest
+
 # Organizations/Affiliations
 organizations:
   - name: Delft University of Technology

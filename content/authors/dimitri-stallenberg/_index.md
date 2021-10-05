@@ -5,6 +5,8 @@ title: Dimitri Stallenberg
 # Is this the primary user of the site?
 superuser: false
 
+role: Scientific Developer
+
 # Organizations/Affiliations
 organizations:
   - name: Delft University of Technology
