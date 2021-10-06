@@ -1,0 +1,3 @@
+{{ with  .OutputFormats.Get "calendar" -}}
+<a href="{{ .Permalink | safeURL }}">Add this event to your calendar.</a>
+{{- end }}
