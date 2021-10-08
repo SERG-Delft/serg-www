@@ -15,7 +15,8 @@ organizations:
     url: "https://www.tudelft.nl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Software Engineering Research Group
+bio: >
+  Software Engineering Research Group
 
 # List each interest with a dash
 interests:
@@ -29,24 +30,19 @@ interests:
 social:
   - icon: twitter
     icon_pack: fab
-    link: https://github.com/SERG-Delft
-    label: Twitter
+    link: https://twitter.com/mauricioaniche
   - icon: github
     icon_pack: fab
-    link: https://github.com/SERG-Delft
-    label: GitHub
+    link: https://github.com/mauricioaniche
   - icon: linkedin
     icon_pack: fab
-    link: https://github.com/SERG-Delft
-    label: GitHub
+    link: https://www.linkedin.com/in/mauricioaniche/
   - icon: google-scholar
     icon_pack: ai
-    link: https://github.com/SERG-Delft
-    label: GitHub
-  - icon: link
+    link: https://scholar.google.nl/citations?user=AyX0Ou0AAAAJ&hl
+  - icon: book
     icon_pack: fas
-    link: https://github.com/SERG-Delft
-    label: GitHub
+    link: hhttps://pure.tudelft.nl/portal/en/persons/m-finavaro-aniche(555c2765-502d-4254-82a6-d16ef65db961).html
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

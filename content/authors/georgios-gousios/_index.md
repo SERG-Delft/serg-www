@@ -15,7 +15,8 @@ organizations:
     url: "https://www.tudelft.nl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Software Engineering Research Group
+bio: >
+  Software Engineering Research Group
 
 # List each interest with a dash
 interests:
@@ -29,24 +30,19 @@ interests:
 social:
   - icon: twitter
     icon_pack: fab
-    link: https://github.com/SERG-Delft
-    label: Twitter
+    link: https://twitter.com/gousiosg
   - icon: github
     icon_pack: fab
-    link: https://github.com/SERG-Delft
-    label: GitHub
+    link: https://github.com/gousiosg
   - icon: linkedin
     icon_pack: fab
-    link: https://github.com/SERG-Delft
-    label: GitHub
+    link: https://www.linkedin.com/in/gousiosg
   - icon: google-scholar
     icon_pack: ai
-    link: https://github.com/SERG-Delft
-    label: GitHub
-  - icon: link
+    link: http://scholar.google.gr/citations?hl=el&user=-NI5S50AAAAJ
+  - icon: book
     icon_pack: fas
-    link: https://github.com/SERG-Delft
-    label: GitHub
+    link: https://pure.tudelft.nl/portal/en/persons/g-gousios(f5ab9c4d-5210-48b6-8c39-e6e44361ac0e)/publications.html
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

@@ -15,7 +15,8 @@ organizations:
     url: "https://www.tudelft.nl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Software Engineering Research Group
+bio: >
+  Software Engineering Research Group
 
 # List each interest with a dash
 interests:
@@ -27,27 +28,15 @@ interests:
 # For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 # form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: twitter
-    icon_pack: fab
-    link: https://github.com/SERG-Delft
-    label: Twitter
   - icon: github
     icon_pack: fab
-    link: https://github.com/SERG-Delft
-    label: GitHub
+    link: https://github.com/burcuku
   - icon: linkedin
     icon_pack: fab
-    link: https://github.com/SERG-Delft
-    label: GitHub
+    link: https://www.linkedin.com/in/burcukulahciogluozkan
   - icon: google-scholar
     icon_pack: ai
-    link: https://github.com/SERG-Delft
-    label: GitHub
-  - icon: link
-    icon_pack: fas
-    link: https://github.com/SERG-Delft
-    label: GitHub
-
+    link: https://scholar.google.com.tr/citations?user=HwPJzFMAAAAJ
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

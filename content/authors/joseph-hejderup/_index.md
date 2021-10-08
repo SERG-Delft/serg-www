@@ -15,7 +15,8 @@ organizations:
     url: "https://www.tudelft.nl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Software Engineering Research Group
+bio: >
+  Software Engineering Research Group
 
 # List each interest with a dash
 interests:
@@ -28,24 +29,16 @@ interests:
 social:
   - icon: twitter
     icon_pack: fab
-    link: https://github.com/SERG-Delft
-    label: Twitter
+    link: https://twitter.com/jhejderup
   - icon: github
     icon_pack: fab
-    link: https://github.com/SERG-Delft
-    label: GitHub
+    link: https://github.com/jhejderup
   - icon: linkedin
     icon_pack: fab
-    link: https://github.com/SERG-Delft
-    label: GitHub
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://github.com/SERG-Delft
-    label: GitHub
-  - icon: link
+    link: https://www.linkedin.com/in/josephhejderup
+  - icon: book
     icon_pack: fas
-    link: https://github.com/SERG-Delft
-    label: GitHub
+    link: https://pure.tudelft.nl/portal/en/persons/ji-hejderup(65f98b5d-e9d8-47a0-b720-9a1270f816e0)/publications.html
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

@@ -15,7 +15,8 @@ organizations:
     url: "https://www.tudelft.nl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Software Engineering Research Group
+bio: >
+  Software Engineering Research Group
 
 # List each interest with a dash
 interests:
@@ -30,23 +31,18 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/azaidman
-    label: Twitter
   - icon: github
     icon_pack: fab
     link: https://github.com/azaidman
-    label: GitHub
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/andyzaidman/
-    label: Linkedin
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.nl/citations?user=CDTfcG4AAAAJ
-    label: Google Scholar
   - icon: book
     icon_pack: fas
     link: https://pure.tudelft.nl/portal/en/persons/ae-zaidman(3d1ac38d-7304-44f4-bccb-087b6db66072)/publications.html
-    label: Publications
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

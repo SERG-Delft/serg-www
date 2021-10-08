@@ -15,7 +15,8 @@ organizations:
     url: "https://www.tudelft.nl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Software Engineering Research Group
+bio: >
+  Software Engineering Research Group
 
 # List each interest with a dash
 interests:
@@ -30,27 +31,21 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/CoolSWEng
-    label: Twitter
   - icon: github
     icon_pack: fab
     link: https://github.com/DSpinellis
-    label: GitHub
   - icon: stack-overflow
     icon_pack: fab
     link: https://stackoverflow.com/users/20520/diomidis-spinellis
-    label: StackOverflow
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/dspinellis/
-    label: Linkedin
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=RjXNgA8AAAAJ
-    label: Google Scholar
   - icon: book
     icon_pack: fas
     link: https://research.tudelft.nl/en/persons/d-spinellis/publications/
-    label: Publications
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

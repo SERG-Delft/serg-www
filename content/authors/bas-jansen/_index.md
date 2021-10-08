@@ -15,7 +15,8 @@ organizations:
     url: "https://www.tudelft.nl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Software Engineering Research Group
+bio: >
+  Software Engineering Research Group
 
 # List each interest with a dash
 interests:
@@ -28,24 +29,13 @@ interests:
 social:
   - icon: twitter
     icon_pack: fab
-    link: https://github.com/SERG-Delft
-    label: Twitter
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/SERG-Delft
-    label: GitHub
-  - icon: linkedin
-    icon_pack: fab
-    link: https://github.com/SERG-Delft
-    label: GitHub
+    link: https://twitter.com/heerbommel
   - icon: google-scholar
     icon_pack: ai
-    link: https://github.com/SERG-Delft
-    label: GitHub
-  - icon: link
+    link: https://scholar.google.nl/citations?user=egl5tVQAAAAJ&hl=en
+  - icon: book
     icon_pack: fas
-    link: https://github.com/SERG-Delft
-    label: GitHub
+    link: https://pure.tudelft.nl/portal/en/persons/b-jansen(bfa125a2-c776-4191-bf18-e776dd145ff1)/publications.html
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

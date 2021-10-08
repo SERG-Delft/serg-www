@@ -15,7 +15,8 @@ organizations:
     url: "https://www.tudelft.nl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Software Engineering Research Group
+bio: >
+  Software Engineering Research Group
 
 # List each interest with a dash
 interests:
@@ -29,19 +30,15 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/solingen
-    label: Twitter
   - icon: linkedin
     icon_pack: fab
     link: https://nl.linkedin.com/in/solingen/
-    label: Linkedin
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.nl/citations?user=9LxiPOUAAAAJ
-    label: Google Scholar
   - icon: book
     icon_pack: fas
     link: https://pure.tudelft.nl/portal/en/persons/dm-van-solingen(2669c7b5-81a6-4f70-9d9d-e21ead041426)/publications.html?pageSize=100&page=0
-    label: Publications
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

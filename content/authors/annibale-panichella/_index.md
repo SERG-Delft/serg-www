@@ -15,7 +15,8 @@ organizations:
     url: "https://www.tudelft.nl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Software Engineering Research Group
+bio: >
+  Software Engineering Research Group
 
 # List each interest with a dash
 interests:
@@ -30,24 +31,19 @@ interests:
 social:
   - icon: twitter
     icon_pack: fab
-    link: https://github.com/SERG-Delft
-    label: Twitter
+    link: https://twitter.com/AnniPanic
   - icon: github
     icon_pack: fab
-    link: https://github.com/SERG-Delft
-    label: GitHub
+    link: https://github.com/apanichella
   - icon: linkedin
     icon_pack: fab
-    link: https://github.com/SERG-Delft
-    label: GitHub
+    link: https://www.linkedin.com/in/annibale-panichella-84081186/
   - icon: google-scholar
     icon_pack: ai
-    link: https://github.com/SERG-Delft
-    label: GitHub
-  - icon: link
+    link: https://scholar.google.it/citations?user=xPQ72u4AAAAJ&hl=en
+  - icon: book
     icon_pack: fas
-    link: https://github.com/SERG-Delft
-    label: GitHub
+    link: https://pure.tudelft.nl/portal/en/persons/a-panichella(48ad3f35-3014-4bab-a9e9-4ba228749fdd)/publications.html?pageSize=100&page=0
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
