@@ -20,15 +20,10 @@ content:
     - Associate Professors
     - Assistant Professors
     - Postdoctoral Researchers
-    - Researchers
     - Ph.D. Candidates
     - Scientific Developers
     - Guests
     - Support
-    - M.Sc. students
-    - B.Sc. students
-    - External Collaborators
-    - Past members
 
 design:
   show_interests: true

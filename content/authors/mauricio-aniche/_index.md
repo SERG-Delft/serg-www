@@ -5,7 +5,7 @@ title: Mauricio Aniche
 # Is this the primary user of the site?
 superuser: false
 
-role: Assistant Professor
+role: Assistant Professor (0.2fte)
 
 # Organizations/Affiliations
 organizations:

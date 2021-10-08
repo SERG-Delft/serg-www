@@ -5,7 +5,7 @@ title: Rini van Solingen
 # Is this the primary user of the site?
 superuser: false
 
-role: Full Professor
+role: Full Professor (0.2fte)
 
 # Organizations/Affiliations
 organizations:
