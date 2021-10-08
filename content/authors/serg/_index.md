@@ -5,6 +5,10 @@ title: Software Engineering Research Group
 # Is this the primary user of the site?
 superuser: true
 
+# The start and end year of membership. If the author is an active member, leave member_end empty. Otherwise, fill in.
+member_start: 
+member_end: 
+
 # Organizations/Affiliations
 organizations:
   - name: Delft University of Technology

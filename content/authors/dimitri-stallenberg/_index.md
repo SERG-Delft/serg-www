@@ -5,6 +5,10 @@ title: Dimitri Stallenberg
 # Role/position (e.g., (Assistant/Associate) Professor, PhD Candidate)
 role: Scientific Developer (part-time)
 
+# The start and end year of membership. If the author is an active member, leave member_end empty. Otherwise, fill in.
+member_start: 
+member_end: 
+
 # Organizations/Affiliations
 organizations:
   - name: Delft University of Technology
@@ -48,7 +52,7 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 # Set this to `[]` or comment out if you are not using People widget.
-# Use one of the following values: 
+# For active members, use one of the following values: 
 #    - Associate Professors
 #    - Assistant Professors
 #    - Postdoctoral Researchers
@@ -56,6 +60,8 @@ highlight_name: true
 #    - Scientific Developers
 #    - Guests
 #    - Support
+# For alumni, use the following value:
+#    - Member Alumni
 user_groups:
   - Scientific Developers
 
