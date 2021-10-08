@@ -2,7 +2,7 @@
 # Display name
 title: Arie van Deursen
 
-# Role/position (e.g., (Assistant/Associate) Professor, PhD Candidate)
+# Role/position (e.g., (Assistant/Associate) Professor, Ph.D. Candidate)
 role: Group Leader, Head of Department of Software Technology
 
 # The start and end year of membership. If the author is an active member, leave member_end empty. Otherwise, fill in.

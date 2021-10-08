@@ -2,7 +2,7 @@
 # Display name
 title: Mauricio Aniche
 
-# Role/position (e.g., (Assistant/Associate) Professor, PhD Candidate)
+# Role/position (e.g., (Assistant/Associate) Professor, Ph.D. Candidate)
 role: Assistant Professor (0.2fte)
 
 # The start and end year of membership. If the author is an active member, leave member_end empty. Otherwise, fill in.
@@ -34,7 +34,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/mauricioaniche
-  - icon: linkedin
+  - icon: linkedin-in
     icon_pack: fab
     link: https://www.linkedin.com/in/mauricioaniche/
   - icon: google-scholar
