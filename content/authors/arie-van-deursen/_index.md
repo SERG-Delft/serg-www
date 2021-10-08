@@ -2,9 +2,7 @@
 # Display name
 title: Arie van Deursen
 
-# Is this the primary user of the site?
-superuser: false
-
+# Role/position (e.g., (Assistant/Associate) Professor, PhD Candidate)
 role: Group Leader, Head of Department of Software Technology
 
 # Organizations/Affiliations
@@ -51,10 +49,19 @@ social:
     label: Publications
 
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 # Organizational groups that you belong to (for People widget)
 # Set this to `[]` or comment out if you are not using People widget.
-# Use one of the following values: Principal Investigators, Researchers, Postdoctoral Researchers, Ph.D. Candidates,
-# Scientific Developers, M.Sc. students, B.Sc. students, External Collaborators, Past members
+# Use one of the following values: 
+#    - Associate Professors
+#    - Assistant Professors
+#    - Postdoctoral Researchers
+#    - Ph.D. Candidates
+#    - Scientific Developers
+#    - Guests
+#    - Support
 user_groups:
   - Full Professors
 

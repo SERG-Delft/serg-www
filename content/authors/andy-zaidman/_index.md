@@ -2,9 +2,7 @@
 # Display name
 title: Andy Zaidman
 
-# Is this the primary user of the site?
-superuser: false
-
+# Role/position (e.g., (Assistant/Associate) Professor, PhD Candidate)
 role: Full Professor
 
 # Organizations/Affiliations
@@ -46,10 +44,19 @@ social:
     link: https://pure.tudelft.nl/portal/en/persons/ae-zaidman(3d1ac38d-7304-44f4-bccb-087b6db66072)/publications.html
     label: Publications
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 # Organizational groups that you belong to (for People widget)
 # Set this to `[]` or comment out if you are not using People widget.
-# Use one of the following values: Principal Investigators, Researchers, Postdoctoral Researchers, Ph.D. Candidates,
-# Scientific Developers, M.Sc. students, B.Sc. students, External Collaborators, Past members
+# Use one of the following values: 
+#    - Associate Professors
+#    - Assistant Professors
+#    - Postdoctoral Researchers
+#    - Ph.D. Candidates
+#    - Scientific Developers
+#    - Guests
+#    - Support
 user_groups:
   - Full Professors
 
