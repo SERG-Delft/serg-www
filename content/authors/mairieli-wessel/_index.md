@@ -17,7 +17,7 @@ bio: Software Engineering Research Group
 
 # List each interest with a dash
 interests:
-  - Something
+  - Software Bots
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

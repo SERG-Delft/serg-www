@@ -17,7 +17,9 @@ bio: Software Engineering Research Group
 
 # List each interest with a dash
 interests:
-  - Something
+  - Search-based Software Testing
+  - DevOps
+  - DevOps for Cyber-Physical Systems
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

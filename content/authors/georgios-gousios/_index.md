@@ -5,7 +5,7 @@ title: Georgios Gousios
 # Is this the primary user of the site?
 superuser: false
 
-role: Guest
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -17,7 +17,8 @@ bio: Software Engineering Research Group
 
 # List each interest with a dash
 interests:
-  - Something
+  - Software Analytics
+  - Software Ecosystems
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

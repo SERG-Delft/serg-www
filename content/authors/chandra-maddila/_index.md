@@ -17,7 +17,8 @@ bio: Software Engineering Research Group
 
 # List each interest with a dash
 interests:
-  - Something
+  - AI assisted DevOps
+  - Software Analytics
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
