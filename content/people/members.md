@@ -19,14 +19,11 @@ content:
     - Full Professors
     - Associate Professors
     - Assistant Professors
-    - Researchers
     - Postdoctoral Researchers
     - Ph.D. Candidates
     - Scientific Developers
-    - M.Sc. students
-    - B.Sc. students
-    - External Collaborators
-    - Past members
+    - Guests
+    - Support
 
 design:
   show_interests: true
