@@ -6,8 +6,8 @@ title: Wouter Zorgdrager
 role: Scientific Developer (part-time)
 
 # The start and end year of membership. If the author is an active member, leave member_end empty. Otherwise, fill in.
-member_start: 
-member_end: 
+member_start: 2019
+member_end: 2021
 
 # Organizations/Affiliations
 organizations:
@@ -53,6 +53,6 @@ highlight_name: true
 # For alumni, use the following value:
 #    - Member Alumni
 user_groups:
-  - Scientific Developers
+  - Member Alumni
 
 ---
