@@ -7,7 +7,7 @@ role: Ph.D. Candidate, Assistant Professor
 
 # The start and end year of membership. If the author is an active member, leave member_end empty. Otherwise, fill in.
 member_start: 2009
-member_end: 2008
+member_end: 2018
 
 # Organizations/Affiliations
 organizations:

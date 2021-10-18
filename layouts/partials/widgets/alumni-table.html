@@ -1,0 +1,44 @@
+{{ $ := .root }} 
+{{ $page := .page }} 
+{{ $authors := (where site.Pages "Section" "authors") }} 
+{{ $alumni := where $authors ".Params.user_groups" "intersect" (slice "Member Alumni") }}
+
+<div class="row justify-content-center">
+  <div class="col-md-12 section-heading text-center pb-3">
+    <h1>{{ $page.Title }}</h1>
+  </div>
+
+  <table class="table table-sm">
+    <thead class="bg-tudelft-primary text-white">
+      <tr>
+        <th scope="col">Name</th>
+        <th scope="col">Period</th>
+        <th scope="col">Role</th>
+        <th scope="col">Current Affiliation</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range (sort $alumni ".Params.member_end" "desc") }}
+      <tr>
+        <td scope="row">
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </td>
+        <td>{{ .Params.member_start }} - {{ .Params.member_end }}</td>
+        <td>{{ .Params.role }}</td>
+        <td>
+          {{ range $i, $org := .Params.organizations}} 
+            {{ if $i }} 
+              | 
+            {{ end }}
+            {{ if $org.url }}
+              <a href="{{ $org.url }}" target="_blank">{{ $org.name }}</a>
+            {{ else }} 
+              {{ $org.name }} 
+            {{ end }} 
+          {{ end }}
+        </td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+</div>
