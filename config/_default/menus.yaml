@@ -21,7 +21,7 @@ main:
     url: "#"
     weight: 13
   - name: Members
-    url: "/people"
+    url: "/members"
     weight: 20
   - name: Research Lines
     url: "/research-lines"
