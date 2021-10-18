@@ -13,7 +13,7 @@ member_end: 2020
 organizations:
   - name: University of Tilburg
     url: "https://www.tilburguniversity.edu/"
-  - name: Jheronimus Academy of Data Science
+  - name: JADS
     url: "https://www.jads.nl/"
 
 # Short bio (displayed in user profile at end of posts)
