@@ -1,7 +1,7 @@
 ---
 # An instance of the People widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: people
+widget: members
 
 # This file represents a page section.
 headless: true
@@ -21,12 +21,14 @@ content:
     - Assistant Professors
     - Postdoctoral Researchers
     - Ph.D. Candidates
+    - Lecturers
     - Scientific Developers
     - Guests
     - Support
 
 design:
-  show_interests: true
   show_role: true
+  show_organizations: false
   show_social: true
+  show_interests: true
 ---

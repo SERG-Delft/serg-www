@@ -1,3 +1,9 @@
+@charset "UTF-8";
+
+/*************************************************
+ *  Alumni Table
+ **************************************************/
+
 table {
   overflow-x: auto !important;
   width: auto !important;
@@ -11,5 +17,5 @@ table {
 }
 
 .bg-tudelft-primary {
-  background-color: #00a6d6;
+  background-color: $sta-primary;
 }
