@@ -67,11 +67,12 @@ outputs:
 
 # Permalinks
 permalinks:
-  authors: "/author/:slug/"
-  categories: "/category/:slug/"
-  publication_types: "/publication-type/:slug/"
+  event: "/events/:slug/"
+  post: "/posts/:slug/"
+  project: "/projects/:slug/"
+  publication: "/publications/:slug/"
+  publication_types: "/publication-types/:slug/"
   research_lines: "/research-lines/:slug/"
-  tags: "/tag/:slug/"
 
 # Taxonomy definitions
 taxonomies:

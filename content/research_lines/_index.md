@@ -1,5 +1,6 @@
 ---
 title: Research Lines
+url: research-lines
 
 # View.
 #   1 = List

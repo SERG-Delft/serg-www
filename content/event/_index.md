@@ -1,5 +1,6 @@
 ---
 title: Recent & Upcoming Events
+url: events
 
 # View.
 #   1 = List

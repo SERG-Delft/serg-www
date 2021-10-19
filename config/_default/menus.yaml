@@ -31,11 +31,11 @@ main:
     hasChildren: true
   - parent: Research
     name: Projects
-    url: "/project"
+    url: "/projects"
     weight: 31
   - parent: Research
     name: Publications
-    url: "/publication"
+    url: "/publications"
     weight: 32
   - parent: Research
     name: Tools
@@ -57,7 +57,7 @@ main:
     url: "/thesis-projects/"
     weight: 42
   - name: Events
-    url: "/event"
+    url: "/events"
     weight: 50
   - name: Vacancies
     url: "/vacancies"
