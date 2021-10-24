@@ -18,7 +18,7 @@ authors:
 
 # Responsible authors
 responsible_authors:
-	- Andy Zaidman
+  - Andy Zaidman
 
 # Collaborators of this project
 collaborators:

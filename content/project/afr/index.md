@@ -18,12 +18,12 @@ authors:
 
 # Responsible authors
 responsible_authors:
-	- Arie van Deursen
+  - Arie van Deursen
 
 # Collaborators of this project
 collaborators:
 
 # Funding of this project
 funding:
-	- ING
+  - ING
 ---

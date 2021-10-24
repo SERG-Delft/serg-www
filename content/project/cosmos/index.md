@@ -18,12 +18,12 @@ authors:
 
 # Responsible authors
 responsible_authors:
-	- Annibale Panichella
+  - Annibale Panichella
 
 # Collaborators of this project
 collaborators:
 
 # Funding of this project
 funding:
-	- EU H2020
+  - EU H2020
 ---
