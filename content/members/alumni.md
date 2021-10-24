@@ -1,16 +1,14 @@
 ---
-# An instance of the People widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: people
+# The name of this widget
+widget: alumni-table
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 1
+weight: 2
 
-title: Meet the group
-subtitle:
+title: Alumni
 
 content:
   # Choose which groups/teams of users to display.
@@ -21,12 +19,8 @@ content:
     - Assistant Professors
     - Postdoctoral Researchers
     - Ph.D. Candidates
+    - Lecturers
     - Scientific Developers
     - Guests
     - Support
-
-design:
-  show_interests: true
-  show_role: true
-  show_social: true
 ---
