@@ -3,7 +3,7 @@
 title: "Felienne Hermans"
 
 # Role/position (e.g., (Assistant/Associate/Full) Professor, Postdoctoral Researchers, Ph.D. Candidate)
-role: Ph.D. Candidate, Assistant Professor
+role: Assistant Professor
 
 # The start and end year of being part of this group.
 # If the author is an active member, leave member_end empty. Otherwise, fill in.
