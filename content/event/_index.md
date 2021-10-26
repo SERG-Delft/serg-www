@@ -17,4 +17,9 @@ outputs:
   - HTML
   - RSS  
   - Calendar
+
+cascade:
+  outputs:
+    - HTML
+    - Calendar
 ---
