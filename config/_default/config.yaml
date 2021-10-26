@@ -67,6 +67,7 @@ outputs:
 
 # Permalinks
 permalinks:
+  authors: "/members/:slug/"
   event: "/events/:slug/"
   post: "/posts/:slug/"
   project: "/projects/:slug/"
