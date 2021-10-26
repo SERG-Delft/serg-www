@@ -27,12 +27,12 @@ END:VTIMEZONE
 BEGIN:VEVENT
 {{ with .Params.organizer}}ORGANIZER;CN="{{ .name }}":mailto:{{ .email }}{{ end }}
 SUMMARY:{{.Title}}
-UID:{{dateFormat "20060102T150405" .Params.start}}
+UID:{{dateFormat "20060102T150405" .Params.date}}
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-DTSTART:{{dateFormat "20060102T150405" .Params.start}}
-DTEND:{{dateFormat "20060102T150405" .Params.end}}
+DTSTART:{{dateFormat "20060102T150405" .Params.date}}
+DTEND:{{dateFormat "20060102T150405" .Params.date_end}}
 DTSTAMP:{{dateFormat "20060102T150405" .Date}}
 LOCATION:{{with .Params.location}}{{.}}{{else}}TBD{{end}}
 X-ALT-DESC;FMTTYPE=text/html:{{.Title}}<br>Location: {{with .Params.location}}{{.}}{{else}}TBD{{end}}<br>{{with .Params.link}}{{.}}{{else}}{{.Permalink}}{{end}}
