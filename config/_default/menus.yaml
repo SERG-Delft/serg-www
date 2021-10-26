@@ -26,6 +26,7 @@ main:
   - name: Research Lines
     url: "/research-lines"
     weight: 25
+    # The individual research line entries are added in the front matter of those content pages
   - name: Research
     weight: 30
     hasChildren: true
