@@ -2,6 +2,8 @@
 title: Sustainable Software Engineering
 subtitle: Methods and tools to develop greener and socially sustainable software systems.
 
+layout: single
+
 menu:
   main:
     parent: Research Lines

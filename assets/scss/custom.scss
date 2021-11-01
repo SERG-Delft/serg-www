@@ -19,3 +19,16 @@ table {
 .bg-table-primary {
   background-color: $sta-primary;
 }
+
+.link-card {
+  display: block; 
+  text-decoration: none; 
+  color: black;
+}
+
+.link-card:hover {
+  display: block; 
+  text-decoration: none; 
+  color: black;
+  background-color: #f9f9f9;
+}

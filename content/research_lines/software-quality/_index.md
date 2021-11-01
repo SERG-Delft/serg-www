@@ -1,6 +1,9 @@
 ---
 title: Software Quality
+name: SQ
 subtitle: Help developers in improving the internal and external quality of their software systems.
+
+layout: single
 
 menu:
   main:

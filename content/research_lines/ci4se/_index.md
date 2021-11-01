@@ -1,6 +1,9 @@
 ---
-title: Computational Intelligence for Software Engineering (CISELab)
+title: Computational Intelligence for Software Engineering
+name: CI4SE
 subtitle: How can Computational Intelligence techniques automate software testing and other complex software development tasks?
+
+layout: single
 
 menu:
   main:
@@ -25,10 +28,6 @@ funding:
   - ING
   - Ripple
 ---
-
-_Icon design by Srinivas Agra_
-
-![CISELab logo](ciselab-logo.svg)
 
 The development, maintenance, and testing of large software products involve many activities that are complex, expensive, and error-prone. For example, complex systems (e.g., autonomous cars) are typically built as a composition of features that tend to interact and impact one another’s behavior in unknown ways. Therefore, detecting feature interaction failures with manual testing becomes infeasible and too expensive when the number and the complexity of the features increase.
 

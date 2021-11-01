@@ -1,5 +1,6 @@
 ---
 title: Research Lines
+name: SSE
 url: research-lines
 
 # View.
