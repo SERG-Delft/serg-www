@@ -1,3 +1,5 @@
+{{/* Template for the research line researchers tab */}}
+
 {{ $page := . }}
 {{ $show_social := $page.Params.design.show_social | default true }}
 {{ $show_interests := $page.Params.design.show_interests | default false }}
@@ -10,7 +12,15 @@
 {{ $projects := (where site.Pages "Section" "project") }} 
 {{ $assoc_projects := (where $projects ".Params.research_lines" "intersect" (slice $page.Params.Name)) }}
 
-{{ $non_resp_auth := slice }}
+{{ $non_resp_auth_names := slice }}
+
+{{ range $assoc_projects }}
+  {{ range .Params.authors }}
+    {{ $non_resp_auth_names = $non_resp_auth_names | append . }}
+  {{ end }}
+{{ end }}
+
+{{ $non_resp_auth := (where $authors ".Params.title" "in" $non_resp_auth_names) }}
 
 {{ range (slice "Responsible Researchers" "Researchers" )}}
 
@@ -18,10 +28,12 @@
   <h2 class="mb-4">{{ . }}</h2>
 </div>
 
-{{ $researchers := $resp_auth }}
+{{ $researchers := slice }}
+{{ if (eq . "Responsible Researchers") }}
+  {{ $researchers = $resp_auth }}
+{{ end }}
 {{ if (eq . "Researchers") }}
-  <!-- {{ $non_resp_auth }} -->
-  {{ $researchers := $non_resp_auth }}
+  {{ $researchers = $non_resp_auth }}
 {{ end }}
 
 {{ range $author_page := $researchers }}
