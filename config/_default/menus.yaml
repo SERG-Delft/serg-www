@@ -10,15 +10,15 @@ main:
     hasChildren: true
   - parent: SERG
     name: About SERG
-    url: "#"
+    url: "/about"
     weight: 11
   - parent: SERG
     name: Organization
-    url: "#"
+    url: "/about#organization"
     weight: 12
   - parent: SERG
     name: Statistics
-    url: "#"
+    url: "/about#statistics"
     weight: 13
   - name: Members
     url: "/members"
@@ -54,7 +54,7 @@ main:
     weight: 41
   - parent: Education
     name: Thesis Projects
-    url: "/thesis-projects/"
+    url: "/thesis-projects"
     weight: 42
   - name: Events
     url: "/events"

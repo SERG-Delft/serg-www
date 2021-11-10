@@ -102,7 +102,7 @@ enableGitInfo: true
 footnoteReturnLinkContents: "<sup>^</sup>"
 
 # Default number of elements per page in pagination.
-paginate: 10000
+paginate: 10
 
 # Related content
 related:
