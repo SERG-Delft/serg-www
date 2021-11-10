@@ -10,11 +10,11 @@ project_start: 2016
 project_end: 
 
 # Research lines under which this project belongs
-research_lines: 
+research_lines: []
 
 # List of authors 
 # Generates list on the associated research line
-authors:
+authors: []
 
 # Responsible authors
 responsible_authors:
@@ -22,7 +22,7 @@ responsible_authors:
   - Georgios Gousios
 
 # Collaborators of this project
-collaborators:
+collaborators: []
 
 # Funding of this project
 funding:

@@ -10,18 +10,18 @@ project_start: 2015
 project_end: 2021 # Double check
 
 # Research lines under which this project belongs
-research_lines: 
+research_lines: []
 
 # List of authors 
 # Generates list on the associated research line
-authors:
+authors: []
 
 # Responsible authors
 responsible_authors:
   - Felienne Hermans
 
 # Collaborators of this project
-collaborators:
+collaborators: []
 
 # Funding of this project
 funding:

@@ -15,7 +15,7 @@ research_lines:
 
 # List of authors 
 # Generates list on the associated research line
-authors:
+authors: []
 
 # Responsible authors
 responsible_authors:
@@ -23,7 +23,7 @@ responsible_authors:
   - Maurício Aniche
 
 # Collaborators of this project
-collaborators:
+collaborators: []
 
 # Funding of this project
 funding:

@@ -16,13 +16,14 @@ research_lines:
 # List of authors 
 # Generates list on the associated research line
 authors:
+  - Mitchell Olsthoorn
 
 # Responsible authors
 responsible_authors:
   - Annibale Panichella
 
 # Collaborators of this project
-collaborators:
+collaborators: []
 
 # Funding of this project
 funding:

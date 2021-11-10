@@ -10,18 +10,18 @@ project_start: {{ now.Format "2006" }}
 project_end: 
 
 # Research lines under which this project belongs
-research_lines: 
+research_lines: []
 
 # List of authors 
 # Generates list on the associated research line
-authors:
+authors: []
 
 # Responsible authors
-responsible_authors:
+responsible_authors: []
 
 # Collaborators of this project
-collaborators:
+collaborators: []
 
 # Funding of this project
-funding:
+funding: []
 ---
