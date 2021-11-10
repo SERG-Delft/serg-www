@@ -21,6 +21,18 @@
               <li class="nav-item" role="presentation">
                 <a class="nav-link" id="tools-tab" data-toggle="tab" href="#tools" role="tab" aria-controls="tools" aria-selected="false">Tools</a>
               </li>
+              <li class="nav-item" role="presentation">
+                <a class="nav-link" id="events-tab" data-toggle="tab" href="#events" role="tab" aria-controls="events" aria-selected="false">Events</a>
+              </li>
+              <li class="nav-item" role="presentation">
+                <a class="nav-link" id="publications-tab" data-toggle="tab" href="#publications" role="tab" aria-controls="publications" aria-selected="false">Publications</a>
+              </li>
+              <li class="nav-item" role="presentation">
+                <a class="nav-link" id="thesis-projects-tab" data-toggle="tab" href="#thesis-projects" role="tab" aria-controls="thesis-projects" aria-selected="false">Thesis-projects</a>
+              </li>
+              <li class="nav-item" role="presentation">
+                <a class="nav-link" id="vacancies-tab" data-toggle="tab" href="#vacancies" role="tab" aria-controls="vacancies" aria-selected="false">Vacancies</a>
+              </li>
             </ul>
           </div>
         </div>
@@ -46,7 +58,27 @@
       </div>
       <div class="tab-pane fade" id="tools" role="tabpanel" aria-labelledby="tools-tab">
         <div class="article-style">
-          Tools
+          {{ partial "rl_tools_tab.html" . }}
+        </div>
+      </div>
+      <div class="tab-pane fade" id="events" role="tabpanel" aria-labelledby="events-tab">
+        <div class="article-style">
+          {{ partial "rl_events_tab.html" . }}
+        </div>
+      </div>
+      <div class="tab-pane fade" id="publications" role="tabpanel" aria-labelledby="publications-tab">
+        <div class="article-style">
+          {{ partial "rl_publications_tab.html" . }}
+        </div>
+      </div>
+      <div class="tab-pane fade" id="thesis-projects" role="tabpanel" aria-labelledby="thesis-projects-tab">
+        <div class="article-style">
+          {{ partial "rl_thesis_projects_tab.html" . }}
+        </div>
+      </div>
+      <div class="tab-pane fade" id="vacancies" role="tabpanel" aria-labelledby="vacancies-tab">
+        <div class="article-style">
+          {{ partial "rl_vacancies_tab.html" . }}
         </div>
       </div>
     </div>

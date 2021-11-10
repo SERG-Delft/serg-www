@@ -1,3 +1,5 @@
+{{/* Partial for the research line single page header */}}
+
 {{ $page := . }}
 {{ $featured := (.Resources.ByType "image").GetMatch "*featured*" }}
 {{ $anchor := $page.Params.image.focal_point | default "Smart" }}
