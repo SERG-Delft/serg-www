@@ -3,7 +3,6 @@ title: Software Engineering for Fintech
 name: SE4Fintech
 subtitle: Develop methods, tools, and technologies to radically innovate the software-intensive financial sector.
 
-layout: single
 
 menu:
   main:

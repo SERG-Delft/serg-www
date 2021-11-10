@@ -3,8 +3,6 @@ title: Computational Intelligence for Software Engineering
 name: CI4SE
 subtitle: How can Computational Intelligence techniques automate software testing and other complex software development tasks?
 
-layout: single
-
 menu:
   main:
     parent: Research Lines

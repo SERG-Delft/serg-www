@@ -3,7 +3,6 @@ title: DevOps
 name: DEVOPS
 subtitle: To understand and improve modern CI/CD and DevOps practices.
 
-layout: single
 
 menu:
   main:
