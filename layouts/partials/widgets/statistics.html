@@ -1,0 +1,69 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+<!-- Getting statistics data -->
+{{ $num_projects := (len (where site.RegularPages "Section" "project")) }} 
+{{ $num_publications := (len (where site.RegularPages "Section" "publication")) }} 
+{{ $funding_amount := "TBA" }} 
+{{ $num_tools := (len (where site.RegularPages "Section" "tools")) }} 
+<!-- All members -->
+{{ $authors := (where site.Pages "Section" "authors") }}
+<!-- Active members -->
+{{ $num_members := (sub (len ($authors | complement (where $authors ".Params.member_end" "!=" nil))) 1) }} 
+{{ $num_students := "TBA" }} 
+
+<!-- description, value, icon, icon_pack -->
+{{ $statistics_data := (slice 
+  (dict   "description" "Projects since 2015"   "value" $num_projects       "icon" "project-diagram"  "icon_pack" "fas")
+  (dict   "description" "Publications"          "value" $num_publications   "icon" "file-alt"         "icon_pack" "fas")
+  (dict   "description" "Funding"               "value" $funding_amount     "icon" "euro-sign"        "icon_pack" "fas")
+  (dict   "description" "Tools since 2015"      "value" $num_tools          "icon" "tools"            "icon_pack" "fas")
+  (dict   "description" "Active members"        "value" $num_members        "icon" "users"            "icon_pack" "fas")
+  (dict   "description" "Students since 2015"   "value" $num_students       "icon" "graduation-cap"   "icon_pack" "fas")
+) }}
+
+<div class="row featurette">
+  {{ with $page.Title }}
+  <div class="col-md-12 section-heading">
+    <h1>{{ . | markdownify | emojify }}</h1>
+    {{ if $page.Params.subtitle }}<p>{{ $page.Params.subtitle | markdownify | emojify }}</p>{{ end }}
+  </div>
+  {{ end }}
+
+  {{ with $page.Content }}
+  <div class="col-md-12">
+    {{ . }}
+  </div>
+  {{ end }}
+
+  {{ range $statistics_data }}
+
+  {{ $pack := or .icon_pack "fas" }}
+  {{ $pack_prefix := $pack }}
+  {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+    {{ $pack_prefix = "fa" }}
+  {{ end }}
+  <div class="col-12 col-sm-4">
+    {{ with .icon }}
+    <div class="featurette-icon">
+      {{- if eq $pack "emoji" -}}
+        {{- . | emojify -}}
+      {{- else if eq $pack "custom" -}}
+        {{- $svg_icon := resources.Get (printf "media/icons/%s.svg" .) -}}
+        {{- if $svg_icon -}}<img src="{{ $svg_icon.RelPermalink }}" alt="{{.}}" class="svg-icon svg-baseline">{{- end -}}
+      {{- else -}}
+        <i class="{{ $pack }} {{ $pack_prefix }}-{{ . }}"></i>
+      {{- end -}}
+    </div>
+    {{ end }}
+    <div class="section-subheading">
+      {{ .value | markdownify | emojify }}
+    </div>
+    {{ with .description }}
+    <p>
+      {{ . | markdownify | emojify }}
+    </p>
+    {{ end }}
+  </div>
+  {{ end }}
+</div>
