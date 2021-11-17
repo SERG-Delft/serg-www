@@ -6,26 +6,33 @@
 {{ $show_organizations := $page.Params.design.show_organizations | default false }}
 {{ $show_role := $page.Params.design.show_role | default true }}
 
+<!-- Get responsible authors and additional authors using page front matter -->
 {{ $authors := (where site.Pages "Section" "authors") }}
 {{ $resp_auth := (where $authors ".Params.title" "in" $page.Params.responsible_authors) }}
-
+{{ $additional_auth := (where $authors ".Params.title" "in" $page.Params.additional_authors) }}
+<!-- Get associated projects by matching their front matter research_lines to the directory name -->
 {{ $projects := (where site.Pages "Section" "project") }} 
-{{ $assoc_projects := (where $projects ".Params.research_lines" "intersect" (slice $page.Params.Name)) }}
+{{ $dir := (replaceRE "research_lines/|research_lines\\\\|/|\\\\" "" .Dir) }}
+{{ $assoc_projects := (where $projects ".Params.research_lines" "intersect" (slice $dir)) }}
 
+<!-- Combine all authors from all associated projects -->
 {{ $non_resp_auth_names := slice }}
-
 {{ range $assoc_projects }}
   {{ range .Params.authors }}
     {{ $non_resp_auth_names = $non_resp_auth_names | append . }}
   {{ end }}
 {{ end }}
 
+<!-- Combine authors from associated projects with additional authors -->
 {{ $non_resp_auth := (where $authors ".Params.title" "in" $non_resp_auth_names) }}
+{{ $non_resp_auth = union $non_resp_auth $additional_auth }}
 
 {{ range (slice "Responsible Researchers" "Researchers" )}}
 
 <div>
-  <h2 class="mb-4">{{ . }}</h2>
+  <h2 class="mb-4">
+    {{ . }}
+  </h2>
 </div>
 
 {{ $researchers := slice }}

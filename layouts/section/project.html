@@ -8,8 +8,7 @@
   <div class="article-style">{{ . }}</div>
   {{ end }}
 
-  {{ $paginator := .Paginate .Data.Pages }}
-  {{ $projects := $paginator.Pages }}
+  {{ $projects := .Pages }}
   {{ $current := where $projects ".Params.project_end" "=" nil }}
   {{ $past := where $projects ".Params.project_end" "!=" nil }}
   {{ range $current }}

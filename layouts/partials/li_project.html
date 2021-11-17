@@ -16,7 +16,6 @@
 {{ end }}
 
 <a href="{{ $item.RelPermalink }}" class="card-simple container link-card">
-  <!-- <div class="card-simple container"> -->
     <div class="row">
       <div class="col-2" style="margin: auto 0;">
         {{ with $item.Params.project_end | default "present" }}
@@ -27,22 +26,16 @@
       </div>
       <div class="col border-left">
         <div class="section-subheading article-title mb-0 mt-1">
-          <!-- <a href="{{ $item.RelPermalink }}"> -->
             {{ $item.Params.Name }}
-          <!-- </a> -->
         </div>
         <p class="mb-2 mt-0">
-          <!-- <a class="text-muted" href="{{ $item.RelPermalink }}"> -->
             {{ $item.Title }}
-          <!-- </a> -->
         </p>
       
         {{ with $summary }}
-        <!-- <a href="{{ $item.RelPermalink }}" class="summary-link"> -->
           <div class="article-style">
             <p>{{.}}</p>
           </div>
-        <!-- </a> -->
         {{ end }}
         
         {{ $research_lines := (where site.Pages "Section" "research_lines") }}
@@ -79,19 +72,16 @@
     
       </div>
   
-  
-      {{ $resource := ($item.Resources.ByType "image").GetMatch "*logo*" }}
+        <!-- For now, projects do not need icons -->
+        <!-- {{ $resource := ($item.Resources.ByType "image").GetMatch "*logo*" }}
         {{ $anchor := $item.Params.image.focal_point | default "Smart" }}
         {{ with $resource }}
-        {{ $image := .Fill (printf "608x455 %s" $anchor) }}
+        {{ $image := .Fill (printf "08x455 %s" $anchor) }}
         <div class="col-3 border-left">
-          <!-- <a class="h-100 w-100 d-block" href="{{ $item.RelPermalink }}"> -->
             <div class="img-hover-zoom h-100 w-100 d-block">
               <img src="{{ $image.RelPermalink }}" class="article-banner h-100 w-100" style="object-fit: cover;" alt="{{ $item.Title }}" loading="lazy">
             </div>
-          <!-- </a> -->
         </div>
-        {{end}}
+        {{end}} -->
     </div>
-  <!-- </div> -->
 </a>

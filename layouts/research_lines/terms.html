@@ -1,0 +1,26 @@
+{{- define "main" -}}
+
+<!-- List overview of all research lines -->
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  <p>
+    SERG currently pursues research in the following research lines:
+  </p>
+  {{ with .Content }}
+  <div class="article-style">{{ . }}</div>
+  {{ end }}
+
+  <ul>
+    {{ $paginator := .Paginate .Data.Pages }}
+    {{ range $k, $v := $paginator.Pages }}
+      {{ $name := $v.Title }}
+      <li><a href="{{$v.Permalink}}">{{$name}}</a></li>
+    {{ end }}
+  </ul>
+
+  {{ partial "pagination" . }}
+</div>
+
+{{- end -}}

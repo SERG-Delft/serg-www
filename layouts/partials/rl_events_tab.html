@@ -3,3 +3,7 @@
 {{/* To be added once tools are added */}}
 
 <h2>Events</h2>
+
+{{ $pages := (where .Pages "Section" "events")}}
+
+{{ partial "li_pages.html" $pages }}

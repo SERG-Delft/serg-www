@@ -1,34 +1,29 @@
 {{/* Template for the research line projects tab */}}
 
-{{ $page := . }}
-{{ $show_social := $page.Params.design.show_social | default true }}
-{{ $show_interests := $page.Params.design.show_interests | default false }}
-{{ $show_organizations := $page.Params.design.show_organizations | default false }}
-{{ $show_role := $page.Params.design.show_role | default true }}
+{{ $assoc_projects := (where .Pages "Section" "project")}}
 
-{{ $authors := (where site.Pages "Section" "authors") }}
-{{ $resp_auth := (where $authors ".Params.title" "in" $page.Params.responsible_authors) }}
-
-{{ $projects := (where site.Pages "Section" "project") }} 
-{{ $assoc_projects := (where $projects ".Params.research_lines" "intersect" (slice $page.Params.Name)) }} 
 
 <div class="universal-wrapper">
-  <h2 class="mb-4">
-    Current projects
-  </h2>
-
+  
   {{ $projects := $assoc_projects }}
   {{ $current := where $projects ".Params.project_end" "=" nil }}
   {{ $past := where $projects ".Params.project_end" "!=" nil }}
-  {{ range $current }}
+  {{ with $current }}
+  <h2 class="mb-4">
+    Current projects
+  </h2>
+  {{ range . }}
     {{ partial "li_project" . }}
   {{ end }}
+  {{ end }}
 
+  {{ with $past}}
   <h2 class="mb-3">
     Past projects
   </h2>
-  {{ range $past }}
+  {{ range . }}
     {{ partial "li_project" . }}
+  {{ end }}
   {{ end }}
 
   {{ partial "pagination" . }}
