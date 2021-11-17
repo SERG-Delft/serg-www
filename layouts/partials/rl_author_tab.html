@@ -11,9 +11,7 @@
 {{ $resp_auth := (where $authors ".Params.title" "in" $page.Params.responsible_authors) }}
 {{ $additional_auth := (where $authors ".Params.title" "in" $page.Params.additional_authors) }}
 <!-- Get associated projects by matching their front matter research_lines to the directory name -->
-{{ $projects := (where site.Pages "Section" "project") }} 
-{{ $dir := (replaceRE "research_lines/|research_lines\\\\|/|\\\\" "" .Dir) }}
-{{ $assoc_projects := (where $projects ".Params.research_lines" "intersect" (slice $dir)) }}
+{{ $assoc_projects := (where .Pages "Section" "project")}}
 
 <!-- Combine all authors from all associated projects -->
 {{ $non_resp_auth_names := slice }}
@@ -26,6 +24,9 @@
 <!-- Combine authors from associated projects with additional authors -->
 {{ $non_resp_auth := (where $authors ".Params.title" "in" $non_resp_auth_names) }}
 {{ $non_resp_auth = union $non_resp_auth $additional_auth }}
+<!-- Sort researchers -->
+{{ $resp_auth = sort $resp_auth "Title" }}
+{{ $non_resp_auth = sort $non_resp_auth "Title" }}
 
 {{ range (slice "Responsible Researchers" "Researchers" )}}
 

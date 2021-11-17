@@ -1,6 +1,5 @@
 ---
 title: Sustainable Software Engineering
-name: SSE
 subtitle: Methods and tools to develop greener and socially sustainable software systems.
 
 

@@ -1,6 +1,5 @@
 ---
 title: Software Reliability for Concurrent and Distributed Systems
-name: SR4CDS
 subtitle: Develop methods and tools for increasing reliability of concurrent and distributed systems.
 
 

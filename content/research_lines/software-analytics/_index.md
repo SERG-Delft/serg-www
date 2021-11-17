@@ -1,6 +1,5 @@
 ---
 title: Software Analytics
-name: SA
 subtitle: How can we harness the massive data modern development and deployment processes generate, as well as Big Code, to increase development productivity and operational efficiency?
 
 

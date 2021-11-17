@@ -1,6 +1,5 @@
 ---
 title: Machine Learning for Software Engineering
-name: ML4SE
 subtitle: How can machine learning be used to improve complex software development tasks?
 
 

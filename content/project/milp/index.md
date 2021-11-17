@@ -11,7 +11,7 @@ project_end:
 
 # Research lines under which this project belongs
 research_lines: 
-  - SQ
+  - software-quality
 
 # List of authors 
 # Generates list on the associated research line

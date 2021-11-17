@@ -13,14 +13,12 @@
   {{ end }}
 
   <ul>
-    {{ $paginator := .Paginate .Data.Pages }}
-    {{ range $k, $v := $paginator.Pages }}
+    {{ range $k, $v := .Pages }}
       {{ $name := $v.Title }}
       <li><a href="{{$v.Permalink}}">{{$name}}</a></li>
     {{ end }}
   </ul>
 
-  {{ partial "pagination" . }}
 </div>
 
 {{- end -}}

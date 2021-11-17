@@ -9,7 +9,8 @@
 <!-- All members -->
 {{ $authors := (where site.Pages "Section" "authors") }}
 <!-- Active members -->
-{{ $num_members := (sub (len ($authors | complement (where $authors ".Params.member_end" "!=" nil))) 1) }} 
+{{ $inactive_members := (union (where $authors ".Params.member_end" "!=" nil) (where $authors ".Params.user_groups" "=" nil)) }}
+{{ $num_members := (len ($authors | complement $inactive_members)) }} 
 {{ $num_students := "TBA" }} 
 
 <!-- description, value, icon, icon_pack -->
