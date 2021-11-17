@@ -13,9 +13,11 @@ responsible_authors:
   - Maurício Aniche
   - Diomidis Spinellis
 
-collaborators:
+additional_authors: []
 
-funding:
+collaborators: []
+
+funding: []
 ---
 
 Software quality takes on different forms. There is the internal perspective, or the perspective that software developers experience when working with the software: is the code easy to read, modify, test, etc. There is also the external perspective, or how the users of the software application perceive its dependability.

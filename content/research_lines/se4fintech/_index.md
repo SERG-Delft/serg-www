@@ -12,9 +12,11 @@ responsible_authors:
   - Arie van Deursen
   - Luís Cruz
 
-collaborators:
+additional_authors: []
 
-funding:
+collaborators: []
+
+funding: []
 ---
 
 The financial sector is highly software-intensive. Its correct, reliable, and secure functioning is crucial to society posing high demands on software engineering for the financial sector. At the same time, its software-intensive nature offers unique opportunities for the adoption of disruptive technologies such as crypto-currencies, natural language processing, and scalable online payments.

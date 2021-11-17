@@ -32,7 +32,7 @@ interests:
 # form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: globe
-    icon_pack: fab
+    icon_pack: fas
     link: https://www.mitchellolsthoorn.com/
   - icon: twitter
     icon_pack: fab

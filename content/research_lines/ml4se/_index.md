@@ -13,9 +13,11 @@ responsible_authors:
   - Maurício Aniche
   - Annibale Panichella
 
-collaborators:
+additional_authors: []
 
-funding:
+collaborators: []
+
+funding: []
 ---
 
 In the late years, researchers (and large companies, such as Microsoft, Google, and Facebook!) have been successfully applying artificial intelligence and deep learning techniques in software engineering tasks, such as finding bugs, detecting system anomalies, infering types in dynamic languages, and etc.

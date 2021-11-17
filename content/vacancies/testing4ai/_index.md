@@ -1,6 +1,9 @@
 ---
 title: COSMOS
 
+research_lines:
+  - ci4se
+
 # View.
 #   1 = List
 #   2 = Compact

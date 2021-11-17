@@ -16,7 +16,7 @@ project_end:
 # Research lines under which this project belongs
 # list_to_research_lines: true
 research_lines: 
-  - Computational Intelligence for Software Engineering (CISELab)
+  - ci4se
 
 # List of authors 
 # Generates list on the associated research line

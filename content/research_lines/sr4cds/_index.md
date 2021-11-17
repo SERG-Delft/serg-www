@@ -11,9 +11,11 @@ menu:
 responsible_authors:
   - Burcu Kulahcioglu Ozkan
 
-collaborators:
+additional_authors: []
 
-funding:
+collaborators: []
+
+funding: []
 ---
 
 Today’s software is evolving in the direction of more concurrency (to exploit multiple cores) and decentralization (to exploit networked systems). With the increasing use of mobile devices and cloud services, the applications we use today are deployed to geo-replicated distributed systems, easily accessible from everywhere.

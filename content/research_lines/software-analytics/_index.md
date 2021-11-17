@@ -11,6 +11,8 @@ menu:
 responsible_authors:
   - Diomidis Spinellis
 
+additional_authors: []
+
 collaborators:
   - Facebook Probablity group
   - Software Improvement Group

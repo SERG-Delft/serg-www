@@ -11,9 +11,11 @@ menu:
 responsible_authors:
   - Luís Cruz
 
-collaborators:
+additional_authors: []
 
-funding:
+collaborators: []
+
+funding: []
 ---
 
 Sustainable software engineering can be divided into five major dimensions: Technical, Economical, **Individual**, **Social**, and **Environmental**.

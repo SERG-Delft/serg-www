@@ -10,6 +10,9 @@ menu:
 responsible_authors:
   - Annibale Panichella
 
+additional_authors: 
+  - Martin Pinzger
+
 collaborators:
   - Andrea Arcuri, Kristiania University College, Norvegia
   - Gordon Fraser, University of Passau, Germany
