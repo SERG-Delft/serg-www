@@ -3,7 +3,7 @@ widget: featured
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Featured Projects
+title: Featured projects
 weight: 5
 
 content:
