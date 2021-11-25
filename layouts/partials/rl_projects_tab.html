@@ -1,0 +1,32 @@
+{{/* Template for the research line projects tab */}}
+
+{{ $assoc_projects := (where .Pages "Section" "project")}}
+
+
+<div class="universal-wrapper">
+  
+  {{ $projects := $assoc_projects }}
+  {{ $current := where $projects ".Params.project_end" "=" nil }}
+  {{ $past := where $projects ".Params.project_end" "!=" nil }}
+  {{ with $current }}
+  <h2 class="mb-4">
+    Current projects
+  </h2>
+  {{ range . }}
+    {{ partial "li_project" . }}
+  {{ end }}
+  {{ end }}
+
+  {{ with $past}}
+  <h2 class="mb-3">
+    Past projects
+  </h2>
+  {{ range . }}
+    {{ partial "li_project" . }}
+  {{ end }}
+  {{ end }}
+
+  {{ partial "pagination" . }}
+
+</div>
+

@@ -19,3 +19,26 @@ table {
 .bg-table-primary {
   background-color: $sta-primary;
 }
+
+thead {
+  background-color: $sta-primary;
+  color: white;
+}
+
+.research-line-header {
+  background-color: #f5f5f5;
+}
+
+// card li-element for projects, events, and other card-style content.
+.link-card {
+  display: block; 
+  text-decoration: none; 
+  color: black;
+}
+
+.link-card:hover {
+  display: block; 
+  text-decoration: none; 
+  color: black;
+  background-color: #f9f9f9;
+}

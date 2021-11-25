@@ -1,6 +1,6 @@
 ---
 # Homepage SEO
-title:
+title: 
 summary:
 type: widget_page
 ---

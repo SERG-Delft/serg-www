@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Mauricio Aniche"
+title: "Maurício Aniche"
 
 # Role/position (e.g., (Assistant/Associate/Full) Professor, Postdoctoral Researchers, Ph.D. Candidate)
 role: Assistant Professor (0.2fte)
