@@ -9,8 +9,7 @@ menu:
 responsible_authors:
   - Annibale Panichella
 
-additional_authors: 
-  - Martin Pinzger
+additional_authors: []
 
 collaborators:
   - Andrea Arcuri, Kristiania University College, Norvegia
