@@ -17,8 +17,6 @@ header:
 ---
 
 
-The TU Delft Software Engineering Research Group has the following vacancies:
-
 PhD student & post-doc in Software Testing
 ------------------------------------------
 
