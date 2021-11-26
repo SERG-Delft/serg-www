@@ -3,7 +3,7 @@
 title: "Jan van Katwijk"
 
 # Role/position (e.g., (Assistant/Associate/Full) Professor, Postdoctoral Researchers, Ph.D. Candidate)
-role: Full Professor, Dean
+role: Faculty Dean
 
 # The start and end year of being part of this group.
 # If the author is an active member, leave member_end empty. Otherwise, fill in.

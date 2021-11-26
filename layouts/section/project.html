@@ -1,0 +1,27 @@
+{{- define "main" -}}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+
+  {{ with .Content }}
+  <div class="article-style">{{ . }}</div>
+  {{ end }}
+
+  {{ $projects := .Pages }}
+  {{ $current := where $projects ".Params.project_end" "=" nil }}
+  {{ $past := where $projects ".Params.project_end" "!=" nil }}
+  {{ range $current }}
+    {{ partial "li_project" . }}
+  {{ end }}
+
+  <h2>
+    Past projects
+  </h2>
+  {{ range $past }}
+    {{ partial "li_project" . }}
+  {{ end }}
+
+</div>
+
+{{- end -}}

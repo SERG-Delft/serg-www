@@ -13,6 +13,7 @@ member_end: 2008
 # Organizations/Affiliations
 organizations:
   - name: Xebia
+    url: "https://xebia.com/"
     country: NL
 
 # Short bio (displayed in user profile at end of posts)
