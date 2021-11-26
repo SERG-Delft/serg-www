@@ -1,24 +1,25 @@
 ---
-widget: hero
+widget: blank
 headless: true
 weight: 10
 active: true
 
-title: SERG
+title: Our mission
 subtitle: ""
 
 # Hero image (optional). Enter filename of an image in the assets/media/ folder.
-hero_media: serg-logo.png
+# hero_media: serg-logo.png
 
-# design:
-#   columns: "1"
-  # background:
-  #   image: serg-group-photo.jpg
-  #   image_parallax: false
-  #   image_position: top
-  #   image_size: cover
-  # spacing:
-  #   padding: ["14vw", "0", "14vw", "0"]
+design:
+  columns: "2"
 ---
 
-<!-- SERG is one of the sections of the Department of Software Technology (ST). Together with the Intelligent Systems department INSY, ST is responsible for research and education in computer science and engineering at Delft University of Technology. -->
+The mission of the TU Delft Software Engineering Research Group (SERG) is to:
+
+- Develop a deep understanding of how people build and evolve software systems;
+
+- Develop novel methods, techniques, theories, and tools that advance the way in which software is built and adjusted;
+
+- Ensure that our research results have a lasting impact in software development practice; and
+
+- Offer students an education that prepares them to take a leading role in complex software development projects.
