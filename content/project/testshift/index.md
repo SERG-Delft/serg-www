@@ -15,8 +15,7 @@ project_end:
 
 # Research lines under which this project belongs
 # list_to_research_lines: true
-research_lines: 
-  - ci4se
+research_lines: []
 
 # List of authors 
 # Generates list on the associated research line
@@ -35,3 +34,5 @@ collaborators: []
 funding:
   - NWO Vici
 ---
+
+Content text explaining the details of this project.

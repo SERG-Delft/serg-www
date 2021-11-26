@@ -11,25 +11,39 @@
 
   <div class="article-container">
 
-    {{ .Params.project_start }} - {{ $project_end }}
+    <div class="">
+      Project timeline: 
+      <i>{{ .Params.project_start }} - {{ $project_end }}</i>
+    </div>
 
     <div class="article-style">
-      {{ .Content }}
+
+      <div class="pt-3">
+        {{ .Content }}
+      </div>
+
+      <hr>
 
       <h2>Research lines</h2>
+      <ul>
       {{ range .Params.research_lines }}
-        {{ . }}
+        <li>{{ . }}</li>
       {{ end }}
+      </ul>
 
       <h2>Collaborators</h2>
+      <ul>
       {{ range .Params.collaborators }}
-        {{ . }}
+      <li>{{ . }}</li>
       {{ end }}
+      </ul>
 
       <h2>Funding</h2>
+      <ul>
       {{ range .Params.funding }}
-        {{ . }}
+      <li>{{ . }}</li>
       {{ end }}
+      </ul>
     </div>
 
     <!-- {{ partial "page_footer" . }} -->
