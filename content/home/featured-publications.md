@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Featured publications
-weight: 3
+weight: 40
 
 content:
   # Page type to display. E.g. post, event, or publication.
@@ -19,10 +19,12 @@ content:
     category: ''
     publication_type: ''
 design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '2'
   # Toggle between the various page layout types.
   #   1 = List
-  #   2 = Compact
+  #   2 = Compact  
   #   3 = Card
-  #   4 = Citation (publication only)
+  #   5 = Showcase
   view: 3
 ---
