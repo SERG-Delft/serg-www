@@ -3,12 +3,12 @@ widget: pages
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Recent news
+title: News and media
 weight: 20
 
 content:
   # Page type to display. E.g. post, event, or publication.
-  page_type: news
+  page_type: post
   # Choose how much pages you would like to display (0 = all pages)
   count: 5
   # Choose how many pages you would like to offset by
@@ -18,7 +18,7 @@ content:
   # Optionally filter posts by a taxonomy term.
   filters:
     tag: ''
-    category: ''
+    category: 'news'
     publication_type: ''
     exclude_featured: false
     exclude_past: false
