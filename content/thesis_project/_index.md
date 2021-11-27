@@ -1,5 +1,6 @@
 ---
 title: Thesis projects
+url: thesis-projects
 
 # View.
 #   1 = List

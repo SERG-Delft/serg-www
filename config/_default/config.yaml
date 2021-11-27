@@ -55,9 +55,7 @@ enableRobotsTXT: true
 #mediatypes:
 
 # Output formats
-outputformats:
-  Calendar:
-    protocol: "https://"
+#outputformats:
 
 # Outputs per content type
 outputs:
@@ -74,6 +72,9 @@ permalinks:
   publication: "/publications/:slug/"
   publication_types: "/publication-types/:slug/"
   research_lines: "/research-lines/:slug/"
+  thesis-project: "/thesis-projects/:slug/"
+  tool: "/tools/:slug/"
+  vacancy: "/vacancies/:slug/"
 
 # Taxonomy definitions
 taxonomies:

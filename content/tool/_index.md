@@ -1,5 +1,6 @@
 ---
 title: Software & Tools
+url: tools
 
 # View.
 #   1 = List
