@@ -1,0 +1,30 @@
+{{- define "main" -}}
+
+<article class="article">
+
+  {{ partial "page_header" . }}
+
+  <div class="article-container" style="display:flex;flex-direction:row;">
+    <div class="pr-4 text-muted">
+      <a href="{{ .Params.application_link }}">Application link</a> 
+    </div>
+    <div class="pl-4 pr-4 text-muted">
+      Deadline: {{ .Params.deadline }}
+    </div>
+    <div class="pl-4 pr-4 text-muted">
+      Contact: {{ .Params.contact }}
+    </div>
+  </div>
+
+  <div class="article-container">
+
+    <div class="article-style">
+      {{ .Content }}
+    </div>
+
+    <!-- {{ partial "page_footer" . }} -->
+
+  </div>
+</article>
+
+{{- end -}}
