@@ -12,7 +12,7 @@ view: 2
 
 application_link: https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details/?nPostingId=1495&nPostingTargetId=3308&id=QEZFK026203F3VBQBLO6G68W9&LG=UK&mask=external
 deadline: July 15, 2021
-contact: 
+contacts: 
 - c.c.s.liem@tudelft.nl
 - a.panichella@tudelft.nl
 

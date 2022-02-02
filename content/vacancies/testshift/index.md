@@ -12,7 +12,7 @@ view: 2
 
 application_link: 
 deadline: 
-contact: 
+contacts: 
 - a.e.zaidman@tudelft.nl
 
 # Optional header image (relative to `static/media/` folder).
