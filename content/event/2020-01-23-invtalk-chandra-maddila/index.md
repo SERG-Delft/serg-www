@@ -18,7 +18,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 # publishDate:
 
-authors: [Chandra Maddila, Microsoft Research]
+authors: [Chandra Maddila]
 tags: [events,talks]
 
 # Is this a featured talk? (true/false)

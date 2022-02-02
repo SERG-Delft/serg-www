@@ -18,7 +18,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 # publishDate:
 
-authors: [Reyhaneh Jabbarvand, UC Irvine]
+authors: [Reyhaneh Jabbarvand]
 tags: [events,talks]
 
 # Is this a featured talk? (true/false)

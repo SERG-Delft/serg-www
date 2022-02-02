@@ -18,7 +18,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 # publishDate:
 
-authors: [Earl Barr (UCL)]
+authors: [Earl Barr]
 tags: [events]
 
 # Is this a featured talk? (true/false)

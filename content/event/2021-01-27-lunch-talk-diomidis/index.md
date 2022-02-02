@@ -18,7 +18,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 # publishDate:
 
-authors: [Diomidis Spinellis, Athens University of Economics and Business and Delft University of Techology]
+authors: [Diomidis Spinellis]
 tags: [events,lunch-talks]
 
 # Is this a featured talk? (true/false)

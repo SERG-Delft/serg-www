@@ -18,7 +18,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 # publishDate:
 
-authors: [Carmine Vassallo, University of Zurich]
+authors: [Carmine Vassallo]
 tags: [events,lunch-talks]
 
 # Is this a featured talk? (true/false)

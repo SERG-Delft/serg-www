@@ -18,7 +18,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 # publishDate:
 
-authors: [Thodoris Sotiropoulos, Athens University of Economics and Business]
+authors: [Thodoris Sotiropoulos]
 tags: [events,lunch-talks]
 
 # Is this a featured talk? (true/false)

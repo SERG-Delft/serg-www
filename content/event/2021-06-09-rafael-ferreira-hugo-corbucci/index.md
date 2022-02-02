@@ -18,7 +18,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 # publishDate:
 
-authors: [Rafael Ferreira and Hugo Corbucci]
+authors: [Rafael Ferreira, Hugo Corbucci]
 tags: [events,guest-lecture]
 
 # Is this a featured talk? (true/false)

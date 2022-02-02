@@ -18,7 +18,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 # publishDate:
 
-authors: [Alexandru Iosup, Vrije Universiteit Amsterdam]
+authors: [Alexandru Iosup]
 tags: [events,lunch-talks]
 
 # Is this a featured talk? (true/false)

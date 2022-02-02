@@ -18,7 +18,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 # publishDate:
 
-authors: [Bert Wolters (Adyen)]
+authors: [Bert Wolters]
 tags: [events,guest-lecture]
 
 # Is this a featured talk? (true/false)

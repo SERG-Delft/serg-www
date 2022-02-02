@@ -18,7 +18,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 # publishDate:
 
-authors: [Danilo Sato, ThoughtWorks]
+authors: [Danilo Sato]
 tags: [events,talk]
 
 # Is this a featured talk? (true/false)

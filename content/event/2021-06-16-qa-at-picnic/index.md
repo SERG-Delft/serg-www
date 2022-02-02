@@ -18,7 +18,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 # publishDate:
 
-authors: [Julia Zarachneva, Picnic]
+authors: [Julia Zarachneva]
 tags: [events,guest-lecture]
 
 # Is this a featured talk? (true/false)

@@ -18,7 +18,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 # publishDate:
 
-authors: [SERG]
+authors: []
 tags: [events,reading-club]
 
 # Is this a featured talk? (true/false)

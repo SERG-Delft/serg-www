@@ -18,7 +18,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 # publishDate:
 
-authors: [Andy Zaidman, and Leonhard Applis]
+authors: [Andy Zaidman, Leonhard Applis]
 tags: [events,lunch-talks]
 
 # Is this a featured talk? (true/false)

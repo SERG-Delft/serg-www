@@ -18,7 +18,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 # publishDate:
 
-authors: [Tim van der Lippe, Gijs Weterings, Chak Shun Yu, Chris Langhout, and Eva Anker]
+authors: [Tim van der Lippe, Gijs Weterings, Chak Shun Yu, Chris Langhout, Eva Anker]
 tags: [events,guest-lecture]
 
 # Is this a featured talk? (true/false)

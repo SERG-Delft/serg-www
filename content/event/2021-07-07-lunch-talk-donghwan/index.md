@@ -18,7 +18,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 # publishDate:
 
-authors: [Donghwan Shin, SnT, University of Luxembourg]
+authors: [Donghwan Shin]
 tags: [events,lunch-talks]
 
 # Is this a featured talk? (true/false)
