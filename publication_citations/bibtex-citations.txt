@@ -1,0 +1,3275 @@
+@inproceedings{hermans20152nd,
+  title={2nd international workshop on software engineering methods in spreadsheets (SEMS 2015)},
+  author={Hermans, Felienne and Paige, Richard F and Sestoft, Peter},
+  booktitle={2015 IEEE/ACM 37th IEEE International Conference on Software Engineering},
+  volume={2},
+  pages={1005--1006},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{panichella2015adaptive,
+  title={Adaptive user feedback for ir-based traceability recovery},
+  author={Panichella, Annibale and De Lucia, Andrea and Zaidman, Andy},
+  booktitle={2015 IEEE/ACM 8th International Symposium on Software and Systems Traceability},
+  pages={15--21},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{sawant2015dataset,
+  title={A dataset for API usage},
+  author={Sawant, Anand Ashok and Bacchelli, Alberto},
+  booktitle={2015 IEEE/ACM 12th Working Conference on Mining Software Repositories},
+  pages={506--509},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{aivaloglou2015grammar,
+  title={A grammar for spreadsheet formulas evaluated on two large datasets},
+  author={Aivaloglou, Efthimia and Hoepelman, David and Hermans, Felienne},
+  booktitle={2015 IEEE 15th International Working Conference on Source Code Analysis and Manipulation (SCAM)},
+  pages={121--130},
+  year={2015},
+  organization={IEEE}
+}
+
+@incollection{rigby2015mixed,
+  title={A Mixed Methods Approach to Mining Code Review Data: Examples and a study of multicommit reviews and pull requests},
+  author={Rigby, Peter C and Bacchelli, Alberto and Gousios, Georgios and Mukadam, Murtuza},
+  booktitle={The Art and Science of Analyzing Software Data},
+  pages={231--255},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{romano2015analyzing,
+  title={Analyzing the Change-Proneness of APIs and web APIs},
+  author={Romano, Daniele},
+  year={2015}
+}
+
+@article{bertelkamp2016predictive,
+  title={A predictive multi-linear regression model for organic micropollutants, based on a laboratory-scale column study simulating the river bank filtration process},
+  author={Bertelkamp, Cheryl and Verliefde, ARD and Reynisson, Johannes and Singhal, Naresh and Cabo, AJ and De Jonge, Martin and van der Hoek, Jan Peter},
+  journal={Journal of hazardous materials},
+  volume={304},
+  pages={502--511},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@inproceedings{chen2015single,
+  title={A single-cable PVDF transducer readout IC for intravascular photoacoustic imaging},
+  author={Chen, Chao and Daeichin, Verya and Ding, Qing and van Soest, Gijs and Springeling, Geert and van der Steen, Ton and Pertijs, Michiel and de Jong, Nico},
+  booktitle={2015 IEEE International Ultrasonics Symposium (IUS)},
+  pages={1--4},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{neron2015theory,
+  title={A theory of name resolution},
+  author={N{\'e}ron, Pierre and Tolmach, Andrew and Visser, Eelco and Wachsmuth, Guido},
+  booktitle={European Symposium on Programming Languages and Systems},
+  pages={205--231},
+  year={2015},
+  organization={Springer}
+}
+
+@article{chen2015automated,
+  title={Automated fault localization for service-oriented software systems},
+  author={Chen, Cuiting},
+  year={2015}
+}
+
+@inproceedings{van2015automatically,
+  title={Automatically prioritizing pull requests},
+  author={Van Der Veen, Erik and Gousios, Georgios and Zaidman, Andy},
+  booktitle={2015 IEEE/ACM 12th Working Conference on Mining Software Repositories},
+  pages={357--361},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{ercan2015automatic,
+  title={Automatic assessments of code explanations: Predicting answering times on stack overflow},
+  author={Ercan, Selman and Stokkink, Quinten and Bacchelli, Alberto},
+  booktitle={2015 IEEE/ACM 12th Working Conference on Mining Software Repositories},
+  pages={442--445},
+  year={2015},
+  organization={IEEE}
+}
+
+@article{roy2015business,
+  title={Business rule mining from spreadsheets},
+  author={Roy, Sohon},
+  journal={arXiv preprint arXiv:1503.07737},
+  year={2015}
+}
+
+@article{soetens2016change,
+  title={Change-based test selection: an empirical evaluation},
+  author={Soetens, Quinten David and Demeyer, Serge and Zaidman, Andy and P{\'e}rez, Javier},
+  journal={Empirical software engineering},
+  volume={21},
+  number={5},
+  pages={1990--2032},
+  year={2016},
+  publisher={Springer}
+}
+
+@inproceedings{soetens2015circumventing,
+  title={Circumventing refactoring masking using fine-grained change recording},
+  author={Soetens, Quinten David and P{\'e}rez, Javier and Demeyer, Serge and Zaidman, Andy},
+  booktitle={Proceedings of the 14th International Workshop on Principles of Software Evolution},
+  pages={9--18},
+  year={2015}
+}
+
+@inproceedings{jansen2015code,
+  title={Code smells in spreadsheet formulas revisited on an industrial dataset},
+  author={Jansen, Bas and Hermans, Felienne},
+  booktitle={2015 IEEE International Conference on Software Maintenance and Evolution (ICSME)},
+  pages={372--380},
+  year={2015},
+  organization={IEEE}
+}
+
+@article{passos2016coevolution,
+  title={Coevolution of variability models and related software artifacts},
+  author={Passos, Leonardo and Teixeira, Leopoldo and Dintzner, Nicolas and Apel, Sven and W{\k{a}}sowski, Andrzej and Czarnecki, Krzysztof and Borba, Paulo and Guo, Jianmei},
+  journal={Empirical Software Engineering},
+  volume={21},
+  number={4},
+  pages={1744--1793},
+  year={2016},
+  publisher={Springer}
+}
+
+@article{van2015crawl,
+  title={Crawl-based analysis of web applications: Prospects and challenges},
+  author={Van Deursen, Arie and Mesbah, Ali and Nederlof, Alex},
+  journal={Science of computer programming},
+  volume={97},
+  pages={173--180},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{canfora2015defect,
+  title={Defect prediction as a multiobjective optimization problem},
+  author={Canfora, Gerardo and Lucia, Andrea De and Penta, Massimiliano Di and Oliveto, Rocco and Panichella, Annibale and Panichella, Sebastiano},
+  journal={Software Testing, Verification and Reliability},
+  volume={25},
+  number={4},
+  pages={426--459},
+  year={2015},
+  publisher={Wiley Online Library}
+}
+
+@article{kabbedijk2015defining,
+  title={Defining multi-tenancy: A systematic mapping study on the academic and the industrial perspective},
+  author={Kabbedijk, Jaap and Bezemer, Cor-Paul and Jansen, Slinger and Zaidman, Andy},
+  journal={Journal of Systems and Software},
+  volume={100},
+  pages={139--148},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{hermans2015detecting,
+  title={Detecting and refactoring code smells in spreadsheet formulas},
+  author={Hermans, Felienne and Pinzger, Martin and van Deursen, Arie},
+  journal={Empirical Software Engineering},
+  volume={20},
+  number={2},
+  pages={549--575},
+  year={2015},
+  publisher={Springer}
+}
+
+@inproceedings{hermans2015detecting2,
+  title={Detecting problematic lookup functions in spreadsheets},
+  author={Hermans, Felienne and Aivaloglou, Efthimia and Jansen, Bas},
+  booktitle={2015 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)},
+  pages={153--157},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{vergu2015dynsem,
+  title={DynSem: A DSL for dynamic semantics specification},
+  author={Vergu, Vlad and Neron, Pierre and Visser, Eelco},
+  booktitle={26th International Conference on Rewriting Techniques and Applications (RTA 2015)},
+  year={2015},
+  organization={Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik}
+}
+
+@inproceedings{hermans2015enron,
+  title={Enron's spreadsheets and related emails: A dataset and analysis},
+  author={Hermans, Felienne and Murphy-Hill, Emerson},
+  booktitle={2015 IEEE/ACM 37th IEEE International Conference on Software Engineering},
+  volume={2},
+  pages={7--16},
+  year={2015},
+  organization={IEEE}
+}
+
+@article{jansen2015enron,
+  title={Enron versus euses: A comparison of two spreadsheet corpora},
+  author={Jansen, Bas},
+  journal={arXiv preprint arXiv:1503.04055},
+  year={2015}
+}
+
+@inproceedings{goderie2015eta,
+  title={Eta: Estimated time of answer predicting response time in Stack Overflow},
+  author={Goderie, Jeffrey and Georgsson, Brynjolfur Mar and Van Graafeiland, Bastiaan and Bacchelli, Alberto},
+  booktitle={2015 IEEE/ACM 12th Working Conference on Mining Software Repositories},
+  pages={414--417},
+  year={2015},
+  organization={IEEE}
+}
+
+@article{fang2015evaluating,
+  title={Evaluating vector data type usage in OpenCL kernels},
+  author={Fang, Jianbin and Varbanescu, Ana Lucia and Liao, Xiangke and Sips, Henk},
+  journal={Concurrency and Computation: Practice and Experience},
+  volume={27},
+  number={17},
+  pages={4586--4602},
+  year={2015},
+  publisher={Wiley Online Library}
+}
+
+@inproceedings{beller2015much,
+  title={How (much) do developers test?},
+  author={Beller, Moritz and Gousios, Georgios and Zaidman, Andy},
+  booktitle={2015 IEEE/ACM 37th IEEE International Conference on Software Engineering},
+  volume={2},
+  pages={559--562},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{di2015hypervolume,
+  title={Hypervolume-based search for test case prioritization},
+  author={Di Nucci, Dario and Panichella, Annibale and Zaidman, Andy and De Lucia, Andrea},
+  booktitle={International Symposium on Search Based Software Engineering},
+  pages={157--172},
+  year={2015},
+  organization={Springer}
+}
+
+@inproceedings{cerulo2013hidden,
+  title={A hidden markov model to detect coded information islands in free text},
+  author={Cerulo, Luigi and Ceccarelli, Michele and Di Penta, Massimiliano and Canfora, Gerardo},
+  booktitle={2013 IEEE 13th International Working Conference on Source Code Analysis and Manipulation (SCAM)},
+  pages={157--166},
+  year={2013},
+  organization={IEEE}
+}
+
+@inproceedings{hauff2015matching,
+  title={Matching GitHub developer profiles to job advertisements},
+  author={Hauff, Claudia and Gousios, Georgios},
+  booktitle={2015 IEEE/ACM 12th Working Conference on Mining Software Repositories},
+  pages={362--366},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{ammerlaan2015old,
+  title={Old habits die hard: Why refactoring for understandability does not give immediate benefits},
+  author={Ammerlaan, Erik and Veninga, Wim and Zaidman, Andy},
+  booktitle={2015 IEEE 22nd International Conference on Software Analysis, Evolution, and Reengineering (SANER)},
+  pages={504--507},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{slag2015one,
+  title={One-day flies on stackoverflow-why the vast majority of stackoverflow users only posts once},
+  author={Slag, Rogier and de Waard, Mike and Bacchelli, Alberto},
+  booktitle={2015 IEEE/ACM 12th Working Conference on Mining Software Repositories},
+  pages={458--461},
+  year={2015},
+  organization={IEEE}
+}
+
+@article{raemaekers2015origin,
+  title={Origin, Impact and Cost of Interface Instability},
+  author={Raemaekers, Steven Bernardus Alexander},
+  year={2015}
+}
+
+@inproceedings{huijgens2015pricing,
+  title={Pricing via functional size-a case study of a company's portfolio of 77 outsourced projects},
+  author={Huijgens, Hennie and Gousios, Georgios and Van Deursen, Arie},
+  booktitle={2015 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)},
+  pages={1--10},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{heck2015quality,
+  title={Quality criteria for just-in-time requirements: just enough, just-in-time?},
+  author={Heck, Petra and Zaidman, Andy},
+  booktitle={2015 IEEE Workshop on Just-In-Time Requirements Engineering (JITRE)},
+  pages={1--4},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{duijn2015quality,
+  title={Quality questions need quality code: Classifying code fragments on stack overflow},
+  author={Duijn, Maarten and Kucera, Adam and Bacchelli, Alberto},
+  booktitle={2015 IEEE/ACM 12th Working Conference on Mining Software Repositories},
+  pages={410--413},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{panichella2015reformulating,
+  title={Reformulating branch coverage as a many-objective optimization problem},
+  author={Panichella, Annibale and Kifetew, Fitsum Meshesha and Tonella, Paolo},
+  booktitle={2015 IEEE 8th international conference on software testing, verification and validation (ICST)},
+  pages={1--10},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{panichella2015results,
+  title={Results for EvoSuite--MOSA at the Third Unit Testing Tool Competition},
+  author={Panichella, Annibale and Kifetew, Fitsum Meshesha and Tonella, Paolo},
+  booktitle={2015 IEEE/ACM 8th International Workshop on Search-Based Software Testing},
+  pages={28--31},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{dintzner2015safe,
+  title={Safe evolution patterns for software product lines},
+  author={Dintzner, Nicolas},
+  booktitle={2015 IEEE/ACM 37th IEEE International Conference on Software Engineering},
+  volume={2},
+  pages={875--878},
+  year={2015},
+  organization={IEEE}
+}
+
+@book{de2015scrum,
+  title={Scrum in actie: maak van elk project een succes!},
+  author={de Boer, Petra and Roozemond, Marielle and Wijnands, Willy and Bruggink, Martin and Bruns, Maarten and van de Hoef, Nienke and Peters, Gidion},
+  year={2015},
+  publisher={Business Contact}
+}
+
+@inproceedings{carbone2015security,
+  title={Security threat identification and testing},
+  author={Carbone, Roberto and Compagna, Luca and Panichella, Annibale and Ponta, Serena Elisa},
+  booktitle={2015 IEEE 8th International Conference on Software Testing, Verification and Validation (ICST)},
+  pages={1--8},
+  year={2015},
+  organization={IEEE}
+}
+
+@book{bruggink2015starten,
+  title={Starten met een professionele LeerGemeenschap-PLG-teams in het onderwijs},
+  author={Bruggink, M and Bruns, M},
+  year={2015},
+  publisher={Bazalt Educatieve Uitgaven}
+}
+
+@inproceedings{guzzi2015supporting,
+  title={Supporting developers' coordination in the ide},
+  author={Guzzi, Anja and Bacchelli, Alberto and Riche, Yann and Van Deursen, Arie},
+  booktitle={Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work \& Social Computing},
+  pages={518--532},
+  year={2015}
+}
+
+@article{guzzi2015supporting2,
+  title={Supporting Developers' Teamwork from within the IDE},
+  author={Guzzi, A},
+  year={2015}
+}
+
+@article{van2015testing,
+  title={Testing web applications with state objects},
+  author={Van Deursen, Arie},
+  journal={Communications of the ACM},
+  volume={58},
+  number={8},
+  pages={36--43},
+  year={2015},
+  publisher={ACM New York, NY, USA}
+}
+
+@inproceedings{beller2015last,
+  title={The last line effect},
+  author={Beller, Moritz and Zaidman, Andy and Karpov, Andrey},
+  booktitle={2015 IEEE 23rd International Conference on Program Comprehension},
+  pages={240--243},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{cadariu2015tracking,
+  title={Tracking known security vulnerabilities in proprietary software systems},
+  author={Cadariu, Mircea and Bouwers, Eric and Visser, Joost and van Deursen, Arie},
+  booktitle={2015 IEEE 22nd International Conference on Software Analysis, Evolution, and Reengineering (SANER)},
+  pages={516--519},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{dias2015untangling,
+  title={Untangling fine-grained code changes},
+  author={Dias, Mart{\'\i}n and Bacchelli, Alberto and Gousios, Georgios and Cassou, Damien and Ducasse, St{\'e}phane},
+  booktitle={2015 IEEE 22nd International Conference on Software Analysis, Evolution, and Reengineering (SANER)},
+  pages={341--350},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{espinha2015web,
+  title={Web api fragility: How robust is your mobile application?},
+  author={Espinha, Tiago and Zaidman, Andy and Gross, Hans-Gerhard},
+  booktitle={2015 2nd ACM International Conference on Mobile Software Engineering and Systems},
+  pages={12--21},
+  year={2015},
+  organization={IEEE}
+}
+
+@article{espinha2015web2,
+  title={Web API growing pains: Loosely coupled yet strongly tied},
+  author={Espinha, Tiago and Zaidman, Andy and Gross, Hans-Gerhard},
+  journal={Journal of Systems and Software},
+  volume={100},
+  pages={27--43},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{espinha2015web3,
+  title={Web Service Growing Pains: Understanding Services and Their Clients},
+  author={Espinha, Tiago},
+  year={2015},
+  publisher={Citeseer}
+}
+
+@inproceedings{beller2015and,
+  title={When, how, and why developers (do not) test in their IDEs},
+  author={Beller, Moritz and Gousios, Georgios and Panichella, Annibale and Zaidman, Andy},
+  booktitle={Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering},
+  pages={179--190},
+  year={2015}
+}
+
+@inproceedings{hellendoorn2015will,
+  title={Will they like this? Evaluating code contributions with language models},
+  author={Hellendoorn, Vincent J and Devanbu, Premkumar T and Bacchelli, Alberto},
+  booktitle={2015 IEEE/ACM 12th Working Conference on Mining Software Repositories},
+  pages={157--167},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{gousios2015work,
+  title={Work practices and challenges in pull-based development: The integrator's perspective},
+  author={Gousios, Georgios and Zaidman, Andy and Storey, Margaret-Anne and Van Deursen, Arie},
+  booktitle={2015 IEEE/ACM 37th IEEE International Conference on Software Engineering},
+  volume={1},
+  pages={358--368},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{antwerpen2016constraint,
+  title={A constraint language for static semantic analysis based on scope graphs},
+  author={Antwerpen, Hendrik van and N{\'e}ron, Pierre and Tolmach, Andrew and Visser, Eelco and Wachsmuth, Guido},
+  booktitle={Proceedings of the 2016 ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation},
+  pages={49--60},
+  year={2016}
+}
+
+@article{vlietland2016aligning,
+  title={Aligning codependent Scrum teams to enable fast business value delivery: A governance framework and set of intervention actions},
+  author={Vlietland, Jan and Van Solingen, Rini and Van Vliet, Hans},
+  journal={Journal of Systems and Software},
+  volume={113},
+  pages={418--429},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@inproceedings{beller2016analyzing,
+  title={Analyzing the state of static analysis: A large-scale evaluation in open source software},
+  author={Beller, Moritz and Bholanath, Radjino and McIntosh, Shane and Zaidman, Andy},
+  booktitle={2016 IEEE 23rd International Conference on Software Analysis, Evolution, and Reengineering (SANER)},
+  volume={1},
+  pages={470--481},
+  year={2016},
+  organization={IEEE}
+}
+
+@article{smite2015s,
+  title={What's the true hourly cost of offshoring?},
+  author={Smite, Darja and Van Solingen, Rini},
+  journal={IEEE Software},
+  volume={33},
+  number={5},
+  pages={60--70},
+  year={2015},
+  publisher={IEEE}
+}
+
+@inproceedings{huijgens2016exploratory,
+  title={An exploratory study on functional size measurement based on code},
+  author={Huijgens, Hennie and Bruntink, Magiel and Van Deursen, Arie and Van Der Storm, Tijs and Vogelezang, Frank},
+  booktitle={Proceedings of the international conference on software and systems process},
+  pages={56--65},
+  year={2016}
+}
+
+@inproceedings{huijgens2016exploratory2,
+  title={An exploratory study on the effects of perceived value and stakeholder satisfaction on software projects},
+  author={Huijgens, Hennie and Van Deursen, Arie and Van Solingen, Rini},
+  booktitle={Proceedings of the 20th international conference on evaluation and assessment in software engineering},
+  pages={1--10},
+  year={2016}
+}
+
+@inproceedings{panichella2016search,
+  title={A search-based training algorithm for cost-aware defect prediction},
+  author={Panichella, Annibale and Alexandru, Carol V and Panichella, Sebastiano and Bacchelli, Alberto and Gall, Harald C},
+  booktitle={Proceedings of the Genetic and Evolutionary Computation Conference 2016},
+  pages={1077--1084},
+  year={2016}
+}
+
+@inproceedings{di2016security,
+  title={A security perspective on code review: The case of chromium},
+  author={di Biase, Marco and Bruntink, Magiel and Bacchelli, Alberto},
+  booktitle={2016 IEEE 16th International Working Conference on Source Code Analysis and Manipulation (SCAM)},
+  pages={21--30},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{palomba2016textual,
+  title={A textual-based technique for smell detection},
+  author={Palomba, Fabio and Panichella, Annibale and De Lucia, Andrea and Oliveto, Rocco and Zaidman, Andy},
+  booktitle={2016 IEEE 24th international conference on program comprehension (ICPC)},
+  pages={1--10},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{palomba2016automatic,
+  title={Automatic test case generation: What if test code quality matters?},
+  author={Palomba, Fabio and Panichella, Annibale and Zaidman, Andy and Oliveto, Rocco and De Lucia, Andrea},
+  booktitle={Proceedings of the 25th International Symposium on Software Testing and Analysis},
+  pages={130--141},
+  year={2016}
+}
+
+@inproceedings{aniche2016validated,
+  title={A validated set of smells in model-view-controller architectures},
+  author={Aniche, Maur{\'\i}cio and Bavota, Gabriele and Treude, Christoph and Van Deursen, Arie and Gerosa, Marco Aur{\'e}lio},
+  booktitle={2016 IEEE International Conference on Software Maintenance and Evolution (ICSME)},
+  pages={233--243},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{vassallo2016continuous,
+  title={Continuous delivery practices in a large financial organization},
+  author={Vassallo, Carmine and Zampetti, Fiorella and Romano, Daniele and Beller, Moritz and Panichella, Annibale and Di Penta, Massimiliano and Zaidman, Andy},
+  booktitle={2016 IEEE International Conference on Software Maintenance and Evolution (ICSME)},
+  pages={519--528},
+  year={2016},
+  organization={IEEE}
+}
+
+@article{van2016delft,
+  title={Delft Students on Software Architecture: DESOSA 2016},
+  author={van Deursen, Arie and Aniche, Maur{\'\i}cio and Au{\'e}, Joop},
+  journal={Delft University of Technology},
+  year={2016}
+}
+
+@inproceedings{hermans2016code,
+  title={Do code smells hamper novice programming? A controlled experiment on Scratch programs},
+  author={Hermans, Felienne and Aivaloglou, Efthimia},
+  booktitle={2016 IEEE 24th International Conference on Program Comprehension (ICPC)},
+  pages={1--10},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{huijgens2016estimators,
+  title={Do estimators learn? On the effect of a positively skewed distribution of effort data on software portfolio productivity},
+  author={Huijgens, Hennie and Vogelezang, Frank},
+  booktitle={Proceedings of the 7th International Workshop on Emerging Trends in Software Metrics},
+  pages={8--14},
+  year={2016}
+}
+
+@inproceedings{roy2016evaluating,
+  title={Evaluating automatic spreadsheet metadata extraction on a large set of responses from mooc participants},
+  author={Roy, Sohon and Hermans, Felienne and Aivaloglou, Efthimia and Winter, Jos and van Deursen, Arie},
+  booktitle={2016 IEEE 23rd International Conference on Software Analysis, Evolution, and Reengineering (SANER)},
+  volume={1},
+  pages={135--145},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{huijgens2016evidence,
+  title={Evidence-based software portfolio management: a tool description and evaluation},
+  author={Huijgens, Hennie},
+  booktitle={Proceedings of the 20th International Conference on Evaluation and Assessment in Software Engineering},
+  pages={1--5},
+  year={2016}
+}
+
+@inproceedings{soltani2016evolutionary,
+  title={Evolutionary testing for crash reproduction},
+  author={Soltani, Mozhan and Panichella, Annibale and Van Deursen, Arie},
+  booktitle={Proceedings of the 9th International Workshop on Search-Based Software Testing},
+  pages={1--4},
+  year={2016}
+}
+
+@inproceedings{rothberg2016feature,
+  title={Feature models in linux: From symbols to semantics},
+  author={Rothberg, Valentin and Dintzner, Nicolas and Ziegler, Andreas and Lohmann, Daniel},
+  booktitle={Proceedings of the Tenth International Workshop on Variability Modelling of Software-intensive Systems},
+  pages={65--72},
+  year={2016}
+}
+
+@inproceedings{dintzner2016fever,
+  title={FEVER: Extracting feature-oriented changes from commits},
+  author={Dintzner, Nicolas and Van Deursen, Arie and Pinzger, Martin},
+  booktitle={Proceedings of the 13th International Conference on Mining Software Repositories},
+  pages={85--96},
+  year={2016}
+}
+
+@inproceedings{miller2016gradual,
+  title={Gradual structuring: Evolving the spreadsheet paradigm for expressiveness and learnability},
+  author={Miller, Gary and Hermans, Felienne and Braun, Robin},
+  booktitle={2016 15th International Conference on Information Technology Based Higher Education and Training (ITHET)},
+  pages={1--8},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{miller2016gradual2,
+  title={Gradual structuring in the spreadsheet paradigm},
+  author={Miller, Gary and Hermans, Felienne},
+  booktitle={2016 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)},
+  pages={240--241},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{aivaloglou2016kids,
+  title={How kids code and how we know: An exploratory study on the Scratch repository},
+  author={Aivaloglou, Efthimia and Hermans, Felienne},
+  booktitle={Proceedings of the 2016 ACM Conference on International Computing Education Research},
+  pages={53--61},
+  year={2016}
+}
+
+@inproceedings{beller2016catch,
+  title={How to catch'em all: WatchDog, a family of IDE plug-ins to assess testing},
+  author={Beller, Moritz and Levaja, Igor and Panichella, Annibale and Gousios, Georgios and Zaidman, Andy},
+  booktitle={2016 IEEE/ACM 3rd International Workshop on Software Engineering Research and Industrial Practice (SER\&IP)},
+  pages={53--56},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{swidan2016improving,
+  title={Improving the performance of a large scale spreadsheet: a case study},
+  author={Swidan, Alaaeddin and Hermans, Felienne and Koesoemowidjojo, Ruben},
+  booktitle={2016 IEEE 23rd International Conference on Software Analysis, Evolution, and Reengineering (SANER)},
+  volume={1},
+  pages={673--677},
+  year={2016},
+  organization={IEEE}
+}
+
+@article{hermans2016future,
+  title={In the future, everyone will be a programmer for 15 minutes},
+  author={Hermans, Felienne},
+  journal={IEEE Software},
+  number={Martch/April},
+  pages={99--100},
+  year={2016},
+  publisher={IEEE}
+}
+
+@article{hermans2016leaders,
+  title={Leaders of tomorrow on the future of software engineering: A roundtable},
+  author={Hermans, Felienne and Siegmund, Janet and Fritz, Thomas and Bavota, Gabriele and Nagappan, Meiyappan and Hindle, Abram and Kamei, Yasutaka and Mesbah, Ali and Adams, Bram},
+  journal={IEEE Software},
+  volume={33},
+  number={2},
+  pages={99--104},
+  year={2016},
+  publisher={IEEE}
+}
+
+@inproceedings{sawant2016reaction,
+  title={On the reaction to deprecation of 25,357 clients of 4+ 1 popular Java APIs},
+  author={Sawant, Anand Ashok and Robbes, Romain and Bacchelli, Alberto},
+  booktitle={2016 IEEE International Conference on Software Maintenance and Evolution (ICSME)},
+  pages={400--410},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{ray2016naturalness,
+  title={On the" naturalness" of buggy code},
+  author={Ray, Baishakhi and Hellendoorn, Vincent and Godhane, Saheel and Tu, Zhaopeng and Bacchelli, Alberto and Devanbu, Premkumar},
+  booktitle={2016 IEEE/ACM 38th International Conference on Software Engineering (ICSE)},
+  pages={428--439},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{panichella2016parameterizing,
+  title={Parameterizing and assembling ir-based solutions for se tasks using genetic algorithms},
+  author={Panichella, Annibale and Dit, Bogdan and Oliveto, Rocco and Di Penta, Massimiliano and Poshyvanyk, Denys and De Lucia, Andrea},
+  booktitle={2016 IEEE 23rd international conference on software analysis, evolution, and reengineering (SANER)},
+  volume={1},
+  pages={314--325},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{jansen2016polaris,
+  title={Polaris: Providing context aware navigation in spreadsheets},
+  author={Jansen, Bas},
+  booktitle={2016 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)},
+  pages={228--229},
+  year={2016},
+  organization={IEEE}
+}
+
+@article{heck2016quality,
+  title={Quality of Just-in-Time Requirements: Just-Enough and Just-in-Time},
+  author={Heck, PM},
+  year={2016}
+}
+
+@inproceedings{aniche2016satt,
+  title={SATT: Tailoring code metric thresholds for different software architectures},
+  author={Aniche, Maur{\'\i}cio and Treude, Christoph and Zaidman, Andy and Van Deursen, Arie and Gerosa, Marco Aur{\'e}lio},
+  booktitle={2016 IEEE 16th international working conference on source code analysis and manipulation (SCAM)},
+  pages={41--50},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{hermans2016smells,
+  title={Smells in block-based programming languages},
+  author={Hermans, Felienne and Stolee, Kathryn T and Hoepelman, David},
+  booktitle={2016 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)},
+  pages={68--72},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{aue2016social,
+  title={Social diversity and growth levels of open source software projects on GitHub},
+  author={Au{\'e}, Joop and Haisma, Michiel and T{\'o}masd{\'o}ttir, Krist{\'\i}n Fj{\'o}la and Bacchelli, Alberto},
+  booktitle={Proceedings of the 10th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement},
+  pages={1--6},
+  year={2016}
+}
+
+@inproceedings{hermans2016spreadsheets,
+  title={Spreadsheets are code: An overview of software engineering approaches applied to spreadsheets},
+  author={Hermans, Felienne and Jansen, Bas and Roy, Sohon and Aivaloglou, Efthimia and Swidan, Alaaeddin and Hoepelman, David},
+  booktitle={2016 IEEE 23rd International Conference on Software Analysis, Evolution, and Reengineering (SANER)},
+  volume={5},
+  pages={56--65},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{huijgens2016success,
+  title={Success factors in managing legacy system evolution: A case study},
+  author={Huijgens, Hennie and Van Deursen, Arie and Van Solingen, Rini},
+  booktitle={2016 IEEE/ACM International Conference on Software and System Processes (ICSSP)},
+  pages={96--105},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{panichella2016impact,
+  title={The impact of test case summaries on bug fixing performance: An empirical investigation},
+  author={Panichella, Sebastiano and Panichella, Annibale and Beller, Moritz and Zaidman, Andy and Gall, Harald C},
+  booktitle={Proceedings of the 38th International Conference on Software Engineering},
+  pages={547--558},
+  year={2016}
+}
+
+@inproceedings{mitropoulos2014vulnerability,
+  title={The Vulnerability Dataset of a Large Software Ecosystem},
+  author={Mitropoulos, Dimitris and Gousios, Georgios and Papadopoulos, Panagiotis and Karakoidas, Vassilios and Louridas, Panagiotis and Spinellis, Diomidis},
+  booktitle={2014 Third International Workshop on Building Analysis Datasets and Gathering Experience Returns for Security (BADGERS)},
+  pages={69--74},
+  year={2014},
+  organization={IEEE}
+}
+
+@inproceedings{hermans2016truegrid,
+  title={TrueGrid: Code the table, tabulate the data},
+  author={Hermans, Felienne and van der Storm, Tijs},
+  booktitle={Federation of International Conferences on Software Technologies: Applications and Foundations},
+  pages={388--393},
+  year={2016},
+  organization={Springer}
+}
+
+@inproceedings{oosterwaal2016visualizing,
+  title={Visualizing code and coverage changes for code review},
+  author={Oosterwaal, Sebastiaan and Deursen, Arie van and Coelho, Roberta and Sawant, Anand Ashok and Bacchelli, Alberto},
+  booktitle={Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering},
+  pages={1038--1041},
+  year={2016}
+}
+
+@inproceedings{gousios2016work,
+  title={Work practices and challenges in pull-based development: the contributor's perspective},
+  author={Gousios, Georgios and Storey, Margaret-Anne and Bacchelli, Alberto},
+  booktitle={2016 IEEE/ACM 38th International Conference on Software Engineering (ICSE)},
+  pages={285--296},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{van2017collaborative,
+  title={A collaborative approach to teaching software architecture},
+  author={Van Deursen, Arie and Aniche, Maur{\'\i}cio and Au{\'e}, Joop and Slag, Rogier and De Jong, Michael and Nederlof, Alex and Bouwers, Eric},
+  booktitle={Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education},
+  pages={591--596},
+  year={2017}
+}
+
+@inproceedings{aivaloglou2017dataset,
+  title={A dataset of scratch programs: scraped, shaped and scored},
+  author={Aivaloglou, Efthimia and Hermans, Felienne and Moreno-Le{\'o}n, Jes{\'u}s and Robles, Gregorio},
+  booktitle={2017 IEEE/ACM 14th International Conference on Mining Software Repositories (MSR)},
+  pages={511--514},
+  year={2017},
+  organization={IEEE}
+}
+
+@article{heck2017framework,
+  title={A framework for quality assessment of just-in-time requirements: the case of open source feature requests},
+  author={Heck, Petra and Zaidman, Andy},
+  journal={Requirements Engineering},
+  volume={22},
+  number={4},
+  pages={453--473},
+  year={2017},
+  publisher={Springer}
+}
+
+@inproceedings{soltani2017guided,
+  title={A guided genetic algorithm for automated crash reproduction},
+  author={Soltani, Mozhan and Panichella, Annibale and Van Deursen, Arie},
+  booktitle={2017 IEEE/ACM 39th International Conference on Software Engineering (ICSE)},
+  pages={209--220},
+  year={2017},
+  organization={IEEE}
+}
+
+@article{dintzner2017analysing,
+  title={Analysing the Linux kernel feature model changes using FMDiff},
+  author={Dintzner, Nicolas and van Deursen, Arie and Pinzger, Martin},
+  journal={Software \& Systems Modeling},
+  volume={16},
+  number={1},
+  pages={55--76},
+  year={2017},
+  publisher={Springer}
+}
+
+@article{chen2017analysis,
+  title={Analysis of service diagnosis improvement through increased monitoring granularity},
+  author={Chen, Cuiting and Gross, Hans-Gerhard and Zaidman, Andy},
+  journal={Software Quality Journal},
+  volume={25},
+  number={2},
+  pages={437--471},
+  year={2017},
+  publisher={Springer}
+}
+
+@inproceedings{georgiou2017analyzing,
+  title={Analyzing Programming Languages' Energy Consumption: An Empirical Study},
+  author={Georgiou, Stefanos and Kechagia, Maria and Spinellis, Diomidis},
+  booktitle={Proceedings of the 21st Pan-Hellenic Conference on Informatics},
+  pages={1--6},
+  year={2017}
+}
+
+@inproceedings{wieman2017experience,
+  title={An experience report on applying passive learning in a large-scale payment company},
+  author={Wieman, Rick and Aniche, Maur{\'\i}cio Finavaro and Lobbezoo, Willem and Verwer, Sicco and Van Deursen, Arie},
+  booktitle={2017 IEEE International Conference on Software Maintenance and Evolution (ICSME)},
+  pages={564--573},
+  year={2017},
+  organization={IEEE}
+}
+
+@inproceedings{palomba2017exploratory,
+  title={An exploratory study on the relationship between changes and refactoring},
+  author={Palomba, Fabio and Zaidman, Andy and Oliveto, Rocco and De Lucia, Andrea},
+  booktitle={2017 IEEE/ACM 25th International Conference on Program Comprehension (ICPC)},
+  pages={176--185},
+  year={2017},
+  organization={IEEE}
+}
+
+@inproceedings{vassallo2017tale,
+  title={A tale of CI build failures: An open source and a financial organization perspective},
+  author={Vassallo, Carmine and Schermann, Gerald and Zampetti, Fiorella and Romano, Daniele and Leitner, Philipp and Zaidman, Andy and Di Penta, Massimiliano and Panichella, Sebastiano},
+  booktitle={2017 IEEE international conference on software maintenance and evolution (ICSME)},
+  pages={183--193},
+  year={2017},
+  organization={IEEE}
+}
+
+@inproceedings{pascarella2017classifying,
+  title={Classifying code comments in Java open-source software systems},
+  author={Pascarella, Luca and Bacchelli, Alberto},
+  booktitle={2017 IEEE/ACM 14th International Conference on Mining Software Repositories (MSR)},
+  pages={227--237},
+  year={2017},
+  organization={IEEE}
+}
+
+@inproceedings{hermans2017code,
+  title={Code as Art-Art as Code: On the Use of Poetry and Paintings in Programming Education.},
+  author={Hermans, Felienne},
+  booktitle={PPIG},
+  pages={2},
+  year={2017}
+}
+
+@inproceedings{catolino2017developer,
+  title={Developer-related factors in change prediction: an empirical assessment},
+  author={Catolino, Gemma and Palomba, Fabio and De Lucia, Andrea and Ferrucci, Filomena and Zaidman, Andy},
+  booktitle={2017 IEEE/ACM 25th International Conference on Program Comprehension (ICPC)},
+  pages={186--195},
+  year={2017},
+  organization={IEEE}
+}
+
+@article{seeber2017does,
+  title={Does single blind peer review hinder newcomers?},
+  author={Seeber, Marco and Bacchelli, Alberto},
+  journal={Scientometrics},
+  volume={113},
+  number={1},
+  pages={567--585},
+  year={2017},
+  publisher={Springer}
+}
+
+@inproceedings{bacchelli2017double,
+  title={Double-blind review in software engineering venues: the community's perspective},
+  author={Bacchelli, Alberto and Beller, Moritz},
+  booktitle={2017 IEEE/ACM 39th International Conference on Software Engineering Companion (ICSE-C)},
+  pages={385--396},
+  year={2017},
+  organization={IEEE}
+}
+
+@inproceedings{huijgens2017effort,
+  title={Effort and cost in software engineering: A comparison of two industrial data sets},
+  author={Huijgens, Hennie and Van Deursen, Arie and Minku, Leandro L and Lokan, Chris},
+  booktitle={Proceedings of the 21st International Conference on Evaluation and Assessment in Software Engineering},
+  pages={51--60},
+  year={2017}
+}
+
+@article{huijgens2017evidence,
+  title={Evidence-Based Software Portfolio Management (EBSPM) Research Repository},
+  author={Huijgens, Hennie},
+  year={2017}
+}
+
+@article{de2017exception,
+  title={Exception handling bug hazards in Android: Results from a mining study and an exploratory survey},
+  author={De Souza Coelho, R and Almeida, Lucas and Gousios, Georgios and van Deursen, Arie and Treude, Christoph},
+  journal={Empirical Software Engineering},
+  volume={22},
+  number={3},
+  year={2017}
+}
+
+@article{dintzner2017feature,
+  title={Feature-Oriented Evolution of Variant-rich software systems},
+  author={Dintzner, Nicolas},
+  year={2017}
+}
+
+@article{sawant2017fine,
+  title={fine-GRAPE: fine-grained APi usage extractor--an approach and dataset to investigate API usage},
+  author={Sawant, Anand Ashok and Bacchelli, Alberto},
+  journal={Empirical Software Engineering},
+  volume={22},
+  number={3},
+  pages={1348--1371},
+  year={2017},
+  publisher={Springer}
+}
+
+@inproceedings{swidan2017scratch,
+  title={How do scratch programmers name variables and procedures?},
+  author={Swidan, Alaaeddin and Serebrenik, Alexander and Hermans, Felienne},
+  booktitle={2017 IEEE 17th International Working Conference on Source Code Analysis and Manipulation (SCAM)},
+  pages={51--60},
+  year={2017},
+  organization={IEEE}
+}
+
+@inproceedings{palomba2017lightweight,
+  title={Lightweight detection of android-specific code smells: The adoctor project},
+  author={Palomba, Fabio and Di Nucci, Dario and Panichella, Annibale and Zaidman, Andy and De Lucia, Andrea},
+  booktitle={2017 IEEE 24th international conference on software analysis, evolution and reengineering (SANER)},
+  pages={487--491},
+  year={2017},
+  organization={IEEE}
+}
+
+@inproceedings{bacchelli2017message,
+  title={Message from the Tool Demonstrations Track Co-Chairs},
+  author={Bacchelli, Alberto and Hill, Emily},
+  booktitle={ICSME 2016: 32nd IEEE International Conference on Software Maintenance and Evolution},
+  pages={xviii},
+  year={2017},
+  organization={IEEE}
+}
+
+@inproceedings{juchli2017mining,
+  title={Mining motivated trends of usage of Haskell libraries},
+  author={Juchli, Mark and Krombeen, Lars and Rao, Shashank and Yu, Chak Shun and Sawant, Anand Ashok and Bacchelli, Alberto},
+  booktitle={2017 IEEE/ACM 1st International Workshop on API Usage and Evolution (WAPI)},
+  pages={11--14},
+  year={2017},
+  organization={IEEE}
+}
+
+@inproceedings{gousios2017mining,
+  title={Mining software engineering data from GitHub},
+  author={Gousios, Georgios and Spinellis, Diomidis},
+  booktitle={2017 IEEE/ACM 39th International Conference on Software Engineering Companion (ICSE-C)},
+  pages={501--502},
+  year={2017},
+  organization={IEEE}
+}
+
+@inproceedings{hilton2017naming,
+  title={Naming Guidelines for Professional Programmers.},
+  author={Hilton, Peter and Hermans, Felienne},
+  booktitle={PPIG},
+  pages={19},
+  year={2017}
+}
+
+@article{palomba2018diffuseness,
+  title={On the diffuseness and the impact on maintainability of code smells: a large scale empirical investigation},
+  author={Palomba, Fabio and Bavota, Gabriele and Di Penta, Massimiliano and Fasano, Fausto and Oliveto, Rocco and De Lucia, Andrea},
+  journal={Empirical Software Engineering},
+  volume={23},
+  number={3},
+  pages={1188--1221},
+  year={2018},
+  publisher={Springer}
+}
+
+@article{sawant2018reaction,
+  title={On the reaction to deprecation of clients of 4+ 1 popular Java APIs and the JDK},
+  author={Sawant, Anand Ashok and Robbes, Romain and Bacchelli, Alberto},
+  journal={Empirical Software Engineering},
+  volume={23},
+  number={4},
+  pages={2158--2197},
+  year={2018},
+  publisher={Springer}
+}
+
+@inproceedings{beller2017oops,
+  title={Oops, my tests broke the build: An explorative analysis of travis ci with github},
+  author={Beller, Moritz and Gousios, Georgios and Zaidman, Andy},
+  booktitle={2017 IEEE/ACM 14th International Conference on Mining Software Repositories (MSR)},
+  pages={356--367},
+  year={2017},
+  organization={IEEE}
+}
+
+@article{aivaloglou2017parsing,
+  title={Parsing excel formulas: A grammar and its application on 4 large datasets},
+  author={Aivaloglou, Efthimia and Hoepelman, David and Hermans, Felienne},
+  journal={Journal of Software: Evolution and Process},
+  volume={29},
+  number={12},
+  pages={e1895},
+  year={2017},
+  publisher={Wiley Online Library}
+}
+
+@article{hermans2017peter,
+  title={Peter Hilton on Naming},
+  author={Hermans, Felienne},
+  journal={IEEE Software},
+  volume={34},
+  number={3},
+  pages={117--120},
+  year={2017},
+  publisher={IEEE}
+}
+
+@inproceedings{di2017petra,
+  title={Petra: a software-based tool for estimating the energy profile of android applications},
+  author={Di Nucci, Dario and Palomba, Fabio and Prota, Antonio and Panichella, Annibale and Zaidman, Andy and De Lucia, Andrea},
+  booktitle={2017 IEEE/ACM 39th International Conference on Software Engineering Companion (ICSE-C)},
+  pages={3--6},
+  year={2017},
+  organization={IEEE}
+}
+
+@inproceedings{swidan2017programming,
+  title={Programming Education to Preschoolers: Reflections and Observations from a Field Study.},
+  author={Swidan, Alaaeddin and Hermans, Felienne},
+  booktitle={PPIG},
+  pages={7},
+  year={2017}
+}
+
+@inproceedings{hermans2017programming,
+  title={Programming is writing is programming},
+  author={Hermans, Felienne and Aldewereld, Marlies},
+  booktitle={Companion to the first International Conference on the Art, Science and Engineering of Programming},
+  pages={1--8},
+  year={2017}
+}
+
+@inproceedings{ang2017revisiting,
+  title={Revisiting the practical use of automated software fault localization techniques},
+  author={Ang, Aaron and Perez, Alexandre and Van Deursen, Arie and Abreu, Rui},
+  booktitle={2017 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW)},
+  pages={175--182},
+  year={2017},
+  organization={IEEE}
+}
+
+@article{raemaekers2017semantic,
+  title={Semantic versioning and impact of breaking changes in the Maven repository},
+  author={Raemaekers, Steven and van Deursen, Arie and Visser, Joost},
+  journal={Journal of Systems and Software},
+  volume={129},
+  pages={140--158},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@inproceedings{swidan2017semi,
+  title={Semi-automatic extraction of cross-table data from a set of spreadsheets},
+  author={Swidan, Alaaeddin and Hermans, Felienne},
+  booktitle={International Symposium on End User Development},
+  pages={84--99},
+  year={2017},
+  organization={Springer}
+}
+
+@inproceedings{di2017software,
+  title={Software-based energy profiling of android apps: Simple, efficient and reliable?},
+  author={Di Nucci, Dario and Palomba, Fabio and Prota, Antonio and Panichella, Annibale and Zaidman, Andy and De Lucia, Andrea},
+  booktitle={2017 IEEE 24th international conference on software analysis, evolution and reengineering (SANER)},
+  pages={103--114},
+  year={2017},
+  organization={IEEE}
+}
+
+@inproceedings{robles2017software,
+  title={Software clones in scratch projects: On the presence of copy-and-paste in computational thinking learning},
+  author={Robles, Gregorio and Moreno-Le{\'o}n, Jes{\'u}s and Aivaloglou, Efthimia and Hermans, Felienne},
+  booktitle={2017 IEEE 11th International Workshop on Software Clones (IWSC)},
+  pages={1--7},
+  year={2017},
+  organization={IEEE}
+}
+
+@inproceedings{zhu2017speeding,
+  title={Speeding-up mutation testing via data compression and state infection},
+  author={Zhu, Qianqian and Panichella, Annibale and Zaidman, Andy},
+  booktitle={2017 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)},
+  pages={103--109},
+  year={2017},
+  organization={IEEE}
+}
+
+@inproceedings{roy2017spreadsheet,
+  title={Spreadsheet testing in practice},
+  author={Roy, Sohon and Hermans, Felienne and Van Deursen, Arie},
+  booktitle={2017 IEEE 24th International Conference on Software Analysis, Evolution and Reengineering (SANER)},
+  pages={338--348},
+  year={2017},
+  organization={IEEE}
+}
+
+@inproceedings{huijgens2017strong,
+  title={Strong agile metrics: mining log data to determine predictive power of software metrics for continuous delivery teams},
+  author={Huijgens, Hennie and Lamping, Robert and Stevens, Dick and Rothengatter, Hartger and Gousios, Georgios and Romano, Daniele},
+  booktitle={Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering},
+  pages={866--871},
+  year={2017}
+}
+
+@inproceedings{kikas2017structure,
+  title={Structure and evolution of package dependency networks},
+  author={Kikas, Riivo and Gousios, Georgios and Dumas, Marlon and Pfahl, Dietmar},
+  booktitle={2017 IEEE/ACM 14th International Conference on Mining Software Repositories (MSR)},
+  pages={102--112},
+  year={2017},
+  organization={IEEE}
+}
+
+@article{sohon2017supporting,
+  title={Supporting Spreadsheet Maintenance with Dependency Notification},
+  author={Sohon, R and Hermans, FFJ and Deursen, A and Khan JV, Soute I},
+  journal={IS-EUD 2017},
+  pages={88--93},
+  year={2017},
+  publisher={Technische Universiteit Eindhoven}
+}
+
+@inproceedings{hermans2017teaching,
+  title={Teaching software engineering principles to k-12 students: a mooc on scratch},
+  author={Hermans, Felienne and Aivaloglou, Efthimia},
+  booktitle={2017 IEEE/ACM 39th International Conference on Software Engineering: Software Engineering Education and Training Track (ICSE-SEET)},
+  pages={13--22},
+  year={2017},
+  organization={IEEE}
+}
+
+@inproceedings{jansen2017effect,
+  title={The effect of delocalized plans on spreadsheet comprehension: a controlled experiment},
+  author={Jansen, Bas and Hermans, Felienne},
+  booktitle={2017 IEEE/ACM 25th International Conference on Program Comprehension (ICPC)},
+  pages={286--296},
+  year={2017},
+  organization={IEEE}
+}
+
+@article{huijgens2017effects,
+  title={The effects of perceived value and stakeholder satisfaction on software project impact},
+  author={Huijgens, Hennie and Van Deursen, Arie and Van Solingen, Rini},
+  journal={Information and Software Technology},
+  volume={89},
+  pages={19--36},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@article{beller2017last,
+  title={The last line effect explained},
+  author={Beller, Moritz and Zaidman, Andy and Karpov, Andrey and Zwaan, Rolf A},
+  journal={Empirical Software Engineering},
+  volume={22},
+  number={3},
+  pages={1508--1536},
+  year={2017},
+  publisher={Springer}
+}
+
+@inproceedings{spadini2017mock,
+  title={To mock or not to mock? an empirical study on mocking practices},
+  author={Spadini, Davide and Aniche, Maur{\'\i}cio and Bruntink, Magiel and Bacchelli, Alberto},
+  booktitle={2017 IEEE/ACM 14th International Conference on Mining Software Repositories (MSR)},
+  pages={402--412},
+  year={2017},
+  organization={IEEE}
+}
+
+@inproceedings{hermans2017scratch,
+  title={To scratch or not to scratch? A controlled experiment comparing plugged first and unplugged first programming lessons},
+  author={Hermans, Felienne and Aivaloglou, Efthimia},
+  booktitle={Proceedings of the 12th workshop on primary and secondary computing education},
+  pages={49--56},
+  year={2017}
+}
+
+@inproceedings{holwerda2017towards,
+  title={Towards blocks-based prototyping of web applications},
+  author={Holwerda, Robert and Hermans, Felienne},
+  booktitle={2017 IEEE Blocks and Beyond Workshop (B\&B)},
+  pages={41--44},
+  year={2017},
+  organization={IEEE}
+}
+
+@inproceedings{beller2017travistorrent,
+  title={Travistorrent: Synthesizing travis ci and github for full-stack research on continuous integration},
+  author={Beller, Moritz and Gousios, Georgios and Zaidman, Andy},
+  booktitle={2017 IEEE/ACM 14th International Conference on Mining Software Repositories (MSR)},
+  pages={447--450},
+  year={2017},
+  organization={IEEE}
+}
+
+@inproceedings{wessel2017tweaking,
+  title={Tweaking Association Rules to Optimize Software Change Recommendations},
+  author={Wessel, Mairieli Santos and Aniche, Maur{\'\i}cio Finavaro and Oliva, Gustavo Ansaldi and Gerosa, Marco Aur{\'e}lio and Wiese, Igor Scaliante},
+  booktitle={Proceedings of the 31st Brazilian Symposium on Software Engineering},
+  pages={94--103},
+  year={2017}
+}
+
+@inproceedings{buckers2017uav,
+  title={UAV: Warnings from multiple Automated Static Analysis Tools at a glance},
+  author={Buckers, Tim and Cao, Clinton and Doesburg, Michiel and Gong, Boning and Wang, Sunwei and Beller, Moritz and Zaidman, Andy},
+  booktitle={2017 IEEE 24th International Conference on Software Analysis, Evolution and Reengineering (SANER)},
+  pages={472--476},
+  year={2017},
+  organization={IEEE}
+}
+
+@inproceedings{tomasdottir2017and,
+  title={Why and how JavaScript developers use linters},
+  author={T{\'o}masd{\'o}ttir, Krist{\'\i}n Fj{\'o}la and Aniche, Mauricio and van Deursen, Arie},
+  booktitle={2017 32nd IEEE/ACM International Conference on Automated Software Engineering (ASE)},
+  pages={578--589},
+  year={2017},
+  organization={IEEE}
+}
+
+@inproceedings{geiger2018graph,
+  title={A graph-based dataset of commit history of real-world android apps},
+  author={Geiger, Franz-Xaver and Malavolta, Ivano and Pascarella, Luca and Palomba, Fabio and Di Nucci, Dario and Bacchelli, Alberto},
+  booktitle={Proceedings of the 15th International Conference on Mining Software Repositories},
+  pages={30--33},
+  year={2018}
+}
+
+@article{panichella2018large,
+  title={A large scale empirical comparison of state-of-the-art search-based test case generators},
+  author={Panichella, Annibale and Kifetew, Fitsum Meshesha and Tonella, Paolo},
+  journal={Information and Software Technology},
+  volume={104},
+  pages={236--256},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@article{beller2018empirical,
+  title={An Empirical Evaluation of Feedback-Driven Software Development},
+  author={Beller, Moritz},
+  year={2018}
+}
+
+@inproceedings{aue2018exploratory,
+  title={An exploratory study on faults inweb api integration in a large-scale payment company},
+  author={Au{\'e}, Joop and Aniche, Maur{\'\i}cio and Lobbezoo, Maikel and van Deursen, Arie},
+  booktitle={2018 IEEE/ACM 40th International Conference on Software Engineering: Software Engineering in Practice Track (ICSE-SEIP)},
+  pages={13--22},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{zhu2018investigation,
+  title={An investigation of compression techniques to speed up mutation testing},
+  author={Zhu, Qianqian and Panichella, Annibale and Zaidman, Andy},
+  booktitle={2018 IEEE 11th International Conference on Software Testing, Verification and Validation (ICST)},
+  pages={274--284},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{messaoudi2018search,
+  title={A search-based approach for accurate identification of log message formats},
+  author={Messaoudi, Salma and Panichella, Annibale and Bianculli, Domenico and Briand, Lionel and Sasnauskas, Raimondas},
+  booktitle={Proceedings of the 26th Conference on Program Comprehension},
+  pages={167--177},
+  year={2018}
+}
+
+@article{zhu2018systematic,
+  title={A systematic literature review of how mutation testing supports quality assurance processes},
+  author={Zhu, Qianqian and Panichella, Annibale and Zaidman, Andy},
+  journal={Software Testing, Verification and Reliability},
+  volume={28},
+  number={6},
+  pages={e1675},
+  year={2018},
+  publisher={Wiley Online Library}
+}
+
+@article{di2018test,
+  title={A test case prioritization genetic algorithm guided by the hypervolume indicator},
+  author={Di Nucci, Dario and Panichella, Annibale and Zaidman, Andy and De Lucia, Andrea},
+  journal={IEEE Transactions on Software Engineering},
+  volume={46},
+  number={6},
+  pages={674--696},
+  year={2018},
+  publisher={IEEE}
+}
+
+@inproceedings{holwerda2018usability,
+  title={A usability analysis of blocks-based programming editors using cognitive dimensions},
+  author={Holwerda, Robert and Hermans, Felienne},
+  booktitle={2018 IEEE symposium on visual languages and human-centric computing (VL/HCC)},
+  pages={217--225},
+  year={2018},
+  organization={IEEE}
+}
+
+@article{adams2018automatic,
+  title={Automatic Quality Assurance and Release (Report from Dagstuhl Seminar 18122)},
+  author={Adams, Bram and Baudry, Benoit and Eldh, Sigrid and Zaidman, Andy and Schermann, Gerald},
+  journal={arXiv preprint arXiv:1812.08836},
+  year={2018}
+}
+
+@inproceedings{palomba2018automatic,
+  title={Automatic test smell detection using information retrieval techniques},
+  author={Palomba, Fabio and Zaidman, Andy and De Lucia, Andrea},
+  booktitle={2018 IEEE International Conference on Software Maintenance and Evolution (ICSME)},
+  pages={311--322},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{gousios2018big,
+  title={Big data software analytics with Apache Spark},
+  author={Gousios, Georgios},
+  booktitle={Proceedings of the 40th International Conference on Software Engineering: Companion Proceeedings},
+  pages={542--543},
+  year={2018}
+}
+
+@inproceedings{pascarella2018classifying,
+  title={Classifying code comments in Java mobile applications},
+  author={Pascarella, Luca},
+  booktitle={2018 IEEE/ACM 5th International Conference on Mobile Software Engineering and Systems (MOBILESoft)},
+  pages={39--40},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{hermans2018code,
+  title={Code phonology: An exploration into the vocalization of code},
+  author={Hermans, Felienne and Swidan, Alaaeddin and Aivaloglou, Efthimia},
+  booktitle={Proceedings of the 26th Conference on Program Comprehension},
+  pages={308--311},
+  year={2018}
+}
+
+@inproceedings{kovalenko2018code,
+  title={Code review for newcomers: is it different?},
+  author={Kovalenko, Vladimir and Bacchelli, Alberto},
+  booktitle={Proceedings of the 11th International Workshop on Cooperative and Human Aspects of Software Engineering},
+  pages={29--32},
+  year={2018}
+}
+
+@article{aniche2018code,
+  title={Code smells for model-view-controller architectures},
+  author={Aniche, Maur{\'\i}cio and Bavota, Gabriele and Treude, Christoph and Gerosa, Marco Aur{\'e}lio and van Deursen, Arie},
+  journal={Empirical Software Engineering},
+  volume={23},
+  number={4},
+  pages={2121--2157},
+  year={2018},
+  publisher={Springer}
+}
+
+@inproceedings{vassallo2018context,
+  title={Context is king: The developer perspective on the usage of static analysis tools},
+  author={Vassallo, Carmine and Panichella, Sebastiano and Palomba, Fabio and Proksch, Sebastian and Zaidman, Andy and Gall, Harald C},
+  booktitle={2018 IEEE 25th International Conference on Software Analysis, Evolution and Reengineering (SANER)},
+  pages={38--49},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{banken2018debugging,
+  title={Debugging data flows in reactive programs},
+  author={Banken, Herman and Meijer, Erik and Gousios, Georgios},
+  booktitle={2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE)},
+  pages={752--763},
+  year={2018},
+  organization={IEEE}
+}
+
+@article{van2016delft,
+  title={Delft Students on Software Architecture: DESOSA 2016},
+  author={van Deursen, Arie and Aniche, Maur{\'\i}cio and Au{\'e}, Joop},
+  journal={Delft University of Technology},
+  year={2016}
+}
+
+@inproceedings{jansen2018detecting,
+  title={Detecting and Predicting Evolution in Spreadsheets-A Case Study in an Energy Network Company},
+  author={Jansen, Bas and Hermans, Felienne and Tazelaar, Edwin},
+  booktitle={2018 IEEE International Conference on Software Maintenance and Evolution (ICSME)},
+  pages={645--654},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{vargas2018enabling,
+  title={Enabling real-time feedback in software engineering},
+  author={Vargas, Enrique Larios and Hejderup, Joseph and Kechagia, Maria and Bruntink, Magiel and Gousios, Georgios},
+  booktitle={Proceedings of the 40th International Conference on Software Engineering: New Ideas and Emerging Results},
+  pages={21--24},
+  year={2018}
+}
+
+@article{catolino2018enhancing,
+  title={Enhancing change prediction models using developer-related factors},
+  author={Catolino, Gemma and Palomba, Fabio and De Lucia, Andrea and Ferrucci, Filomena and Zaidman, Andy},
+  journal={Journal of Systems and Software},
+  volume={143},
+  pages={14--28},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@inproceedings{huijgens2016evidence,
+  title={Evidence-based software portfolio management: a tool description and evaluation},
+  author={Huijgens, Hennie},
+  booktitle={Proceedings of the 20th International Conference on Evaluation and Assessment in Software Engineering},
+  pages={1--5},
+  year={2016}
+}
+
+@article{dintzner2018fever,
+  title={FEVER: An approach to analyze feature-oriented changes and artefact co-evolution in highly configurable systems},
+  author={Dintzner, Nicolas and van Deursen, Arie and Pinzger, Martin},
+  journal={Empirical Software Engineering},
+  volume={23},
+  number={2},
+  pages={905--952},
+  year={2018},
+  publisher={Springer}
+}
+
+@article{chen2016learners,
+  title={From learners to earners: Enabling MOOC learners to apply their skills and earn money in an online market place},
+  author={Chen, Guanliang and Davis, Dan and Krause, Markus and Aivaloglou, Efthimia and Hauff, Claudia and Houben, Geert-Jan},
+  journal={IEEE Transactions on Learning Technologies},
+  volume={11},
+  number={2},
+  pages={264--274},
+  year={2016},
+  publisher={IEEE}
+}
+
+@inproceedings{palomba2018poster,
+  title={Poster: How Do Community Smells Influence Code Smells?},
+  author={Palomba, Fabio and Tamburri, Damian A and Serebrenik, Alexander and Zaidman, Andy and Fontana, Francesca Arcelli and Oliveto, Rocco},
+  booktitle={2018 IEEE/ACM 40th International Conference on Software Engineering: Companion (ICSE-Companion)},
+  pages={240--241},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{van2018good,
+  title={How good is your puppet? an empirically defined and validated quality model for puppet},
+  author={Van der Bent, Eduard and Hage, Jurriaan and Visser, Joost and Gousios, Georgios},
+  booktitle={2018 IEEE 25th international conference on software analysis, evolution and reengineering (SANER)},
+  pages={164--174},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{pascarella2018video,
+  title={How is video game development different from software development in open source?},
+  author={Pascarella, Luca and Palomba, Fabio and Di Penta, Massimiliano and Bacchelli, Alberto},
+  booktitle={2018 IEEE/ACM 15th International Conference on Mining Software Repositories (MSR)},
+  pages={392--402},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{aniche2018modern,
+  title={How modern news aggregators help development communities shape and share knowledge},
+  author={Aniche, Maur{\'\i}cio and Treude, Christoph and Steinmacher, Igor and Wiese, Igor and Pinto, Gustavo and Storey, Margaret-Anne and Gerosa, Marco Aur{\'e}lio},
+  booktitle={2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE)},
+  pages={499--510},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{spinellis2018analyze,
+  title={How to analyze git repositories with command line tools: we're not in kansas anymore},
+  author={Spinellis, Diomidis and Gousios, Georgios},
+  booktitle={Proceedings of the 40th International Conference on Software Engineering: Companion Proceeedings},
+  pages={540--541},
+  year={2018}
+}
+
+@inproceedings{panichella2018incremental,
+  title={Incremental control dependency frontier exploration for many-criteria test case generation},
+  author={Panichella, Annibale and Kifetew, Fitsum Meshesha and Tonella, Paolo},
+  booktitle={International Symposium on Search Based Software Engineering},
+  pages={309--324},
+  year={2018},
+  organization={Springer}
+}
+
+@article{pascarella2018information,
+  title={Information needs in contemporary code review},
+  author={Pascarella, Luca and Spadini, Davide and Palomba, Fabio and Bruntink, Magiel and Bacchelli, Alberto},
+  journal={Proceedings of the ACM on Human-Computer Interaction},
+  volume={2},
+  number={CSCW},
+  pages={1--27},
+  year={2018},
+  publisher={ACM New York, NY, USA}
+}
+
+@inproceedings{pascarella2018investigating,
+  title={Investigating type declaration mismatches in Python},
+  author={Pascarella, Luca and Ram, Achyudh and Nadeem, Azqa and Bisesser, Dinesh and Knyazev, Norman and Bacchelli, Alberto},
+  booktitle={2018 IEEE Workshop on Machine Learning Techniques for Software Quality Evaluation (MaLTeSQuE)},
+  pages={43--48},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{molina2018java,
+  title={Java unit testing tool competition-sixth round},
+  author={Molina, Urko Rueda and Kifetew, Fitsum and Panichella, Annibale},
+  booktitle={2018 IEEE/ACM 11th International Workshop on Search-Based Software Testing (SBST)},
+  pages={22--29},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{kovalenko2018mining,
+  title={Mining file histories: Should we consider branches?},
+  author={Kovalenko, Vladimir and Palomba, Fabio and Bacchelli, Alberto},
+  booktitle={Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering},
+  pages={202--213},
+  year={2018}
+}
+
+@article{spadini2019mock,
+  title={Mock objects for testing java systems},
+  author={Spadini, Davide and Aniche, Maur{\'\i}cio and Bruntink, Magiel and Bacchelli, Alberto},
+  journal={Empirical Software Engineering},
+  volume={24},
+  number={3},
+  pages={1461--1498},
+  year={2019},
+  publisher={Springer}
+}
+
+@article{devroey2018model,
+  title={Model-based mutant equivalence detection using automata language equivalence and simulations},
+  author={Devroey, Xavier and Perrouin, Gilles and Papadakis, Mike and Legay, Axel and Schobbens, Pierre-Yves and Heymans, Patrick},
+  journal={Journal of Systems and Software},
+  volume={141},
+  pages={1--15},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@inproceedings{zhu2018mutation,
+  title={Mutation testing for physical computing},
+  author={Zhu, Qianqian and Zaidman, Andy},
+  booktitle={2018 IEEE International Conference on Software Quality, Reliability and Security (QRS)},
+  pages={289--300},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{pandita2018no,
+  title={No half-measures: A study of manual and tool-assisted end-user programming tasks in Excel},
+  author={Pandita, Rahul and Parnin, Chris and Hermans, Felienne and Murphy-Hill, Emerson},
+  booktitle={2018 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)},
+  pages={95--103},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{gerasimou2018software,
+  title={On software modernisation due to library obsolescence},
+  author={Gerasimou, Simos and Kechagia, Maria and Kolovos, Dimitris and Paige, Richard and Gousios, Georgios},
+  booktitle={2018 IEEE/ACM 2nd International Workshop on API Usage and Evolution (WAPI)},
+  pages={6--9},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{beller2018dichotomy,
+  title={On the dichotomy of debugging behavior among programmers},
+  author={Beller, Moritz and Spruit, Niels and Spinellis, Diomidis and Zaidman, Andy},
+  booktitle={Proceedings of the 40th International Conference on Software Engineering},
+  pages={572--583},
+  year={2018}
+}
+
+@inproceedings{roy2018effectiveness,
+  title={On the Effectiveness of Automatically Inferred Invariants in Detecting Regression Faults in Spreadsheets},
+  author={Roy, Sohon and Van Deursen, Arie and Hermans, Felienne},
+  booktitle={2018 IEEE International Conference on Software Quality, Reliability and Security Companion (QRS-C)},
+  pages={199--206},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{spadini2018relation,
+  title={On the relation of test smells to software code quality},
+  author={Spadini, Davide and Palomba, Fabio and Zaidman, Andy and Bruntink, Magiel and Bacchelli, Alberto},
+  booktitle={2018 IEEE International Conference on Software Maintenance and Evolution (ICSME)},
+  pages={1--12},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{spadini2018practices,
+  title={Practices and tools for better software testing},
+  author={Spadini, Davide},
+  booktitle={Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering},
+  pages={928--931},
+  year={2018}
+}
+
+@article{hejderup2018prazi,
+  title={Prazi: From package-based to precise call-based dependency network analyses},
+  author={Hejderup, Joseph and Beller, Moritz and Gousios, Georgios},
+  journal={Delft University of Technology},
+  year={2018}
+}
+
+@inproceedings{zaidman2018proceedings,
+  title={Proceedings of the 15th International Conference on Mining Software Repositories MSR 2018},
+  author={Zaidman, Andy and Kamei, Yasutaka and Hill, Emily},
+  booktitle={MSR 2018: 15th International Conference on Mining Software Repositories},
+  year={2018},
+  organization={Association for Computing Machinery (ACM)}
+}
+
+@inproceedings{swidan2018programming,
+  title={Programming misconceptions for school students},
+  author={Swidan, Alaaeddin and Hermans, Felienne and Smit, Marileen},
+  booktitle={Proceedings of the 2018 ACM Conference on International Computing Education Research},
+  pages={151--159},
+  year={2018}
+}
+
+@inproceedings{spadini2018pydriller,
+  title={Pydriller: Python framework for mining software repositories},
+  author={Spadini, Davide and Aniche, Maur{\'\i}cio and Bacchelli, Alberto},
+  booktitle={Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering},
+  pages={908--911},
+  year={2018}
+}
+
+@inproceedings{pascarella2018re,
+  title={Re-evaluating method-level bug prediction},
+  author={Pascarella, Luca and Palomba, Fabio and Bacchelli, Alberto},
+  booktitle={2018 IEEE 25th International Conference on Software Analysis, Evolution and Reengineering (SANER)},
+  pages={592--601},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{rastogi2018relationship,
+  title={Relationship between geographical location and evaluation of developer contributions in github},
+  author={Rastogi, Ayushi and Nagappan, Nachiappan and Gousios, Georgios and van der Hoek, Andr{\'e}},
+  booktitle={Proceedings of the 12th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement},
+  pages={1--8},
+  year={2018}
+}
+
+@inproceedings{castelein2018search,
+  title={Search-based test data generation for SQL queries},
+  author={Castelein, Jeroen and Aniche, Maur{\'\i}cio and Soltani, Mozhan and Panichella, Annibale and van Deursen, Arie},
+  booktitle={Proceedings of the 40th international conference on software engineering},
+  pages={1220--1230},
+  year={2018}
+}
+
+@inproceedings{pascarella2018self,
+  title={Self-reported activities of android developers},
+  author={Pascarella, Luca and Geiger, Franz-Xaver and Palomba, Fabio and Di Nucci, Dario and Malavolta, Ivano and Bacchelli, Alberto},
+  booktitle={2018 IEEE/ACM 5th International Conference on Mobile Software Engineering and Systems (MOBILESoft)},
+  pages={144--155},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{soltani2018single,
+  title={Single-objective versus multi-objectivized optimization for evolutionary crash reproduction},
+  author={Soltani, Mozhan and Derakhshanfar, Pouria and Panichella, Annibale and Devroey, Xavier and Zaidman, Andy and van Deursen, Arie},
+  booktitle={International Symposium on Search Based Software Engineering},
+  pages={325--340},
+  year={2018},
+  organization={Springer}
+}
+
+@inproceedings{huijgens2018software,
+  title={Software analytics in continuous delivery: a case study on success factors},
+  author={Huijgens, Hennie and Spadini, Davide and Stevens, Dick and Visser, Niels and Van Deursen, Arie},
+  booktitle={Proceedings of the 12th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement},
+  pages={1--10},
+  year={2018}
+}
+
+@inproceedings{hejderup2018software,
+  title={Software ecosystem call graph for dependency management},
+  author={Hejderup, Joseph and van Deursen, Arie and Gousios, Georgios},
+  booktitle={2018 IEEE/ACM 40th International Conference on Software Engineering: New Ideas and Emerging Technologies Results (ICSE-NIER)},
+  pages={101--104},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{abdessalem2018testing,
+  title={Testing autonomous cars for feature interaction failures using many-objective search},
+  author={Abdessalem, Raja Ben and Panichella, Annibale and Nejati, Shiva and Briand, Lionel C and Stifter, Thomas},
+  booktitle={2018 33rd IEEE/ACM International Conference on Automated Software Engineering (ASE)},
+  pages={143--154},
+  year={2018},
+  organization={IEEE}
+}
+
+@article{halin2019test,
+  title={Test them all, is it worth it? Assessing configuration sampling on the JHipster Web development stack},
+  author={Halin, Axel and Nuttinck, Alexandre and Acher, Mathieu and Devroey, Xavier and Perrouin, Gilles and Baudry, Benoit},
+  journal={Empirical Software Engineering},
+  volume={24},
+  number={2},
+  pages={674--717},
+  year={2019},
+  publisher={Springer}
+}
+
+@article{kechagia2018exception,
+  title={The exception handling riddle: An empirical study on the Android API},
+  author={Kechagia, Maria and Fragkoulis, Marios and Louridas, Panos and Spinellis, Diomidis},
+  journal={Journal of Systems and Software},
+  volume={142},
+  pages={248--270},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@article{palomba2017scent,
+  title={The scent of a smell: An extensive comparison between textual and structural smells},
+  author={Palomba, Fabio and Panichella, Annibale and Zaidman, Andy and Oliveto, Rocco and De Lucia, Andrea},
+  journal={IEEE Transactions on Software Engineering},
+  volume={44},
+  number={10},
+  pages={977--1000},
+  year={2017},
+  publisher={IEEE}
+}
+
+@article{jansen2018use,
+  title={The use of charts, pivot tables, and array formulas in two popular spreadsheet corpora},
+  author={Jansen, Bas and Hermans, Felienne},
+  journal={arXiv preprint arXiv:1808.10642},
+  year={2018}
+}
+
+@inproceedings{hermans2018thinking,
+  title={Thinking out of the box: comparing metaphors for variables in programming education},
+  author={Hermans, Felienne and Swidan, Alaaeddin and Aivaloglou, Efthimia and Smit, Marileen},
+  booktitle={Proceedings of the 13th workshop in primary and secondary computing education},
+  pages={1--8},
+  year={2018}
+}
+
+@inproceedings{beller2018toward,
+  title={Toward an empirical theory of feedback-driven development},
+  author={Beller, Moritz},
+  booktitle={Proceedings of the 40th International Conference on Software Engineering: Companion Proceeedings},
+  pages={503--505},
+  year={2018}
+}
+
+@inproceedings{sawant2018understanding,
+  title={Understanding developers' needs on deprecation as a language feature},
+  author={Sawant, Anand Ashok and Aniche, Mauricio and van Deursen, Arie and Bacchelli, Alberto},
+  booktitle={2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE)},
+  pages={561--571},
+  year={2018},
+  organization={IEEE}
+}
+
+@article{treude2018unusual,
+  title={Unusual events in GitHub repositories},
+  author={Treude, Christoph and Leite, Larissa and Aniche, Maur{\'\i}cio},
+  journal={Journal of Systems and Software},
+  volume={142},
+  pages={237--247},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@inproceedings{arcaini2018welcome,
+  title={Welcome Message from the General Chairs A-MOST 2018},
+  author={Arcaini, Paolo and Devroey, Xavier and Faria, Jo{\~a}o Pascoal},
+  booktitle={11th IEEE International Conference on Software Testing, Verification and Validation Workshops, ICSTW 2018},
+  pages={xxii},
+  year={2018}
+}
+
+@inproceedings{georgiou2018your,
+  title={What are your programming language's energy-delay implications?},
+  author={Georgiou, Stefanos and Kechagia, Maria and Louridas, Panos and Spinellis, Diomidis},
+  booktitle={Proceedings of the 15th International Conference on Mining Software Repositories},
+  pages={303--313},
+  year={2018}
+}
+
+@inproceedings{rodriguez2018if,
+  title={What if a bug has a different origin? Making sense of bugs without an explicit bug introducing change},
+  author={Rodr{\'\i}guez-P{\'e}rez, Gema and Zaidman, Andy and Serebrenik, Alexander and Robles, Gregorio and Gonz{\'a}lez-Barahona, Jes{\'u}s M},
+  booktitle={Proceedings of the 12th ACM/IEEE international symposium on empirical software engineering and measurement},
+  pages={1--4},
+  year={2018}
+}
+
+@inproceedings{ram2018makes,
+  title={What makes a code change easier to review: an empirical investigation on code change reviewability},
+  author={Ram, Achyudh and Sawant, Anand Ashok and Castelluccio, Marco and Bacchelli, Alberto},
+  booktitle={Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering},
+  pages={201--212},
+  year={2018}
+}
+
+@inproceedings{chatzipetrou2018and,
+  title={When and who leaves matters: emerging results from an empirical study of employee turnover},
+  author={Chatzipetrou, Panagiota and {\v{S}}mite, Darja and Van Solingen, Rini},
+  booktitle={Proceedings of the 12th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement},
+  pages={1--4},
+  year={2018}
+}
+
+@inproceedings{spadini2018testing,
+  title={When testing meets code review: Why and how developers review tests},
+  author={Spadini, Davide and Aniche, Maur{\'\i}cio and Storey, Margaret-Anne and Bruntink, Magiel and Bacchelli, Alberto},
+  booktitle={2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE)},
+  pages={677--687},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{treude2018does,
+  title={Where does google find api documentation?},
+  author={Treude, Christoph and Aniche, Maur{\'\i}cio},
+  booktitle={Proceedings of the 2nd International Workshop on API Usage and Evolution},
+  pages={19--22},
+  year={2018}
+}
+
+@inproceedings{sawant2018features,
+  title={Why are features deprecated? an investigation into the motivation behind deprecation},
+  author={Sawant, Anand Ashok and Huang, Guangzhe and Vilen, Gabriel and Stojkovski, Stefan and Bacchelli, Alberto},
+  booktitle={2018 IEEE International Conference on Software Maintenance and Evolution (ICSME)},
+  pages={13--24},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{vanhecke2019abscon,
+  title={Abscon: a test concretizer for model-based testing},
+  author={Vanhecke, Jeremy and Devroey, Xavier and Perrouin, Gilles},
+  booktitle={2019 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)},
+  pages={15--22},
+  year={2019},
+  organization={IEEE}
+}
+
+@incollection{cordy2019decade,
+  title={A decade of featured transition systems},
+  author={Cordy, Maxime and Devroey, Xavier and Legay, Axel and Perrouin, Gilles and Classen, Andreas and Heymans, Patrick and Schobbens, Pierre-Yves and Raskin, Jean-Fran{\c{c}}ois},
+  booktitle={From Software Engineering to Formal Methods and Tools, and Back},
+  pages={285--312},
+  year={2019},
+  publisher={Springer}
+}
+
+@inproceedings{panichella2019adaptive,
+  title={An adaptive evolutionary algorithm based on non-euclidean geometry for many-objective optimization},
+  author={Panichella, Annibale},
+  booktitle={Proceedings of the Genetic and Evolutionary Computation Conference},
+  pages={595--603},
+  year={2019}
+}
+
+@article{carvalho2019empirical,
+  title={An empirical catalog of code smells for the presentation layer of Android apps},
+  author={Carvalho, Suelen Goularte and Aniche, Maur{\'\i}cio and Ver{\'\i}ssimo, J{\'u}lio and Durelli, Rafael S and Gerosa, Marco Aur{\'e}lio},
+  journal={Empirical Software Engineering},
+  volume={24},
+  number={6},
+  pages={3546--3586},
+  year={2019},
+  publisher={Springer}
+}
+
+@article{danglot2019snowballing,
+  title={A snowballing literature study on test amplification},
+  author={Danglot, Benjamin and Vera-Perez, Oscar and Yu, Zhongxing and Zaidman, Andy and Monperrus, Martin and Baudry, Benoit},
+  journal={Journal of Systems and Software},
+  volume={157},
+  pages={110398},
+  year={2019},
+  publisher={Elsevier}
+}
+
+@inproceedings{panichella2019systematic,
+  title={A systematic comparison of search algorithms for topic modelling—a study on duplicate bug report identification},
+  author={Panichella, Annibale},
+  booktitle={International Symposium on Search Based Software Engineering},
+  pages={11--26},
+  year={2019},
+  organization={Springer}
+}
+
+@inproceedings{panichella2019beyond,
+  title={Beyond unit-testing in search-based test case generation: Challenges and opportunities},
+  author={Panichella, Annibale},
+  booktitle={2019 IEEE/ACM 12th International Workshop on Search-Based Software Testing (SBST)},
+  pages={7--8},
+  year={2019},
+  organization={IEEE}
+}
+
+@inproceedings{beller2019blockchain,
+  title={Blockchain-based software engineering},
+  author={Beller, Moritz and Hejderup, Joseph},
+  booktitle={2019 IEEE/ACM 41st International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER)},
+  pages={53--56},
+  year={2019},
+  organization={IEEE}
+}
+
+@phdthesis{swidan2019challenges,
+  title={Challenges of end-user programmers: Reflections from two groups of end-users},
+  author={Swidan, AAS},
+  year={2019},
+  school={Delft University of Technology}
+}
+
+@article{pascarella2019classifying,
+  title={Classifying code comments in Java software systems},
+  author={Pascarella, Luca and Bruntink, Magiel and Bacchelli, Alberto},
+  journal={Empirical Software Engineering},
+  volume={24},
+  number={3},
+  pages={1499--1537},
+  year={2019},
+  publisher={Springer}
+}
+
+@inproceedings{yu2019comprehending,
+  title={Comprehending test code: An empirical study},
+  author={Yu, Chak Shun and Treude, Christoph and Aniche, Maur{\'\i}cio},
+  booktitle={2019 IEEE International Conference on Software Maintenance and Evolution (ICSME)},
+  pages={501--512},
+  year={2019},
+  organization={IEEE}
+}
+
+@article{jan2019search,
+  title={Search-based multi-vulnerability testing of XML injections in web applications},
+  author={Jan, Sadeeq and Panichella, Annibale and Arcuri, Andrea and Briand, Lionel},
+  journal={Empirical Software Engineering},
+  volume={24},
+  number={6},
+  pages={3696--3729},
+  year={2019},
+  publisher={Springer}
+}
+
+@inproceedings{aniche2019current,
+  title={Current challenges in practical object-oriented software design},
+  author={Aniche, Maur{\'\i}cio and Yoder, Joseph and Kon, Fabio},
+  booktitle={2019 IEEE/ACM 41st International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER)},
+  pages={113--116},
+  year={2019},
+  organization={IEEE}
+}
+
+@article{van2016delft,
+  title={Delft Students on Software Architecture: DESOSA 2016},
+  author={van Deursen, Arie and Aniche, Maur{\'\i}cio and Au{\'e}, Joop},
+  journal={Delft University of Technology},
+  year={2016}
+}
+
+@article{beller2017developer,
+  title={Developer testing in the ide: Patterns, beliefs, and behavior},
+  author={Beller, Moritz and Gousios, Georgios and Panichella, Annibale and Proksch, Sebastian and Amann, Sven and Zaidman, Andy},
+  journal={IEEE Transactions on Software Engineering},
+  volume={45},
+  number={3},
+  pages={261--284},
+  year={2017},
+  publisher={IEEE}
+}
+
+@inproceedings{de2019devid,
+  title={Devid: Blockchain-based portfolios for software developers},
+  author={de Vos, Martijn and Olsthoorn, Mitchell and Pouwelse, Johan},
+  booktitle={2019 IEEE International Conference on Decentralized Applications and Infrastructures (DAPPCON)},
+  pages={158--163},
+  year={2019},
+  organization={IEEE}
+}
+
+@article{tamburri2019discovering,
+  title={Discovering community patterns in open-source: a systematic approach and its evaluation},
+  author={Tamburri, Damian A and Palomba, Fabio and Serebrenik, Alexander and Zaidman, Andy},
+  journal={Empirical Software Engineering},
+  volume={24},
+  number={3},
+  pages={1369--1417},
+  year={2019},
+  publisher={Springer}
+}
+
+@inproceedings{elazhary2019not,
+  title={Do as i do, not as i say: Do contribution guidelines match the github contribution process?},
+  author={Elazhary, Omar and Storey, Margaret-Anne and Ernst, Neil and Zaidman, Andy},
+  booktitle={2019 IEEE International Conference on Software Maintenance and Evolution (ICSME)},
+  pages={286--290},
+  year={2019},
+  organization={IEEE}
+}
+
+@article{kovalenko2018does,
+  title={Does reviewer recommendation help developers?},
+  author={Kovalenko, Vladimir and Tintarev, Nava and Pasynkov, Evgeny and Bird, Christian and Bacchelli, Alberto},
+  journal={IEEE Transactions on Software Engineering},
+  volume={46},
+  number={7},
+  pages={710--731},
+  year={2018},
+  publisher={IEEE}
+}
+
+@inproceedings{kechagia2019effective,
+  title={Effective and efficient API misuse detection via exception propagation and search-based testing},
+  author={Kechagia, Maria and Devroey, Xavier and Panichella, Annibale and Gousios, Georgios and van Deursen, Arie},
+  booktitle={Proceedings of the 28th ACM SIGSOFT International Symposium on Software Testing and Analysis},
+  pages={192--203},
+  year={2019}
+}
+
+@inproceedings{campos2019evosuite,
+  title={EvoSuiTE at the SBST 2019 tool competition},
+  author={Campos, Jos{\'e} and Panichella, Annibale and Fraser, Gordon},
+  booktitle={2019 IEEE/ACM 12th International Workshop on Search-Based Software Testing (SBST)},
+  pages={29--32},
+  year={2019},
+  organization={IEEE}
+}
+
+@inproceedings{huijgens2019factors,
+  title={Factors affecting cloud infra-service development lead times: a case study at ING},
+  author={Huijgens, Hennie and Greuter, Eric and Brons, Jerry and van Doorn, Evert A and Papadopoulos, Ioannis and Martinez, Francisco Morales and Aniche, Mauricio and Visser, Otto and van Deursen, Arie},
+  booktitle={2019 IEEE/ACM 41st International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)},
+  pages={233--242},
+  year={2019},
+  organization={IEEE}
+}
+
+@article{pascarella2019fine,
+  title={Fine-grained just-in-time defect prediction},
+  author={Pascarella, Luca and Palomba, Fabio and Bacchelli, Alberto},
+  journal={Journal of Systems and Software},
+  volume={150},
+  pages={22--36},
+  year={2019},
+  publisher={Elsevier}
+}
+
+@inproceedings{nicolai2019healthcare,
+  title={Healthcare Android apps: a tale of the customers’ perspective},
+  author={Nicolai, Mariaclaudia and Pascarella, Luca and Palomba, Fabio and Bacchelli, Alberto},
+  booktitle={Proceedings of the 3rd ACM SIGSOFT International Workshop on App Market Analytics},
+  pages={33--39},
+  year={2019}
+}
+
+@inproceedings{catolino2019experience,
+  title={How the experience of development teams relates to assertion density of test classes},
+  author={Catolino, Gemma and Palomba, Fabio and Zaidman, Andy and Ferrucci, Filomena},
+  booktitle={2019 IEEE International Conference on Software Maintenance and Evolution (ICSME)},
+  pages={223--234},
+  year={2019},
+  organization={IEEE}
+}
+
+@article{catolino2020improving,
+  title={Improving change prediction models with code smell-related information},
+  author={Catolino, Gemma and Palomba, Fabio and Fontana, Francesca Arcelli and De Lucia, Andrea and Zaidman, Andy and Ferrucci, Filomena},
+  journal={Empirical Software Engineering},
+  volume={25},
+  number={1},
+  pages={49--95},
+  year={2020},
+  publisher={Springer}
+}
+
+@inproceedings{schvarcbacher2019investigating,
+  title={Investigating developer perception on test smells using better code hub-Work in progress},
+  author={Schvarcbacher, Martin and Spadini, Davide and Bruntink, Magiel and Oprescu, Ana and others},
+  booktitle={2019 Seminar Series on Advanced Techniques and Tools for Software Evolution, SATTOSE},
+  volume={2019},
+  year={2019}
+}
+
+@inproceedings{kifetew2019java,
+  title={Java unit testing tool competition-seventh round},
+  author={Kifetew, Fitsum and Devroey, Xavier and Rueda, Urko},
+  booktitle={2019 IEEE/ACM 12th International Workshop on Search-Based Software Testing (SBST)},
+  pages={15--20},
+  year={2019},
+  organization={IEEE}
+}
+
+@inproceedings{winter2019monitoring,
+  title={Monitoring-aware IDEs},
+  author={Winter, Jos and Aniche, Maur{\'\i}cio and Cito, J{\"u}rgen and Deursen, Arie van},
+  booktitle={Proceedings of the 2019 27th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering},
+  pages={420--431},
+  year={2019}
+}
+
+@article{catolino2019not,
+  title={Not all bugs are the same: Understanding, characterizing, and classifying bug types},
+  author={Catolino, Gemma and Palomba, Fabio and Zaidman, Andy and Ferrucci, Filomena},
+  journal={Journal of Systems and Software},
+  volume={152},
+  pages={165--181},
+  year={2019},
+  publisher={Elsevier}
+}
+
+@article{palomba2019impact,
+  title={On the impact of code smells on the energy consumption of mobile applications},
+  author={Palomba, Fabio and Di Nucci, Dario and Panichella, Annibale and Zaidman, Andy and De Lucia, Andrea},
+  journal={Information and Software Technology},
+  volume={105},
+  pages={43--55},
+  year={2019},
+  publisher={Elsevier}
+}
+
+@inproceedings{kovalenko2019pathminer,
+  title={PathMiner: a library for mining of path-based representations of code},
+  author={Kovalenko, Vladimir and Bogomolov, Egor and Bryksin, Timofey and Bacchelli, Alberto},
+  booktitle={2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)},
+  pages={13--17},
+  year={2019},
+  organization={IEEE}
+}
+
+@incollection{roy2019perceived,
+  title={Perceived relevance of automatic code inspection in end-user development: A study on VBA},
+  author={Roy, Sohon and Deursen, Arie van and Hermans, Felienne},
+  booktitle={Proceedings of the Evaluation and Assessment on Software Engineering},
+  pages={167--176},
+  year={2019}
+}
+
+@inproceedings{aniche2019pragmatic,
+  title={Pragmatic software testing education},
+  author={Aniche, Maur{\'\i}cio and Hermans, Felienne and Van Deursen, Arie},
+  booktitle={Proceedings of the 50th ACM Technical Symposium on Computer Science Education},
+  pages={414--420},
+  year={2019}
+}
+
+@inproceedings{kula2019releasing,
+  title={Releasing fast and slow: an exploratory case study at ING},
+  author={Kula, Elvan and Rastogi, Ayushi and Huijgens, Hennie and Deursen, Arie van and Gousios, Georgios},
+  booktitle={Proceedings of the 2019 27th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering},
+  pages={785--795},
+  year={2019}
+}
+
+@article{jan2019search,
+  title={Search-based multi-vulnerability testing of XML injections in web applications},
+  author={Jan, Sadeeq and Panichella, Annibale and Arcuri, Andrea and Briand, Lionel},
+  journal={Empirical Software Engineering},
+  volume={24},
+  number={6},
+  pages={3696--3729},
+  year={2019},
+  publisher={Springer}
+}
+
+@inproceedings{spadini2019test,
+  title={Test-driven code review: an empirical study},
+  author={Spadini, Davide and Palomba, Fabio and Baum, Tobias and Hanenberg, Stefan and Bruntink, Magiel and Bacchelli, Alberto},
+  booktitle={2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE)},
+  pages={1061--1072},
+  year={2019},
+  organization={IEEE}
+}
+
+@inproceedings{di2019delta,
+  title={The delta maintainability model: measuring maintainability of fine-grained code changes},
+  author={di Biase, Marco and Rastogi, Ayushi and Bruntink, Magiel and van Deursen, Arie},
+  booktitle={2019 IEEE/ACM International Conference on Technical Debt (TechDebt)},
+  pages={113--122},
+  year={2019},
+  organization={IEEE}
+}
+
+@inproceedings{swidan2019effect,
+  title={The effect of Reading code aloud on comprehension: An empirical study with school students},
+  author={Swidan, Alaaeddin and Hermans, Felienne},
+  booktitle={Proceedings of the ACM Conference on Global Computing Education},
+  pages={178--184},
+  year={2019}
+}
+
+@article{di2019effects,
+  title={The effects of change decomposition on code review—a controlled experiment},
+  author={di Biase, Marco and Bruntink, Magiel and van Deursen, Arie and Bacchelli, Alberto},
+  journal={PeerJ Computer Science},
+  volume={5},
+  pages={e193},
+  year={2019},
+  publisher={PeerJ Inc.}
+}
+
+@inproceedings{swidan2019effect,
+  title={The effect of Reading code aloud on comprehension: An empirical study with school students},
+  author={Swidan, Alaaeddin and Hermans, Felienne},
+  booktitle={Proceedings of the ACM Conference on Global Computing Education},
+  pages={178--184},
+  year={2019}
+}
+
+@phdthesis{sawant2019impact,
+  title={The impact of API evolution on API consumers and how this can be affected by API producers and language designers},
+  author={Sawant, AA},
+  year={2019},
+  school={Delft University of Technology}
+}
+
+@article{sawant2019react,
+  title={To react, or not to react: Patterns of reaction to API deprecation},
+  author={Sawant, Anand Ashok and Robbes, Romain and Bacchelli, Alberto},
+  journal={Empirical Software Engineering},
+  volume={24},
+  number={6},
+  pages={3824--3870},
+  year={2019},
+  publisher={Springer}
+}
+
+@article{palomba2017toward,
+  title={Toward a smell-aware bug prediction model},
+  author={Palomba, Fabio and Zanoni, Marco and Fontana, Francesca Arcelli and De Lucia, Andrea and Oliveto, Rocco},
+  journal={IEEE Transactions on Software Engineering},
+  volume={45},
+  number={2},
+  pages={194--218},
+  year={2017},
+  publisher={IEEE}
+}
+
+@inproceedings{rueda2019towards,
+  title={Towards automated test case generation maturity},
+  author={Rueda, Urko and Kifetew, Fitsum and Devroey, Xavier},
+  booktitle={2019 IEEE/ACM 12th International Workshop on Search-Based Software Testing (SBST)},
+  pages={9--10},
+  year={2019},
+  organization={IEEE}
+}
+
+@inproceedings{schipper2019tracing,
+  title={Tracing back log data to its log statement: from research to practice},
+  author={Schipper, Daan and Aniche, Maur{\'\i}cio and van Deursen, Arie},
+  booktitle={2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)},
+  pages={545--549},
+  year={2019},
+  organization={IEEE}
+}
+
+@inproceedings{plazar2019uniform,
+  title={Uniform sampling of sat solutions for configurable systems: Are we there yet?},
+  author={Plazar, Quentin and Acher, Mathieu and Perrouin, Gilles and Devroey, Xavier and Cordy, Maxime},
+  booktitle={2019 12th IEEE Conference on Software Testing, Validation and Verification (ICST)},
+  pages={240--251},
+  year={2019},
+  organization={IEEE}
+}
+
+@inproceedings{jansen2019xlblocks,
+  title={XLBlocks: A block-based formula editor for spreadsheet formulas},
+  author={Jansen, Bas and Hermans, Felienne},
+  booktitle={2019 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)},
+  pages={55--63},
+  year={2019},
+  organization={IEEE}
+}
+
+@article{soltani2020benchmark,
+  title={A benchmark-based evaluation of search-based crash reproduction},
+  author={Soltani, Mozhan and Derakhshanfar, Pouria and Devroey, Xavier and Van Deursen, Arie},
+  journal={Empirical Software Engineering},
+  volume={25},
+  number={1},
+  pages={96--138},
+  year={2020},
+  publisher={Springer}
+}
+
+@inproceedings{catolino2020blessing,
+  title={A blessing in disguise? Assessing the Relationship between Code Smells and Sustainability},
+  author={Catolino, Gemma},
+  booktitle={2020 IEEE International Conference on Software Maintenance and Evolution (ICSME)},
+  pages={779--780},
+  year={2020},
+  organization={IEEE}
+}
+
+@inproceedings{olsthoorn2020application,
+  title={An Application of Model Seeding to Search-Based Unit Test Generation for Gson},
+  author={Olsthoorn, Mitchell and Derakhshanfar, Pouria and Devroey, Xavier},
+  booktitle={International Symposium on Search Based Software Engineering},
+  pages={239--245},
+  year={2020},
+  organization={Springer}
+}
+
+@article{nasiri2020enhanced,
+  title={An enhanced KNN-based twin support vector machine with stable learning rules},
+  author={Nasiri, Jalal A and Mir, Amir M},
+  journal={Neural Computing and Applications},
+  volume={32},
+  number={16},
+  pages={12949--12969},
+  year={2020},
+  publisher={Springer}
+}
+
+@phdthesis{pascarella2020augmented,
+  title={Augmented Fine-Grained Defect Prediction for Code Review.},
+  author={Pascarella, Luca},
+  year={2020},
+  school={Delft University of Technology, Netherlands}
+}
+
+@inproceedings{abdessalem2020automated,
+  title={Automated repair of feature interaction failures in automated driving systems},
+  author={Abdessalem, Raja Ben and Panichella, Annibale and Nejati, Shiva and Briand, Lionel C and Stifter, Thomas},
+  booktitle={Proceedings of the 29th ACM SIGSOFT International Symposium on Software Testing and Analysis},
+  pages={88--100},
+  year={2020}
+}
+
+@inproceedings{derakhshanfar2020botsing,
+  title={Botsing, a search-based crash reproduction framework for Java},
+  author={Derakhshanfar, Pouria and Devroey, Xavier and Panichella, Annibale and Zaidman, Andy and Van Deursen, Arie},
+  booktitle={2020 35th IEEE/ACM International Conference on Automated Software Engineering (ASE)},
+  pages={1278--1282},
+  year={2020},
+  organization={IEEE}
+}
+
+@inproceedings{evers2020commonality,
+  title={Commonality-Driven Unit Test Generation},
+  author={Evers, Bj{\"o}rn and Derakhshanfar, Pouria and Devroey, Xavier and Zaidman, Andy},
+  booktitle={International Symposium on Search Based Software Engineering},
+  pages={121--136},
+  year={2020},
+  organization={Springer}
+}
+
+@inproceedings{vassallo2020configuration,
+  title={Configuration smells in continuous delivery pipelines: a linter and a six-month study on gitlab},
+  author={Vassallo, Carmine and Proksch, Sebastian and Jancso, Anna and Gall, Harald C and Di Penta, Massimiliano},
+  booktitle={Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering},
+  pages={327--337},
+  year={2020}
+}
+
+@article{cherry2020crash,
+  title={Crash reproduction difficulty, an initial assessment},
+  author={Cherry, Boris and Devroey, Xavier and Derakhshanfar, Pouria and Vanderose, Beno{\i}t},
+  year={2020}
+}
+
+@inproceedings{derakhshanfar2020crash,
+  title={Crash reproduction using helper objectives},
+  author={Derakhshanfar, Pouria and Devroey, Xavier and Zaidman, Andy and Van Deursen, Arie and Panichella, Annibale},
+  booktitle={Proceedings of the 2020 Genetic and Evolutionary Computation Conference Companion},
+  pages={309--310},
+  year={2020}
+}
+
+@inproceedings{roy2020deeptc,
+  title={DeepTC-Enhancer: Improving the readability of automatically generated tests},
+  author={Roy, Devjeet and Zhang, Ziyi and Ma, Maggie and Arnaoudova, Venera and Panichella, Annibale and Panichella, Sebastiano and Gonzalez, Danielle and Mirakhorli, Mehdi},
+  booktitle={2020 35th IEEE/ACM International Conference on Automated Software Engineering (ASE)},
+  pages={287--298},
+  year={2020},
+  organization={IEEE}
+}
+
+@inproceedings{abate2020dependency,
+  title={Dependency solving is still hard, but we are getting better at it},
+  author={Abate, Pietro and Di Cosmo, Roberto and Gousios, Georgios and Zacchiroli, Stefano},
+  booktitle={2020 IEEE 27th International Conference on Software Analysis, Evolution and Reengineering (SANER)},
+  pages={547--551},
+  year={2020},
+  organization={IEEE}
+}
+
+@inproceedings{wijaya2020domain,
+  title={Domain-based fuzzing for supervised learning of anomaly detection in cyber-physical systems},
+  author={Wijaya, Herman and Aniche, Maur{\'\i}cio and Mathur, Aditya},
+  booktitle={Proceedings of the IEEE/ACM 42nd International Conference on Software Engineering Workshops},
+  pages={237--244},
+  year={2020}
+}
+
+@article{halin2019test,
+  title={Test them all, is it worth it? Assessing configuration sampling on the JHipster Web development stack},
+  author={Halin, Axel and Nuttinck, Alexandre and Acher, Mathieu and Devroey, Xavier and Perrouin, Gilles and Baudry, Benoit},
+  journal={Empirical Software Engineering},
+  volume={24},
+  number={2},
+  pages={674--717},
+  year={2019},
+  publisher={Springer}
+}
+
+@inproceedings{olsthoorn2020generating,
+  title={Generating highly-structured input data by combining search-based testing and grammar-based fuzzing},
+  author={Olsthoorn, Mitchell and van Deursen, Arie and Panichella, Annibale},
+  booktitle={2020 35th IEEE/ACM International Conference on Automated Software Engineering (ASE)},
+  pages={1224--1228},
+  year={2020},
+  organization={IEEE}
+}
+
+@inproceedings{derakhshanfar2020good,
+  title={Good things come in threes: improving search-based crash reproduction with helper objectives},
+  author={Derakhshanfar, Pouria and Devroey, Xavier and Zaidman, Andy and Van Deursen, Arie and Panichella, Annibale},
+  booktitle={2020 35th IEEE/ACM International Conference on Automated Software Engineering (ASE)},
+  pages={211--223},
+  year={2020},
+  organization={IEEE}
+}
+
+@article{kamei2020guest,
+  title={Guest editorial: Mining software repositories 2018.},
+  author={Kamei, Yasutaka and Zaidman, Andy},
+  journal={Empir. Softw. Eng.},
+  volume={25},
+  number={3},
+  pages={2055--2057},
+  year={2020}
+}
+
+@article{rodriguez2020bugs,
+  title={How bugs are born: a model to identify how bugs are introduced in software components},
+  author={Rodr{\'\i}guez-P{\'e}rez, Gema and Robles, Gregorio and Serebrenik, Alexander and Zaidman, Andy and Germ{\'a}n, Daniel M and Gonzalez-Barahona, Jesus M},
+  journal={Empirical Software Engineering},
+  volume={25},
+  number={2},
+  pages={1294--1340},
+  year={2020},
+  publisher={Springer}
+}
+
+@article{vassallo2020developers,
+  title={How developers engage with static analysis tools in different contexts},
+  author={Vassallo, Carmine and Panichella, Sebastiano and Palomba, Fabio and Proksch, Sebastian and Gall, Harald C and Zaidman, Andy},
+  journal={Empirical Software Engineering},
+  volume={25},
+  number={2},
+  pages={1419--1457},
+  year={2020},
+  publisher={Springer}
+}
+
+@inproceedings{spadini2020investigating,
+  title={Investigating severity thresholds for test smells},
+  author={Spadini, Davide and Schvarcbacher, Martin and Oprescu, Ana-Maria and Bruntink, Magiel and Bacchelli, Alberto},
+  booktitle={Proceedings of the 17th International Conference on Mining Software Repositories},
+  pages={311--321},
+  year={2020}
+}
+
+@inproceedings{derakhshanfar2020not,
+  title={It Is Not Only About Control Dependent Nodes: Basic Block Coverage for Search-Based Crash Reproduction},
+  author={Derakhshanfar, Pouria and Devroey, Xavier and Zaidman, Andy},
+  booktitle={International Symposium on Search Based Software Engineering},
+  pages={42--57},
+  year={2020},
+  organization={Springer}
+}
+
+@inproceedings{devroey2020java,
+  title={Java Unit Testing Tool Competition: Eighth Round},
+  author={Devroey, Xavier and Panichella, Sebastiano and Gambi, Alessio},
+  booktitle={Proceedings of the IEEE/ACM 42nd International Conference on Software Engineering Workshops},
+  pages={545--548},
+  year={2020}
+}
+
+@inproceedings{brandt2020logchunks,
+  title={LogChunks: A data set for build log analysis},
+  author={Brandt, Carolin E and Panichella, Annibale and Zaidman, Andy and Beller, Moritz},
+  booktitle={Proceedings of the 17th International Conference on Mining Software Repositories},
+  pages={583--587},
+  year={2020}
+}
+
+@article{fontana2020maltesque,
+  title={MALTESQUE 2019 Workshop Summary},
+  author={Fontana, Francesca Arcelli and Perrouin, Gilles and Ampatzoglou, Apostolos and Archer, Mathieu and Walter, Bartosz and Cordy, Maxime and Palomba, Fabio and Devroey, Xavier},
+  journal={ACM SIGSOFT Software Engineering Notes},
+  volume={45},
+  number={1},
+  pages={34--35},
+  year={2020},
+  publisher={ACM New York, NY, USA}
+}
+
+@inproceedings{zhu2020massively,
+  title={Massively parallel, highly efficient, but what about the test suite quality? applying mutation testing to gpu programs},
+  author={Zhu, Qianqian and Zaidman, Andy},
+  booktitle={2020 IEEE 13th International Conference on Software Testing, Validation and Verification (ICST)},
+  pages={209--219},
+  year={2020},
+  organization={IEEE}
+}
+
+@article{pronk2020measurements,
+  title={Measurements on (standard) Capacitors},
+  author={Pronk, Kees and Trimp, Piet},
+  journal={Maxwell-periodiek der electrotechnische vereeniging},
+  volume={23},
+  number={3},
+  pages={26--29},
+  year={2020}
+}
+
+@inproceedings{gousios2020message,
+  title={Message from the Chairs of MSR 2020},
+  author={Gousios, Georgios and Nadi, Sarah},
+  booktitle={Proceedings-2020 IEEE/ACM 17th International Conference on Mining Software Repositories, MSR 2020},
+  pages={XIV--XVII},
+  year={2020}
+}
+
+@inproceedings{briem2020offside,
+  title={Offside: Learning to identify mistakes in boundary conditions},
+  author={Briem, J{\'o}n Arnar and Smit, Jordi and Sellik, Hendrig and Rapoport, Pavel and Gousios, Georgios and Aniche, Maur{\'\i}cio},
+  booktitle={Proceedings of the IEEE/ACM 42nd International Conference on Software Engineering Workshops},
+  pages={203--208},
+  year={2020}
+}
+
+@article{pascarella2020performance,
+  title={On the performance of method-level bug prediction: A negative result},
+  author={Pascarella, Luca and Palomba, Fabio and Bacchelli, Alberto},
+  journal={Journal of Systems and Software},
+  volume={161},
+  pages={110493},
+  year={2020},
+  publisher={Elsevier}
+}
+
+@inproceedings{zhang2020shoulders,
+  title={On the Shoulders of Giants: A New Dataset for Pull-based Development Research},
+  author={Zhang, Xunhui and Rastogi, Ayushi and Yu, Yue},
+  booktitle={Proceedings of the 17th International Conference on Mining Software Repositories},
+  pages={543--547},
+  year={2020}
+}
+
+@inproceedings{liem2020oracle,
+  title={Oracle Issues in Machine Learning and Where to Find Them},
+  author={Liem, Cynthia CS and Panichella, Annibale},
+  booktitle={Proceedings of the IEEE/ACM 42nd International Conference on Software Engineering Workshops},
+  pages={483--488},
+  year={2020}
+}
+
+@article{ralph2020pandemic,
+  title={Pandemic programming: how COVID-19 affects software developers and how their organizations can help (2020)},
+  author={Ralph, Paul and Baltes, Sebastian and Adisaputri, Gianisa and Torkar, Richard and Kovalenko, Vladimir and Kalinowski, Marcos and Novielli, Nicole and Yoo, Shin and Devroey, Xavier and Tan, Xin and others},
+  journal={arXiv preprint arXiv:2005.01127},
+  year={2020}
+}
+
+@article{lima2020practical,
+  title={Practical detection of CMS plugin conflicts in large plugin sets},
+  author={Lima, Igor and C{\^a}ndido, Jeanderson and d’Amorim, Marcelo},
+  journal={Information and Software Technology},
+  volume={118},
+  pages={106212},
+  year={2020},
+  publisher={Elsevier}
+}
+
+@inproceedings{spadini2020primers,
+  title={Primers or reminders? The effects of existing review comments on code review},
+  author={Spadini, Davide and {\c{C}}alikli, G{\"u}l and Bacchelli, Alberto},
+  booktitle={2020 IEEE/ACM 42nd International Conference on Software Engineering (ICSE)},
+  pages={1171--1182},
+  year={2020},
+  organization={IEEE}
+}
+
+@inproceedings{huijgens2020questions,
+  title={Questions for data scientists in software engineering: a replication},
+  author={Huijgens, Hennie and Rastogi, Ayushi and Mulders, Ernst and Gousios, Georgios and Deursen, Arie van},
+  booktitle={Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering},
+  pages={568--579},
+  year={2020}
+}
+
+@article{vanderose2020report,
+  title={Report from the 1st Int. Workshop on Education through Advanced Software Engineering and Artificial Intelligence (EASEAI'19)},
+  author={Vanderose, Beno{\^\i}t and Frenay, Beno{\^\i}t and Henry, Julie and Devroey, Xavier},
+  journal={ACM SIGSOFT Software Engineering Notes},
+  volume={45},
+  number={1},
+  pages={25--27},
+  year={2020},
+  publisher={ACM New York, NY, USA}
+}
+
+@inproceedings{panichella2020revisiting,
+  title={Revisiting test smells in automatically generated tests: limitations, pitfalls, and opportunities},
+  author={Panichella, Annibale and Panichella, Sebastiano and Fraser, Gordon and Sawant, Anand Ashok and Hellendoorn, Vincent J},
+  booktitle={2020 IEEE International Conference on Software Maintenance and Evolution (ICSME)},
+  pages={523--533},
+  year={2020},
+  organization={IEEE}
+}
+
+@article{soltani2018search,
+  title={Search-based crash reproduction and its impact on debugging},
+  author={Soltani, Mozhan and Panichella, Annibale and Van Deursen, Arie},
+  journal={IEEE Transactions on Software Engineering},
+  volume={46},
+  number={12},
+  pages={1294--1317},
+  year={2018},
+  publisher={IEEE}
+}
+
+@article{derakhshanfar2020search,
+  title={Search-based crash reproduction using behavioural model seeding},
+  author={Derakhshanfar, Pouria and Devroey, Xavier and Perrouin, Gilles and Zaidman, Andy and van Deursen, Arie},
+  journal={Software Testing, Verification and Reliability},
+  volume={30},
+  number={3},
+  pages={e1733},
+  year={2020},
+  publisher={Wiley Online Library}
+}
+
+@inproceedings{larios2020selecting,
+  title={Selecting third-party libraries: The practitioners’ perspective},
+  author={Larios Vargas, Enrique and Aniche, Maur{\'\i}cio and Treude, Christoph and Bruntink, Magiel and Gousios, Georgios},
+  booktitle={Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering},
+  pages={245--256},
+  year={2020}
+}
+
+@inproceedings{sarkar2020spreadsheet,
+  title={Spreadsheet use and programming experience: An exploratory survey},
+  author={Sarkar, Advait and Borghouts, Judith W and Iyer, Anusha and Khullar, Sneha and Canton, Christian and Hermans, Felienne and Gordon, Andrew D and Williams, Jack},
+  booktitle={Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems},
+  pages={1--9},
+  year={2020}
+}
+
+@misc{cheplygina2020ten,
+  title={Ten simple rules for getting started on Twitter as a scientist},
+  author={Cheplygina, Veronika and Hermans, Felienne and Albers, Casper and Bielczyk, Natalia and Smeets, Ionica},
+  journal={PLoS computational biology},
+  volume={16},
+  number={2},
+  pages={e1007513},
+  year={2020},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
+@article{grano2019testing,
+  title={Testing with fewer resources: An adaptive approach to performance-aware test case generation},
+  author={Grano, Giovanni and Laaber, Christoph and Panichella, Annibale and Panichella, Sebastiano},
+  journal={IEEE Transactions on Software Engineering},
+  year={2019},
+  publisher={IEEE}
+}
+
+@article{tomasdottir2018adoption,
+  title={The adoption of javascript linters in practice: A case study on eslint},
+  author={T{\'o}masd{\'o}ttir, Krist{\'\i}n Fj{\'o}la and Aniche, Mauricio and Van Deursen, Arie},
+  journal={IEEE Transactions on Software Engineering},
+  volume={46},
+  number={8},
+  pages={863--891},
+  year={2018},
+  publisher={IEEE}
+}
+
+@phdthesis{zhu2020application,
+  title={The application perspective of mutatoin testing.},
+  author={Zhu, Qianqian},
+  year={2020},
+  school={Delft University of Technology, Netherlands}
+}
+
+@article{aniche2020effectiveness,
+  title={The effectiveness of supervised machine learning algorithms in predicting software refactoring},
+  author={Aniche, Mauricio and Maziero, Erick and Durelli, Rafael and Durelli, Vinicius},
+  journal={IEEE Transactions on Software Engineering},
+  year={2020},
+  publisher={IEEE}
+}
+
+@article{smite2019offshoring,
+  title={The Offshoring Elephant in the Room: Turnover},
+  author={Smite, Darja and van Solingen, Rini and Chatzipetrou, Panagiota},
+  journal={IEEE Software},
+  volume={37},
+  number={3},
+  pages={54--62},
+  year={2019},
+  publisher={IEEE}
+}
+
+@inproceedings{pradel2020typewriter,
+  title={Typewriter: Neural type prediction with search-based validation},
+  author={Pradel, Michael and Gousios, Georgios and Liu, Jason and Chandra, Satish},
+  booktitle={Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering},
+  pages={209--220},
+  year={2020}
+}
+
+@inproceedings{derakhshanfar2020well,
+  title={Well-informed Test Case Generation and Crash Reproduction},
+  author={Derakhshanfar, Pouria},
+  booktitle={2020 IEEE 13th International Conference on Software Testing, Validation and Verification (ICST)},
+  pages={424--426},
+  year={2020},
+  organization={IEEE}
+}
+
+@article{galanopoulou2021dataset,
+  title={A Dataset of Open-Source Safety-Critical Software⋆},
+  author={Galanopoulou, Rafaila and Spinellis, Diomidis},
+  year={2021}
+}
+
+@article{haakman2020ai,
+  title={AI lifecycle models need to be revised. an exploratory study in fintech},
+  author={Haakman, Mark and Cruz, Lu{\'\i}s and Huijgens, Hennie and van Deursen, Arie},
+  journal={arXiv preprint arXiv:2010.02716},
+  year={2020}
+}
+
+@article{candido2021exploratory,
+  title={An Exploratory Study of Log Placement Recommendation in an Enterprise System},
+  author={C{\^a}ndido, Jeanderson and Haesen, Jan and Aniche, Maur{\'\i}cio and van Deursen, Arie},
+  journal={arXiv preprint arXiv:2103.01755},
+  year={2021}
+}
+
+@article{panichella2021systematic,
+  title={A Systematic Comparison of search-Based approaches for LDA hyperparameter tuning},
+  author={Panichella, Annibale},
+  journal={Information and Software Technology},
+  volume={130},
+  pages={106411},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@article{langhout2021atoms,
+  title={Atoms of Confusion in Java},
+  author={Langhout, Chris and Aniche, Maur{\'\i}cio},
+  journal={arXiv preprint arXiv:2103.05424},
+  year={2021}
+}
+
+@inproceedings{grent2021automatically,
+  title={Automatically Identifying Parameter Constraints in Complex Web APIs: A Case Study at Adyen},
+  author={Grent, Henk and Akimov, Aleksei and Aniche, Maur{\'\i}cio},
+  booktitle={2021 IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)},
+  pages={71--80},
+  year={2021},
+  organization={IEEE}
+}
+
+@article{palomba2018beyond,
+  title={Beyond technical aspects: How do community smells influence the intensity of code smells?},
+  author={Palomba, Fabio and Tamburri, Damian Andrew Andrew and Fontana, Francesca Arcelli and Oliveto, Rocco and Zaidman, Andy and Serebrenik, Alexander},
+  journal={IEEE transactions on software engineering},
+  year={2018},
+  publisher={IEEE}
+}
+
+@phdthesis{derakhshanfar2021carving,
+  title={Carving Information Sources to Drive Search-Based Crash Reproduction and Test Case Generation},
+  author={Derakhshanfar, P},
+  year={2021},
+  school={Delft University of Technology}
+}
+
+@inproceedings{silvestre2021clonos,
+  title={Clonos: Consistent Causal Recovery for Highly-Available Streaming Dataflows},
+  author={Silvestre, Pedro F and Fragkoulis, Marios and Spinellis, Diomidis and Katsifodimos, Asterios},
+  booktitle={Proceedings of the 2021 International Conference on Management of Data},
+  pages={1637--1650},
+  year={2021}
+}
+
+@article{louridas2021conspicuous,
+  title={Conspicuous corruption: Evidence at a country level},
+  author={Louridas, Panos and Spinellis, Diomidis},
+  journal={PloS one},
+  volume={16},
+  number={9},
+  pages={e0255970},
+  year={2021},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
+@inproceedings{van2021data,
+  title={Data-driven extract method recommendations: a study at ING},
+  author={van der Leij, David and Binda, Jasper and van Dalen, Robbert and Vallen, Pieter and Luo, Yaping and Aniche, Maur{\'\i}cio},
+  booktitle={Proceedings of the 29th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering},
+  pages={1337--1347},
+  year={2021}
+}
+
+@phdthesis{kovalenko2021data,
+  title={Data-Driven Software Engineering.},
+  author={Kovalenko, Vladimir},
+  year={2021},
+  school={Delft University of Technology, Netherlands}
+}
+
+@article{spinellis2019evolution,
+  title={Evolution of the Unix system architecture: an exploratory case study},
+  author={Spinellis, Diomidis and Avgeriou, Paris C},
+  journal={IEEE Transactions on Software Engineering},
+  year={2019},
+  publisher={IEEE}
+}
+
+@inproceedings{vogl2021evosuite,
+  title={EVOSUITE at the SBST 2021 Tool Competition},
+  author={Vogl, Sebastian and Schweikl, Sebastian and Fraser, Gordon and Arcuri, Andrea and Campos, Jose and Panichella, Annibale},
+  booktitle={2021 IEEE/ACM 14th International Workshop on Search-Based Software Testing (SBST)},
+  pages={28--29},
+  year={2021},
+  organization={IEEE}
+}
+
+@inproceedings{devroey2021experience,
+  title={Experience report on soft and project skills building through repetition},
+  author={Devroey, Xavier and Amrani, Moussa and Vanderose, Beno{\^\i}t},
+  booktitle={Proceedings of the 3rd International Workshop on Education through Advanced Software Engineering and Artificial Intelligence},
+  pages={9--14},
+  year={2021}
+}
+
+@article{kula2021factors,
+  title={Factors Affecting On-Time Delivery in Large-Scale Agile Software Development},
+  author={Kula, Elvan and Greuter, Eric and Van Deursen, Arie and Georgios, Gousios},
+  journal={IEEE Transactions on Software Engineering},
+  year={2021},
+  publisher={IEEE}
+}
+
+@article{boldi2020fine,
+  title={Fine-grained network analysis for modern software ecosystems},
+  author={Boldi, Paolo and Gousios, Georgios},
+  journal={ACM Transactions on Internet Technology (TOIT)},
+  volume={21},
+  number={1},
+  pages={1--14},
+  year={2020},
+  publisher={ACM New York, NY, USA}
+}
+
+@article{reis2021fixing,
+  title={Fixing Vulnerabilities Potentially Hinders Maintainability},
+  author={Reis, Sofia and Abreu, Rui and Cruz, Luis},
+  journal={arXiv preprint arXiv:2106.03271},
+  year={2021}
+}
+
+@inproceedings{aniche2021grading,
+  title={Grading 600+ students: A Case Study on Peer and Self Grading},
+  author={Aniche, Maur{\'\i}cio and Mulder, Frank and Hermans, Felienne},
+  booktitle={2021 IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering Education and Training (ICSE-SEET)},
+  pages={211--220},
+  year={2021},
+  organization={IEEE}
+}
+
+@article{zhu2021kill,
+  title={How to kill them all: an exploratory study on the impact of code observability on mutation testing},
+  author={Zhu, Qianqian and Zaidman, Andy and Panichella, Annibale},
+  journal={Journal of Systems and Software},
+  volume={173},
+  pages={110864},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@inproceedings{olsthoorn2021hybrid,
+  title={Hybrid Multi-level Crossover for Unit Test Case Generation},
+  author={Olsthoorn, Mitchell and Derakhshanfar, Pouria and Panichella, Annibale},
+  booktitle={International Symposium on Search Based Software Engineering},
+  pages={72--86},
+  year={2021},
+  organization={Springer}
+}
+
+@inproceedings{stallenberg2021improving,
+  title={Improving Test Case Generation for REST APIs Through Hierarchical Clustering},
+  author={Stallenberg, Dimitri and Olsthoorn, Mitchell and Panichella, Annibale},
+  booktitle={2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE)},
+  pages={117--128},
+  year={2021},
+  organization={IEEE}
+}
+
+@article{beigelbeck2021interactive,
+  title={Interactive Static Software Performance Analysis in the IDE},
+  author={Beigelbeck, Aaron and Aniche, Maur{\'\i}cio and Cito, J{\"u}rgen},
+  journal={arXiv preprint arXiv:2105.02023},
+  year={2021}
+}
+
+@article{sellik2021learning,
+  title={Learning Off-By-One Mistakes: An Empirical Study},
+  author={Sellik, Hendrig and van Paridon, Onno and Gousios, Georgios and Aniche, Maur{\'\i}cio},
+  journal={arXiv preprint arXiv:2102.12429},
+  year={2021}
+}
+
+@inproceedings{messaoudi2021log,
+  title={Log-based Slicing for System-level Test Cases},
+  author={Messaoudi, Salma and Shin, Donghwan and Panichella, Annibale and Bianculli, Domenico and Briand, Lionel},
+  booktitle={2021 ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)},
+  year={2021}
+}
+
+@article{candido2021log,
+  title={Log-based software monitoring: a systematic mapping study},
+  author={C{\^a}ndido, Jeanderson and Aniche, Maur{\'\i}cio and van Deursen, Arie},
+  journal={PeerJ Computer Science},
+  volume={7},
+  pages={e489},
+  year={2021},
+  publisher={PeerJ Inc.}
+}
+
+@article{harty2021logging,
+  title={Logging Practices with Mobile Analytics: An Empirical Study on Firebase},
+  author={Harty, Julian and Zhang, Haonan and Wei, Lili and Pascarella, Luca and Aniche, Mauricio and Shang, Weiyi},
+  journal={arXiv preprint arXiv:2104.02513},
+  year={2021}
+}
+
+@article{mir2021manytypes4py,
+  title={ManyTypes4Py: A Benchmark Python Dataset for Machine Learning-based Type Inference},
+  author={Mir, Amir M and Latoskinas, Evaldas and Gousios, Georgios},
+  journal={arXiv preprint arXiv:2104.04706},
+  year={2021}
+}
+
+@inproceedings{olsthoorn2021multi,
+  title={Multi-objective test case selection through linkage learning-based crossover},
+  author={Olsthoorn, Mitchell and Panichella, Annibale},
+  booktitle={International Symposium on Search Based Software Engineering},
+  pages={87--102},
+  year={2021},
+  organization={Springer}
+}
+
+@inproceedings{nijkamp2021naming,
+  title={Naming Amplified Tests Based on Improved Coverage},
+  author={Nijkamp, Nienke and Brandt, Carolin and Zaidman, Andy},
+  booktitle={2021 IEEE 21st International Working Conference on Source Code Analysis and Manipulation (SCAM)},
+  pages={237--241},
+  year={2021},
+  organization={IEEE}
+}
+
+@inproceedings{van2021promises,
+  title={Promises and Perils of Inferring Personality on GitHub},
+  author={van Mil, Frenk CJ and Rastogi, Ayushi and Zaidman, Andy},
+  booktitle={Proceedings of the 15th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)},
+  pages={1--11},
+  year={2021}
+}
+
+@inproceedings{oosterbroek2021removing,
+  title={Removing Redundant Statements in Amplified Test Cases},
+  author={Oosterbroek, Wessel and Brandt, Carolin and Zaidman, Andy},
+  booktitle={2021 IEEE 21st International Working Conference on Source Code Analysis and Manipulation (SCAM)},
+  pages={242--246},
+  year={2021},
+  organization={IEEE}
+}
+
+@inproceedings{yildiz2021reproducedpapers,
+  title={ReproducedPapers. org: Openly teaching and structuring machine learning reproducibility},
+  author={Yildiz, Burak and Hung, Hayley and Krijthe, Jesse H and Liem, Cynthia CS and Loog, Marco and Migut, Gosia and Oliehoek, Frans A and Panichella, Annibale and Pawe{\l}czak, Przemys{\l}aw and Picek, Stjepan and others},
+  booktitle={International Workshop on Reproducible Research in Pattern Recognition},
+  pages={3--11},
+  year={2021},
+  organization={Springer}
+}
+
+@inproceedings{keshani2021scalable,
+  title={Scalable Call Graph Constructor for Maven},
+  author={Keshani, Mehdi},
+  booktitle={2021 IEEE/ACM 43rd International Conference on Software Engineering: Companion Proceedings (ICSE-Companion)},
+  pages={99--101},
+  year={2021},
+  organization={IEEE}
+}
+
+@inproceedings{schroder2021search,
+  title={Search-Based Software Re-Modularization: A Case Study at Adyen},
+  author={Schr{\"o}der, Casper and van der Feltz, Adriaan and Panichella, Annibale and Aniche, Maur{\'\i}cio},
+  booktitle={2021 IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)},
+  pages={81--90},
+  year={2021},
+  organization={IEEE}
+}
+
+@article{lenarduzzi2020serverless,
+  title={Serverless Testing: Tool Vendors' and Experts' Points of View},
+  author={Lenarduzzi, Valentina and Panichella, Annibale},
+  journal={IEEE Software},
+  volume={38},
+  number={1},
+  pages={54--60},
+  year={2020},
+  publisher={IEEE}
+}
+
+@article{spinellis2021software,
+  title={Software evolution: the lifetime of fine-grained elements},
+  author={Spinellis, Diomidis and Louridas, Panos and Kechagia, Maria},
+  journal={PeerJ Computer Science},
+  volume={7},
+  year={2021},
+  publisher={PeerJ, Inc}
+}
+
+@inproceedings{derakhshanfar2021summary,
+  title={Summary of Search-based Crash Reproduction using Behavioral Model Seeding},
+  author={Derakhshanfar, Pouria and Devroey, Xavier and Perrouin, Gilles and Zaidman, Andy and van Deursen, Arie},
+  booktitle={2021 14th IEEE Conference on Software Testing, Verification and Validation (ICST)},
+  pages={281--281},
+  year={2021},
+  organization={IEEE}
+}
+
+@article{spadini2021supporting,
+  title={Supporting Quality In Test Code For Higher Quality Software Systems},
+  author={Spadini, Davide},
+  year={2021}
+}
+
+@article{xie2021systematic,
+  title={Systematic Mapping Study on the Machine Learning Lifecycle},
+  author={Xie, Yuanhao and Cruz, Lu{\'\i}s and Heck, Petra and Rellermeyer, Jan S},
+  journal={arXiv preprint arXiv:2103.10248},
+  year={2021}
+}
+
+@inproceedings{jansen2021effect,
+  title={The Effect of a Block-based Language on Formula Comprehension in Spreadsheets},
+  author={Jansen, Bas and Hermans, Felienne},
+  booktitle={Proceedings of the 29th international conference on Software Engineeringth International Conference on Program Comprehension},
+  year={2021}
+}
+
+@article{van2021prevalence,
+  title={The Prevalence of Code Smells in Machine Learning projects},
+  author={van Oort, Bart and Cruz, Lu{\'\i}s and Aniche, Maur{\'\i}cio and van Deursen, Arie},
+  journal={arXiv preprint arXiv:2103.04146},
+  year={2021}
+}
+
+@article{chaliasos2021well,
+  title={Well-typed programs can go wrong: a study of typing-related bugs in JVM compilers},
+  author={Chaliasos, Stefanos and Sotiropoulos, Thodoris and Drosos, Georgios-Petros and Mitropoulos, Charalambos and Mitropoulos, Dimitris and Spinellis, Diomidis},
+  journal={Proceedings of the ACM on Programming Languages},
+  volume={5},
+  number={OOPSLA},
+  pages={1--30},
+  year={2021},
+  publisher={ACM New York, NY, USA}
+}
+
+@inproceedings{panichella2021we,
+  title={What Are We Really Testing in Mutation Testing for Machine Learning? A Critical Reflection},
+  author={Panichella, Annibale and Liem, Cynthia CS},
+  booktitle={2021 IEEE/ACM 43rd International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER)},
+  pages={66--70},
+  year={2021},
+  organization={IEEE}
+}
+
+@article{spinellis2021computing,
+  title={Why computing students should contribute to open source software projects},
+  author={Spinellis, Diomidis},
+  journal={Communications of the ACM},
+  volume={64},
+  number={7},
+  pages={36--38},
+  year={2021},
+  publisher={ACM New York, NY, USA}
+}
+
+@article{hejderup2022can,
+  title={Can we trust tests to automate dependency updates? A case study of Java Projects},
+  author={Hejderup, Joseph and Gousios, Georgios},
+  journal={Journal of Systems and Software},
+  volume={183},
+  pages={111097},
+  year={2022},
+  publisher={Elsevier}
+}

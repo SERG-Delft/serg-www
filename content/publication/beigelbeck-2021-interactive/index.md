@@ -1,37 +1,11 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Interactive Static Software Performance Analysis in the IDE
-subtitle: ''
-summary: ''
-authors:
-- Aaron Beigelbeck
-- Maurı́cio Aniche
-- Jürgen Cito
-tags: []
-categories: []
-date: '2021-01-01'
-lastmod: 2021-11-29T23:56:30+01:00
+title: "Interactive Static Software Performance Analysis in the IDE"
+date: 2021-01-01
+publishDate: 2022-02-02T10:35:01.139126Z
+authors: ["Aaron Beigelbeck", "Maurı́cio Aniche", "Jürgen Cito"]
+publication_types: ["2"]
+abstract: ""
 featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-11-29T22:56:30.541879Z'
-publication_types:
-- '2'
-abstract: ''
-publication: '*arXiv preprint arXiv:2105.02023*'
+publication: "*arXiv preprint arXiv:2105.02023*"
 ---
+

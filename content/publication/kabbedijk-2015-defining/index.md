@@ -1,39 +1,11 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'Defining multi-tenancy: A systematic mapping study on the academic and the
-  industrial perspective'
-subtitle: ''
-summary: ''
-authors:
-- Jaap Kabbedijk
-- Cor-Paul Bezemer
-- Slinger Jansen
-- Andy Zaidman
-tags: []
-categories: []
-date: '2015-01-01'
-lastmod: 2022-01-12T15:00:01+01:00
+title: "Defining multi-tenancy: A systematic mapping study on the academic and the industrial perspective"
+date: 2015-01-01
+publishDate: 2022-02-02T10:35:00.938594Z
+authors: ["Jaap Kabbedijk", "Cor-Paul Bezemer", "Slinger Jansen", "Andy Zaidman"]
+publication_types: ["2"]
+abstract: ""
 featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-01-12T14:06:32.134930Z'
-publication_types:
-- '2'
-abstract: ''
-publication: '*Journal of Systems and Software*'
+publication: "*Journal of Systems and Software*"
 ---
+

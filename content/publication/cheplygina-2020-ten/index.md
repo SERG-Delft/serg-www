@@ -1,0 +1,11 @@
+---
+title: "Ten simple rules for getting started on Twitter as a scientist"
+date: 2020-01-01
+publishDate: 2022-02-02T10:35:01.119121Z
+authors: ["Veronika Cheplygina", "Felienne Hermans", "Casper Albers", "Natalia Bielczyk", "Ionica Smeets"]
+publication_types: ["0"]
+abstract: ""
+featured: false
+publication: "*PLoS computational biology*"
+---
+

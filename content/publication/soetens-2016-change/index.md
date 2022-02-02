@@ -1,38 +1,11 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'Change-based test selection: an empirical evaluation'
-subtitle: ''
-summary: ''
-authors:
-- Quinten David Soetens
-- Serge Demeyer
-- Andy Zaidman
-- Javier Pérez
-tags: []
-categories: []
-date: '2016-01-01'
-lastmod: 2022-01-12T14:59:56+01:00
+title: "Change-based test selection: an empirical evaluation"
+date: 2016-01-01
+publishDate: 2022-02-02T10:35:00.934600Z
+authors: ["Quinten David Soetens", "Serge Demeyer", "Andy Zaidman", "Javier Pérez"]
+publication_types: ["2"]
+abstract: ""
 featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-01-12T14:06:27.972075Z'
-publication_types:
-- '2'
-abstract: ''
-publication: '*Empirical software engineering*'
+publication: "*Empirical software engineering*"
 ---
+

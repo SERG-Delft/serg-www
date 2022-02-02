@@ -1,36 +1,11 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'Code as Art-Art as Code: On the Use of Poetry and Paintings in Programming
-  Education.'
-subtitle: ''
-summary: ''
-authors:
-- Felienne Hermans
-tags: []
-categories: []
-date: '2017-01-01'
-lastmod: 2022-01-12T15:01:04+01:00
+title: "Code as Art-Art as Code: On the Use of Poetry and Paintings in Programming Education."
+date: 2017-01-01
+publishDate: 2022-02-02T10:35:00.994599Z
+authors: ["Felienne Hermans"]
+publication_types: ["1"]
+abstract: ""
 featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-01-12T14:07:34.546642Z'
-publication_types:
-- '1'
-abstract: ''
-publication: '*PPIG*'
+publication: "*PPIG*"
 ---
+

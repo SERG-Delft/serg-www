@@ -1,37 +1,11 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'Delft Students on Software Architecture: DESOSA 2016'
-subtitle: ''
-summary: ''
-authors:
-- Arie van Deursen
-- Maurı́cio Aniche
-- Joop Aué
-tags: []
-categories: []
-date: '2016-01-01'
-lastmod: 2022-01-12T15:00:34+01:00
+title: "Delft Students on Software Architecture: DESOSA 2016"
+date: 2016-01-01
+publishDate: 2022-02-02T10:35:01.072110Z
+authors: ["Arie van Deursen", "Maurı́cio Aniche", "Joop Aué"]
+publication_types: ["2"]
+abstract: ""
 featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-01-12T14:07:05.551010Z'
-publication_types:
-- '2'
-abstract: ''
-publication: '*Delft University of Technology*'
+publication: "*Delft University of Technology*"
 ---
+

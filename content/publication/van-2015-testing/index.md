@@ -1,35 +1,11 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Testing web applications with state objects
-subtitle: ''
-summary: ''
-authors:
-- Arie Van Deursen
-tags: []
-categories: []
-date: '2015-01-01'
-lastmod: 2022-01-12T15:00:19+01:00
+title: "Testing web applications with state objects"
+date: 2015-01-01
+publishDate: 2022-02-02T10:35:00.954590Z
+authors: ["Arie Van Deursen"]
+publication_types: ["2"]
+abstract: ""
 featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-01-12T14:06:50.097879Z'
-publication_types:
-- '2'
-abstract: ''
-publication: '*Communications of the ACM*'
+publication: "*Communications of the ACM*"
 ---
+

@@ -1,40 +1,11 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'The impact of test case summaries on bug fixing performance: An empirical
-  investigation'
-subtitle: ''
-summary: ''
-authors:
-- Sebastiano Panichella
-- Annibale Panichella
-- Moritz Beller
-- Andy Zaidman
-- Harald C Gall
-tags: []
-categories: []
-date: '2016-01-01'
-lastmod: 2022-01-12T15:00:52+01:00
+title: "The impact of test case summaries on bug fixing performance: An empirical investigation"
+date: 2016-01-01
+publishDate: 2022-02-02T10:35:00.984596Z
+authors: ["Sebastiano Panichella", "Annibale Panichella", "Moritz Beller", "Andy Zaidman", "Harald C Gall"]
+publication_types: ["1"]
+abstract: ""
 featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-01-12T14:07:23.471811Z'
-publication_types:
-- '1'
-abstract: ''
-publication: '*Proceedings of the 38th International Conference on Software Engineering*'
+publication: "*Proceedings of the 38th International Conference on Software Engineering*"
 ---
+
