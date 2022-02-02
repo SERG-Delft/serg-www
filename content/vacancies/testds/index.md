@@ -12,7 +12,9 @@ view: 2
 
 application_link: https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=2915
 deadline: June 18, 2021
-contact: b.ozkan@tudelft.nl
+contact: 
+- b.ozkan@tudelft.nl
+- arie.vandeursen@tudelft.nl
 
 # Optional header image (relative to `static/media/` folder).
 header:

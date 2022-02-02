@@ -4,21 +4,55 @@
 
   {{ partial "page_header" . }}
 
-  <div class="article-container" style="display:flex;flex-direction:row;">
-    <div class="pr-4 text-muted">
-      <a href="{{ .Params.application_link }}">Application link</a> 
-    </div>
-    <div class="pl-4 pr-4 text-muted">
-      Deadline: {{ .Params.deadline }}
-    </div>
-    <div class="pl-4 pr-4 text-muted">
-      Contact: {{ .Params.contact }}
-    </div>
-  </div>
-
   <div class="article-container">
 
-    <div class="article-style">
+    {{ if .Params.application_link }}
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-4 pub-row-heading">Application link</div>
+          <div class="col-12 col-md-8"><a target="_blank" href="{{ .Params.application_link }}">Apply</a></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    {{ end }}
+    {{ if .Params.deadline }}
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-4 pub-row-heading">Deadline</div>
+          <div class="col-12 col-md-8">{{ .Params.deadline }}</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    {{ end }}
+    {{ if .Params.contact }}
+    <div class="row">
+      <div class="col-md-1"></div>
+        <div class="col-md-10">
+          <div class="row">
+            <div class="col-12 col-md-4 pub-row-heading">Contact</div>
+            <div class="col-12 col-md-8">
+              {{ $len := .Params.contact }}
+              {{ range $idx, $e := .Params.contact }}
+                <a href="mailto:{{ $e }}">{{ $e }}</a>
+                {{- if (ne (add $idx 1) (len $len)) -}}
+                , 
+                {{- end -}}
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    {{ end }}
+
+    <div class="article-style article-container mt-3">
       {{ .Content }}
     </div>
 
