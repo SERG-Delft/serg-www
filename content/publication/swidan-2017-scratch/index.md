@@ -1,7 +1,7 @@
 ---
 title: "How do scratch programmers name variables and procedures?"
 date: 2017-01-01
-publishDate: 2022-02-02T10:35:00.999601Z
+publishDate: 2022-02-02T11:00:27.772168Z
 authors: ["Alaaeddin Swidan", "Alexander Serebrenik", "Felienne Hermans"]
 publication_types: ["1"]
 abstract: ""

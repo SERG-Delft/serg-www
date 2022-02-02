@@ -1,7 +1,7 @@
 ---
 title: "An exploratory study on the relationship between changes and refactoring"
 date: 2017-01-01
-publishDate: 2022-02-02T10:35:00.991598Z
+publishDate: 2022-02-02T11:00:27.760164Z
 authors: ["Fabio Palomba", "Andy Zaidman", "Rocco Oliveto", "Andrea De Lucia"]
 publication_types: ["1"]
 abstract: ""

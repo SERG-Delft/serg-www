@@ -1,7 +1,7 @@
 ---
 title: "Software-based energy profiling of android apps: Simple, efficient and reliable?"
 date: 2017-01-01
-publishDate: 2022-02-02T10:35:01.010099Z
+publishDate: 2022-02-02T11:00:27.788171Z
 authors: ["Dario Di Nucci", "Fabio Palomba", "Antonio Prota", "Annibale Panichella", "Andy Zaidman", "Andrea De Lucia"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "On software modernisation due to library obsolescence"
 date: 2018-01-01
-publishDate: 2022-02-02T10:35:01.045105Z
+publishDate: 2022-02-02T11:00:27.841183Z
 authors: ["Simos Gerasimou", "Maria Kechagia", "Dimitris Kolovos", "Richard Paige", "Georgios Gousios"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Detecting and Predicting Evolution in Spreadsheets-A Case Study in an Energy Network Company"
 date: 2018-01-01
-publishDate: 2022-02-02T10:35:01.033102Z
+publishDate: 2022-02-02T11:00:27.823182Z
 authors: ["Bas Jansen", "Felienne Hermans", "Edwin Tazelaar"]
 publication_types: ["1"]
 abstract: ""

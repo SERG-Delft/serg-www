@@ -1,7 +1,7 @@
 ---
 title: "Software ecosystem call graph for dependency management"
 date: 2018-01-01
-publishDate: 2022-02-02T10:35:01.053106Z
+publishDate: 2022-02-02T11:00:27.856187Z
 authors: ["Joseph Hejderup", "Arie van Deursen", "Georgios Gousios"]
 publication_types: ["1"]
 abstract: ""

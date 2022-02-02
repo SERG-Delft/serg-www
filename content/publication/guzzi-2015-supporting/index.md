@@ -1,7 +1,7 @@
 ---
 title: "Supporting developers' coordination in the ide"
 date: 2015-01-01
-publishDate: 2022-02-02T10:35:00.953590Z
+publishDate: 2022-02-02T11:00:27.701151Z
 authors: ["Anja Guzzi", "Alberto Bacchelli", "Yann Riche", "Arie Van Deursen"]
 publication_types: ["1"]
 abstract: ""

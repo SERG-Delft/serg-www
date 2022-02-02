@@ -1,7 +1,7 @@
 ---
 title: "Message from the Chairs of MSR 2020"
 date: 2020-01-01
-publishDate: 2022-02-02T10:35:01.110122Z
+publishDate: 2022-02-02T11:00:27.941205Z
 authors: ["Georgios Gousios", "Sarah Nadi"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "How the experience of development teams relates to assertion density of test classes"
 date: 2019-01-01
-publishDate: 2022-02-02T10:35:01.079112Z
+publishDate: 2022-02-02T11:00:27.895195Z
 authors: ["Gemma Catolino", "Fabio Palomba", "Andy Zaidman", "Filomena Ferrucci"]
 publication_types: ["1"]
 abstract: ""

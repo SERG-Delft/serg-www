@@ -1,7 +1,7 @@
 ---
 title: "Current challenges in practical object-oriented software design"
 date: 2019-01-01
-publishDate: 2022-02-02T10:35:01.072110Z
+publishDate: 2022-02-02T11:00:27.884193Z
 authors: ["Maurı́cio Aniche", "Joseph Yoder", "Fabio Kon"]
 publication_types: ["1"]
 abstract: ""

@@ -2022,7 +2022,7 @@
 
 @article{carvalho2019empirical,
   title={An empirical catalog of code smells for the presentation layer of Android apps},
-  author={Carvalho, Suelen Goularte and Aniche, Maur{\'\i}cio and Ver{\'\i}ssimo, J{\'u}lio and Durelli, Rafael S and Gerosa, Marco Aur{\'e}lio},
+  author={Carvalho, Suelen Goularte and Aniche, Maurício and Veríssimo, J{\'u}lio and Durelli, Rafael S and Gerosa, Marco Aur{\'e}lio},
   journal={Empirical Software Engineering},
   volume={24},
   number={6},

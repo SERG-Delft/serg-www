@@ -1,7 +1,7 @@
 ---
 title: "Self-reported activities of android developers"
 date: 2018-01-01
-publishDate: 2022-02-02T10:35:01.051106Z
+publishDate: 2022-02-02T11:00:27.853186Z
 authors: ["Luca Pascarella", "Franz-Xaver Geiger", "Fabio Palomba", "Dario Di Nucci", "Ivano Malavolta", "Alberto Bacchelli"]
 publication_types: ["1"]
 abstract: ""

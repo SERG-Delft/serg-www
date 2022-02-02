@@ -1,7 +1,7 @@
 ---
 title: "A graph-based dataset of commit history of real-world android apps"
 date: 2018-01-01
-publishDate: 2022-02-02T10:35:01.021099Z
+publishDate: 2022-02-02T11:00:27.804174Z
 authors: ["Franz-Xaver Geiger", "Ivano Malavolta", "Luca Pascarella", "Fabio Palomba", "Dario Di Nucci", "Alberto Bacchelli"]
 publication_types: ["1"]
 abstract: ""

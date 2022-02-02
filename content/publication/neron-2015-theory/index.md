@@ -1,7 +1,7 @@
 ---
 title: "A theory of name resolution"
 date: 2015-01-01
-publishDate: 2022-02-02T10:35:00.931593Z
+publishDate: 2022-02-02T11:00:27.665143Z
 authors: ["Pierre Néron", "Andrew Tolmach", "Eelco Visser", "Guido Wachsmuth"]
 publication_types: ["1"]
 abstract: ""

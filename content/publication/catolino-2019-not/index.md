@@ -1,7 +1,7 @@
 ---
 title: "Not all bugs are the same: Understanding, characterizing, and classifying bug types"
 date: 2019-01-01
-publishDate: 2022-02-02T10:35:01.082113Z
+publishDate: 2022-02-02T11:00:27.900196Z
 authors: ["Gemma Catolino", "Fabio Palomba", "Andy Zaidman", "Filomena Ferrucci"]
 publication_types: ["2"]
 abstract: ""

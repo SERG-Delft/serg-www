@@ -1,7 +1,7 @@
 ---
 title: "Blockchain-based software engineering"
 date: 2019-01-01
-publishDate: 2022-02-02T10:35:01.069110Z
+publishDate: 2022-02-02T11:00:27.879191Z
 authors: ["Moritz Beller", "Joseph Hejderup"]
 publication_types: ["1"]
 abstract: ""

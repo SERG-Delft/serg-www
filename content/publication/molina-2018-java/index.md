@@ -1,7 +1,7 @@
 ---
 title: "Java unit testing tool competition-sixth round"
 date: 2018-01-01
-publishDate: 2022-02-02T10:35:01.041104Z
+publishDate: 2022-02-02T11:00:27.836182Z
 authors: ["Urko Rueda Molina", "Fitsum Kifetew", "Annibale Panichella"]
 publication_types: ["1"]
 abstract: ""

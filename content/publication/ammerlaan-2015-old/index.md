@@ -1,7 +1,7 @@
 ---
 title: "Old habits die hard: Why refactoring for understandability does not give immediate benefits"
 date: 2015-01-01
-publishDate: 2022-02-02T10:35:00.946589Z
+publishDate: 2022-02-02T11:00:27.688148Z
 authors: ["Erik Ammerlaan", "Wim Veninga", "Andy Zaidman"]
 publication_types: ["1"]
 abstract: ""

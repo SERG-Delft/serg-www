@@ -1,7 +1,7 @@
 ---
 title: "On the dichotomy of debugging behavior among programmers"
 date: 2018-01-01
-publishDate: 2022-02-02T10:35:01.045105Z
+publishDate: 2022-02-02T11:00:27.842183Z
 authors: ["Moritz Beller", "Niels Spruit", "Diomidis Spinellis", "Andy Zaidman"]
 publication_types: ["1"]
 abstract: ""

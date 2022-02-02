@@ -1,7 +1,7 @@
 ---
 title: "Safe evolution patterns for software product lines"
 date: 2015-01-01
-publishDate: 2022-02-02T10:35:00.951590Z
+publishDate: 2022-02-02T11:00:27.697150Z
 authors: ["Nicolas Dintzner"]
 publication_types: ["1"]
 abstract: ""

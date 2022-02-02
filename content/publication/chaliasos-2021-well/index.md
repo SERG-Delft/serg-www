@@ -1,7 +1,7 @@
 ---
 title: "Well-typed programs can go wrong: a study of typing-related bugs in JVM compilers"
 date: 2021-01-01
-publishDate: 2022-02-02T10:35:01.152129Z
+publishDate: 2022-02-02T11:00:28.002218Z
 authors: ["Stefanos Chaliasos", "Thodoris Sotiropoulos", "Georgios-Petros Drosos", "Charalambos Mitropoulos", "Dimitris Mitropoulos", "Diomidis Spinellis"]
 publication_types: ["2"]
 abstract: ""

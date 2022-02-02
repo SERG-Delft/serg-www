@@ -1,7 +1,7 @@
 ---
 title: "Mining file histories: Should we consider branches?"
 date: 2018-01-01
-publishDate: 2022-02-02T10:35:01.041104Z
+publishDate: 2022-02-02T11:00:27.837182Z
 authors: ["Vladimir Kovalenko", "Fabio Palomba", "Alberto Bacchelli"]
 publication_types: ["1"]
 abstract: ""

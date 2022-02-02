@@ -1,7 +1,7 @@
 ---
 title: "Double-blind review in software engineering venues: the community's perspective"
 date: 2017-01-01
-publishDate: 2022-02-02T10:35:00.996599Z
+publishDate: 2022-02-02T11:00:27.766165Z
 authors: ["Alberto Bacchelli", "Moritz Beller"]
 publication_types: ["1"]
 abstract: ""

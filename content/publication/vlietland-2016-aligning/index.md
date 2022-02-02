@@ -1,7 +1,7 @@
 ---
 title: "Aligning codependent Scrum teams to enable fast business value delivery: A governance framework and set of intervention actions"
 date: 2016-01-01
-publishDate: 2022-02-02T10:35:00.962593Z
+publishDate: 2022-02-02T11:00:27.714154Z
 authors: ["Jan Vlietland", "Rini Van Solingen", "Hans Van Vliet"]
 publication_types: ["2"]
 abstract: ""

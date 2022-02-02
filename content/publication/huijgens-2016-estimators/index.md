@@ -1,7 +1,7 @@
 ---
 title: "Do estimators learn? On the effect of a positively skewed distribution of effort data on software portfolio productivity"
 date: 2016-01-01
-publishDate: 2022-02-02T10:35:00.970594Z
+publishDate: 2022-02-02T11:00:27.726157Z
 authors: ["Hennie Huijgens", "Frank Vogelezang"]
 publication_types: ["1"]
 abstract: ""

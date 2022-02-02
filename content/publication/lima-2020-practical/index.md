@@ -1,7 +1,7 @@
 ---
 title: "Practical detection of CMS plugin conflicts in large plugin sets"
 date: 2020-01-01
-publishDate: 2022-02-02T10:35:01.114120Z
+publishDate: 2022-02-02T11:00:27.947207Z
 authors: ["Igor Lima", "Jeanderson Cândido", "Marcelo d’Amorim"]
 publication_types: ["2"]
 abstract: ""

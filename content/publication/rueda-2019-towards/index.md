@@ -1,7 +1,7 @@
 ---
 title: "Towards automated test case generation maturity"
 date: 2019-01-01
-publishDate: 2022-02-02T10:35:01.091115Z
+publishDate: 2022-02-02T11:00:27.913199Z
 authors: ["Urko Rueda", "Fitsum Kifetew", "Xavier Devroey"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Generating highly-structured input data by combining search-based testing and grammar-based fuzzing"
 date: 2020-01-01
-publishDate: 2022-02-02T10:35:01.102119Z
+publishDate: 2022-02-02T11:00:27.930204Z
 authors: ["Mitchell Olsthoorn", "Arie van Deursen", "Annibale Panichella"]
 publication_types: ["1"]
 abstract: ""

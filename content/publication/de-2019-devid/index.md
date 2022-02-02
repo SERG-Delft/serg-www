@@ -1,7 +1,7 @@
 ---
 title: "Devid: Blockchain-based portfolios for software developers"
 date: 2019-01-01
-publishDate: 2022-02-02T10:35:01.074112Z
+publishDate: 2022-02-02T11:00:27.887193Z
 authors: ["Martijn de Vos", "Mitchell Olsthoorn", "Johan Pouwelse"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Scalable Call Graph Constructor for Maven"
 date: 2021-01-01
-publishDate: 2022-02-02T10:35:01.146127Z
+publishDate: 2022-02-02T11:00:27.994218Z
 authors: ["Mehdi Keshani"]
 publication_types: ["1"]
 abstract: ""

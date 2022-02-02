@@ -1,7 +1,7 @@
 ---
 title: "What are your programming language's energy-delay implications?"
 date: 2018-01-01
-publishDate: 2022-02-02T10:35:01.059109Z
+publishDate: 2022-02-02T11:00:27.866188Z
 authors: ["Stefanos Georgiou", "Maria Kechagia", "Panos Louridas", "Diomidis Spinellis"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Factors affecting cloud infra-service development lead times: a case study at ING"
 date: 2019-01-01
-publishDate: 2022-02-02T10:35:01.077114Z
+publishDate: 2022-02-02T11:00:27.892194Z
 authors: ["Hennie Huijgens", "Eric Greuter", "Jerry Brons", "Evert A van Doorn", "Ioannis Papadopoulos", "Francisco Morales Martinez", "Mauricio Aniche", "Otto Visser", "Arie van Deursen"]
 publication_types: ["1"]
 abstract: ""

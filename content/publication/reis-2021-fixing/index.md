@@ -1,7 +1,7 @@
 ---
 title: "Fixing Vulnerabilities Potentially Hinders Maintainability"
 date: 2021-01-01
-publishDate: 2022-02-02T10:35:01.135125Z
+publishDate: 2022-02-02T11:00:27.979214Z
 authors: ["Sofia Reis", "Rui Abreu", "Luis Cruz"]
 publication_types: ["2"]
 abstract: ""

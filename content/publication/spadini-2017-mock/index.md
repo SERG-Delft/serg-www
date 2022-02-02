@@ -1,7 +1,7 @@
 ---
 title: "To mock or not to mock? an empirical study on mocking practices"
 date: 2017-01-01
-publishDate: 2022-02-02T10:35:01.017098Z
+publishDate: 2022-02-02T11:00:27.798172Z
 authors: ["Davide Spadini", "Maurı́cio Aniche", "Magiel Bruntink", "Alberto Bacchelli"]
 publication_types: ["1"]
 abstract: ""

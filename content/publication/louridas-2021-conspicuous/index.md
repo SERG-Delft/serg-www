@@ -1,7 +1,7 @@
 ---
 title: "Conspicuous corruption: Evidence at a country level"
 date: 2021-01-01
-publishDate: 2022-02-02T10:35:01.131125Z
+publishDate: 2022-02-02T11:00:27.971211Z
 authors: ["Panos Louridas", "Diomidis Spinellis"]
 publication_types: ["2"]
 abstract: ""

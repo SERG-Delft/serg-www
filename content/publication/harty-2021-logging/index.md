@@ -1,7 +1,7 @@
 ---
 title: "Logging Practices with Mobile Analytics: An Empirical Study on Firebase"
 date: 2021-01-01
-publishDate: 2022-02-02T10:35:01.142126Z
+publishDate: 2022-02-02T11:00:27.987216Z
 authors: ["Julian Harty", "Haonan Zhang", "Lili Wei", "Luca Pascarella", "Mauricio Aniche", "Weiyi Shang"]
 publication_types: ["2"]
 abstract: ""

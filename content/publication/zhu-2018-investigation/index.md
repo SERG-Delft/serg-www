@@ -1,7 +1,7 @@
 ---
 title: "An investigation of compression techniques to speed up mutation testing"
 date: 2018-01-01
-publishDate: 2022-02-02T10:35:01.023099Z
+publishDate: 2022-02-02T11:00:27.808175Z
 authors: ["Qianqian Zhu", "Annibale Panichella", "Andy Zaidman"]
 publication_types: ["1"]
 abstract: ""
