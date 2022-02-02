@@ -1,7 +1,7 @@
 ---
 title: "Lightweight detection of android-specific code smells: The adoctor project"
 date: 2017-01-01
-publishDate: 2022-02-02T11:00:27.773167Z
+publishDate: 2022-02-02T11:10:01.907225Z
 authors: ["Fabio Palomba", "Dario Di Nucci", "Annibale Panichella", "Andy Zaidman", "Andrea De Lucia"]
 publication_types: ["1"]
 abstract: ""

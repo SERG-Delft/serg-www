@@ -1,7 +1,7 @@
 ---
 title: "How is video game development different from software development in open source?"
 date: 2018-01-01
-publishDate: 2022-02-02T11:00:27.830180Z
+publishDate: 2022-02-02T11:10:01.948732Z
 authors: ["Luca Pascarella", "Fabio Palomba", "Massimiliano Di Penta", "Alberto Bacchelli"]
 publication_types: ["1"]
 abstract: ""

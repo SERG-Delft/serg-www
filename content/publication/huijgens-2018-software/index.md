@@ -1,7 +1,7 @@
 ---
 title: "Software analytics in continuous delivery: a case study on success factors"
 date: 2018-01-01
-publishDate: 2022-02-02T11:00:27.855187Z
+publishDate: 2022-02-02T11:10:01.967457Z
 authors: ["Hennie Huijgens", "Davide Spadini", "Dick Stevens", "Niels Visser", "Arie Van Deursen"]
 publication_types: ["1"]
 abstract: ""

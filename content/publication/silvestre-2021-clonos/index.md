@@ -1,7 +1,7 @@
 ---
 title: "Clonos: Consistent Causal Recovery for Highly-Available Streaming Dataflows"
 date: 2021-01-01
-publishDate: 2022-02-02T11:00:27.970211Z
+publishDate: 2022-02-02T11:10:02.059088Z
 authors: ["Pedro F Silvestre", "Marios Fragkoulis", "Diomidis Spinellis", "Asterios Katsifodimos"]
 publication_types: ["1"]
 abstract: ""

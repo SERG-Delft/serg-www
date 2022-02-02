@@ -1,7 +1,7 @@
 ---
 title: "EVOSUITE at the SBST 2021 Tool Competition"
 date: 2021-01-01
-publishDate: 2022-02-02T11:00:27.975213Z
+publishDate: 2022-02-02T11:10:02.063200Z
 authors: ["Sebastian Vogl", "Sebastian Schweikl", "Gordon Fraser", "Andrea Arcuri", "Jose Campos", "Annibale Panichella"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Oops, my tests broke the build: An explorative analysis of travis ci with github"
 date: 2017-01-01
-publishDate: 2022-02-02T11:00:27.779169Z
+publishDate: 2022-02-02T11:10:01.912368Z
 authors: ["Moritz Beller", "Georgios Gousios", "Andy Zaidman"]
 publication_types: ["1"]
 abstract: ""

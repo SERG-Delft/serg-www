@@ -2907,6 +2907,12 @@
   year={2021}
 }
 
+@article{alderliesteninitial,
+  title={An Initial Exploration of the “Good First Issue” Label for Newcomer Developers},
+  author={Alderliesten, Jan Willem David and Zaidman, Andy},
+  year={2021}
+}
+
 @article{panichella2021systematic,
   title={A Systematic Comparison of search-Based approaches for LDA hyperparameter tuning},
   author={Panichella, Annibale},

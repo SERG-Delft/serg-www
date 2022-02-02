@@ -1,7 +1,7 @@
 ---
 title: "Re-evaluating method-level bug prediction"
 date: 2018-01-01
-publishDate: 2022-02-02T11:00:27.850185Z
+publishDate: 2022-02-02T11:10:01.963771Z
 authors: ["Luca Pascarella", "Fabio Palomba", "Alberto Bacchelli"]
 publication_types: ["1"]
 abstract: ""

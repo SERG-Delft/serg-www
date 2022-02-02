@@ -1,7 +1,7 @@
 ---
 title: "Tracing back log data to its log statement: from research to practice"
 date: 2019-01-01
-publishDate: 2022-02-02T11:00:27.914200Z
+publishDate: 2022-02-02T11:10:02.012100Z
 authors: ["Daan Schipper", "Maurı́cio Aniche", "Arie van Deursen"]
 publication_types: ["1"]
 abstract: ""

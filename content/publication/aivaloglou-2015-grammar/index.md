@@ -1,7 +1,7 @@
 ---
 title: "A grammar for spreadsheet formulas evaluated on two large datasets"
 date: 2015-01-01
-publishDate: 2022-02-02T11:00:27.660141Z
+publishDate: 2022-02-02T11:10:01.815758Z
 authors: ["Efthimia Aivaloglou", "David Hoepelman", "Felienne Hermans"]
 publication_types: ["1"]
 abstract: ""

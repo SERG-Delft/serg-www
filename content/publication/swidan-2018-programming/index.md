@@ -1,7 +1,7 @@
 ---
 title: "Programming misconceptions for school students"
 date: 2018-01-01
-publishDate: 2022-02-02T11:00:27.848184Z
+publishDate: 2022-02-02T11:10:01.962743Z
 authors: ["Alaaeddin Swidan", "Felienne Hermans", "Marileen Smit"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "When, how, and why developers (do not) test in their IDEs"
 date: 2015-01-01
-publishDate: 2022-02-02T11:00:27.710153Z
+publishDate: 2022-02-02T11:10:01.857281Z
 authors: ["Moritz Beller", "Georgios Gousios", "Annibale Panichella", "Andy Zaidman"]
 publication_types: ["1"]
 abstract: ""

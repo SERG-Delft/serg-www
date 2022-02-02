@@ -1,7 +1,7 @@
 ---
 title: "A tale of CI build failures: An open source and a financial organization perspective"
 date: 2017-01-01
-publishDate: 2022-02-02T11:00:27.761164Z
+publishDate: 2022-02-02T11:10:01.898914Z
 authors: ["Carmine Vassallo", "Gerald Schermann", "Fiorella Zampetti", "Daniele Romano", "Philipp Leitner", "Andy Zaidman", "Massimiliano Di Penta", "Sebastiano Panichella"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "XLBlocks: A block-based formula editor for spreadsheet formulas"
 date: 2019-01-01
-publishDate: 2022-02-02T11:00:27.916200Z
+publishDate: 2022-02-02T11:10:02.014101Z
 authors: ["Bas Jansen", "Felienne Hermans"]
 publication_types: ["1"]
 abstract: ""

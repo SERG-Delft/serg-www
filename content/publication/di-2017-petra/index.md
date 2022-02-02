@@ -1,7 +1,7 @@
 ---
 title: "Petra: a software-based tool for estimating the energy profile of android applications"
 date: 2017-01-01
-publishDate: 2022-02-02T11:00:27.782169Z
+publishDate: 2022-02-02T11:10:01.914456Z
 authors: ["Dario Di Nucci", "Fabio Palomba", "Antonio Prota", "Annibale Panichella", "Andy Zaidman", "Andrea De Lucia"]
 publication_types: ["1"]
 abstract: ""

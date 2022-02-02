@@ -1,7 +1,7 @@
 ---
 title: "Social diversity and growth levels of open source software projects on GitHub"
 date: 2016-01-01
-publishDate: 2022-02-02T11:00:27.745161Z
+publishDate: 2022-02-02T11:10:01.886875Z
 authors: ["Joop Aué", "Michiel Haisma", "Kristı́n Fjóla Tómasdóttir", "Alberto Bacchelli"]
 publication_types: ["1"]
 abstract: ""

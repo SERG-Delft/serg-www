@@ -1,7 +1,7 @@
 ---
 title: "A textual-based technique for smell detection"
 date: 2016-01-01
-publishDate: 2022-02-02T11:00:27.721156Z
+publishDate: 2022-02-02T11:10:01.866661Z
 authors: ["Fabio Palomba", "Annibale Panichella", "Andrea De Lucia", "Rocco Oliveto", "Andy Zaidman"]
 publication_types: ["1"]
 abstract: ""

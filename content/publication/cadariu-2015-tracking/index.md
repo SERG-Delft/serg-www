@@ -1,7 +1,7 @@
 ---
 title: "Tracking known security vulnerabilities in proprietary software systems"
 date: 2015-01-01
-publishDate: 2022-02-02T11:00:27.704151Z
+publishDate: 2022-02-02T11:10:01.852645Z
 authors: ["Mircea Cadariu", "Eric Bouwers", "Joost Visser", "Arie van Deursen"]
 publication_types: ["1"]
 abstract: ""

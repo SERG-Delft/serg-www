@@ -1,7 +1,7 @@
 ---
 title: "Understanding developers' needs on deprecation as a language feature"
 date: 2018-01-01
-publishDate: 2022-02-02T11:00:27.864188Z
+publishDate: 2022-02-02T11:10:01.973604Z
 authors: ["Anand Ashok Sawant", "Mauricio Aniche", "Arie van Deursen", "Alberto Bacchelli"]
 publication_types: ["1"]
 abstract: ""

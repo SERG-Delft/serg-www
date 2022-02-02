@@ -1,7 +1,7 @@
 ---
 title: "On the reaction to deprecation of 25,357 clients of 4+ 1 popular Java APIs"
 date: 2016-01-01
-publishDate: 2022-02-02T11:00:27.738160Z
+publishDate: 2022-02-02T11:10:01.882249Z
 authors: ["Anand Ashok Sawant", "Romain Robbes", "Alberto Bacchelli"]
 publication_types: ["1"]
 abstract: ""

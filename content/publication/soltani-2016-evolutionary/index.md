@@ -1,7 +1,7 @@
 ---
 title: "Evolutionary testing for crash reproduction"
 date: 2016-01-01
-publishDate: 2022-02-02T11:00:27.729158Z
+publishDate: 2022-02-02T11:10:01.874453Z
 authors: ["Mozhan Soltani", "Annibale Panichella", "Arie Van Deursen"]
 publication_types: ["1"]
 abstract: ""

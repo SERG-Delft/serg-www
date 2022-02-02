@@ -1,7 +1,7 @@
 ---
 title: "Pragmatic software testing education"
 date: 2019-01-01
-publishDate: 2022-02-02T11:00:27.903196Z
+publishDate: 2022-02-02T11:10:02.004591Z
 authors: ["Maurı́cio Aniche", "Felienne Hermans", "Arie Van Deursen"]
 publication_types: ["1"]
 abstract: ""

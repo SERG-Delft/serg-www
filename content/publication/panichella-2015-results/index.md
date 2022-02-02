@@ -1,7 +1,7 @@
 ---
 title: "Results for EvoSuite--MOSA at the Third Unit Testing Tool Competition"
 date: 2015-01-01
-publishDate: 2022-02-02T11:00:27.696150Z
+publishDate: 2022-02-02T11:10:01.843724Z
 authors: ["Annibale Panichella", "Fitsum Meshesha Kifetew", "Paolo Tonella"]
 publication_types: ["1"]
 abstract: ""

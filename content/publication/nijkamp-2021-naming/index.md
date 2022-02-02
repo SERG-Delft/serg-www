@@ -1,7 +1,7 @@
 ---
 title: "Naming Amplified Tests Based on Improved Coverage"
 date: 2021-01-01
-publishDate: 2022-02-02T11:00:27.990216Z
+publishDate: 2022-02-02T11:10:02.074617Z
 authors: ["Nienke Nijkamp", "Carolin Brandt", "Andy Zaidman"]
 publication_types: ["1"]
 abstract: ""

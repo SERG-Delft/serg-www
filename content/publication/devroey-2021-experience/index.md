@@ -1,7 +1,7 @@
 ---
 title: "Experience report on soft and project skills building through repetition"
 date: 2021-01-01
-publishDate: 2022-02-02T11:00:27.976213Z
+publishDate: 2022-02-02T11:10:02.064236Z
 authors: ["Xavier Devroey", "Moussa Amrani", "Benoı̂t Vanderose"]
 publication_types: ["1"]
 abstract: ""

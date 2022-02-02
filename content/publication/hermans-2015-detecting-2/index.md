@@ -1,7 +1,7 @@
 ---
 title: "Detecting problematic lookup functions in spreadsheets"
 date: 2015-01-01
-publishDate: 2022-02-02T11:00:27.678147Z
+publishDate: 2022-02-02T11:10:01.828712Z
 authors: ["Felienne Hermans", "Efthimia Aivaloglou", "Bas Jansen"]
 publication_types: ["1"]
 abstract: ""

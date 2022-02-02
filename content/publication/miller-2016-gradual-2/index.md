@@ -1,7 +1,7 @@
 ---
 title: "Gradual structuring in the spreadsheet paradigm"
 date: 2016-01-01
-publishDate: 2022-02-02T11:00:27.733159Z
+publishDate: 2022-02-02T11:10:01.877596Z
 authors: ["Gary Miller", "Felienne Hermans"]
 publication_types: ["1"]
 abstract: ""

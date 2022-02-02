@@ -1,7 +1,7 @@
 ---
 title: "Success factors in managing legacy system evolution: A case study"
 date: 2016-01-01
-publishDate: 2022-02-02T11:00:27.747161Z
+publishDate: 2022-02-02T11:10:01.888394Z
 authors: ["Hennie Huijgens", "Arie Van Deursen", "Rini Van Solingen"]
 publication_types: ["1"]
 abstract: ""

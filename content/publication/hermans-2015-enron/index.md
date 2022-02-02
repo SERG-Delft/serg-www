@@ -1,7 +1,7 @@
 ---
 title: "Enron's spreadsheets and related emails: A dataset and analysis"
 date: 2015-01-01
-publishDate: 2022-02-02T11:00:27.680147Z
+publishDate: 2022-02-02T11:10:01.830253Z
 authors: ["Felienne Hermans", "Emerson Murphy-Hill"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Teaching software engineering principles to k-12 students: a mooc on scratch"
 date: 2017-01-01
-publishDate: 2022-02-02T11:00:27.794172Z
+publishDate: 2022-02-02T11:10:01.923230Z
 authors: ["Felienne Hermans", "Efthimia Aivaloglou"]
 publication_types: ["1"]
 abstract: ""

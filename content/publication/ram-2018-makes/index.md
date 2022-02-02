@@ -1,7 +1,7 @@
 ---
 title: "What makes a code change easier to review: an empirical investigation on code change reviewability"
 date: 2018-01-01
-publishDate: 2022-02-02T11:00:27.868190Z
+publishDate: 2022-02-02T11:10:01.977711Z
 authors: ["Achyudh Ram", "Anand Ashok Sawant", "Marco Castelluccio", "Alberto Bacchelli"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Poster: How Do Community Smells Influence Code Smells?"
 date: 2018-01-01
-publishDate: 2022-02-02T11:00:27.828179Z
+publishDate: 2022-02-02T11:10:01.947730Z
 authors: ["Fabio Palomba", "Damian A Tamburri", "Alexander Serebrenik", "Andy Zaidman", "Francesca Arcelli Fontana", "Rocco Oliveto"]
 publication_types: ["1"]
 abstract: ""

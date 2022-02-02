@@ -1,7 +1,7 @@
 ---
 title: "Domain-based fuzzing for supervised learning of anomaly detection in cyber-physical systems"
 date: 2020-01-01
-publishDate: 2022-02-02T11:00:27.928203Z
+publishDate: 2022-02-02T11:10:02.025513Z
 authors: ["Herman Wijaya", "Maurı́cio Aniche", "Aditya Mathur"]
 publication_types: ["1"]
 abstract: ""

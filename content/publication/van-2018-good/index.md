@@ -1,7 +1,7 @@
 ---
 title: "How good is your puppet? an empirically defined and validated quality model for puppet"
 date: 2018-01-01
-publishDate: 2022-02-02T11:00:27.829180Z
+publishDate: 2022-02-02T11:10:01.948732Z
 authors: ["Eduard Van der Bent", "Jurriaan Hage", "Joost Visser", "Georgios Gousios"]
 publication_types: ["1"]
 abstract: ""

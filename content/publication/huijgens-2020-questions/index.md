@@ -1,7 +1,7 @@
 ---
 title: "Questions for data scientists in software engineering: a replication"
 date: 2020-01-01
-publishDate: 2022-02-02T11:00:27.949206Z
+publishDate: 2022-02-02T11:10:02.042046Z
 authors: ["Hennie Huijgens", "Ayushi Rastogi", "Ernst Mulders", "Georgios Gousios", "Arie van Deursen"]
 publication_types: ["1"]
 abstract: ""

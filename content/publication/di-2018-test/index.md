@@ -1,7 +1,7 @@
 ---
 title: "A test case prioritization genetic algorithm guided by the hypervolume indicator"
 date: 2018-01-01
-publishDate: 2022-02-02T11:00:27.811175Z
+publishDate: 2022-02-02T11:10:01.934728Z
 authors: ["Dario Di Nucci", "Annibale Panichella", "Andy Zaidman", "Andrea De Lucia"]
 publication_types: ["2"]
 abstract: ""

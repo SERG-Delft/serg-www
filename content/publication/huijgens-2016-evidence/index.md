@@ -1,7 +1,7 @@
 ---
 title: "Evidence-based software portfolio management: a tool description and evaluation"
 date: 2016-01-01
-publishDate: 2022-02-02T11:00:27.825180Z
+publishDate: 2022-02-02T11:10:01.945731Z
 authors: ["Hennie Huijgens"]
 publication_types: ["1"]
 abstract: ""

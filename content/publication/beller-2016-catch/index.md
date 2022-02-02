@@ -1,7 +1,7 @@
 ---
 title: "How to catch'em all: WatchDog, a family of IDE plug-ins to assess testing"
 date: 2016-01-01
-publishDate: 2022-02-02T11:00:27.734158Z
+publishDate: 2022-02-02T11:10:01.879157Z
 authors: ["Moritz Beller", "Igor Levaja", "Annibale Panichella", "Georgios Gousios", "Andy Zaidman"]
 publication_types: ["1"]
 abstract: ""

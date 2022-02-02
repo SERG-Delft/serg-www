@@ -1,7 +1,7 @@
 ---
 title: "Abscon: a test concretizer for model-based testing"
 date: 2019-01-01
-publishDate: 2022-02-02T11:00:27.873190Z
+publishDate: 2022-02-02T11:10:01.981309Z
 authors: ["Jeremy Vanhecke", "Xavier Devroey", "Gilles Perrouin"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Configuration smells in continuous delivery pipelines: a linter and a six-month study on gitlab"
 date: 2020-01-01
-publishDate: 2022-02-02T11:00:27.924201Z
+publishDate: 2022-02-02T11:10:02.021896Z
 authors: ["Carmine Vassallo", "Sebastian Proksch", "Anna Jancso", "Harald C Gall", "Massimiliano Di Penta"]
 publication_types: ["1"]
 abstract: ""
