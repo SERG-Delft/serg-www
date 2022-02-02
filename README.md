@@ -17,13 +17,72 @@ For adding material, check [this documentation](https://wowchemy.com/docs/).
 
 **Note:** Do not directly push your changes to the main branch. Instead, send a Pull Request (PR).
 
-### Adding team members
+### Group members
 
-Steps:
+Group members include current staff, alumni, and students (MSc and BSc thesis).
 
-1. Run `hugo new --kind authors authors/<firstname-lastname>`
-2. Update your information in **content/authors/<firstname-lastname>/_index.md**
-3. Replace **avatar.{jpg,jpeg,png,webp}** with your photo
+To add these members follow the following steps:
+
+1. Run `hugo new --kind authors authors/<firstname-lastname>`, which copies the template from archetypes or copy one of the existing author profiles
+2. Update the information about the member in **content/authors/<firstname-lastname>/_index.md**
+3. Replace **avatar.{jpg,jpeg,png,webp}** with the photo of the member
+4. Add something about the member below the front matter
+
+When a member leaves the group, they will be turned into an alumni by adding the year that they left to the **member_end** property.
+
+### Research lines
+
+Research lines are the more general topics that the group works on.
+All content (e.g., funded projects, publications, events, vacancies) links to these research lines.
+
+To add a new research line follow the following steps:
+
+1. Run `hugo new --kind research_line research_line/<identifier>`, which copies the template from archetypes or copy one of the existing research lines
+2. Update the information about the line of research in **content/research_line/<identifier>/_index.md**
+3. Add information about the research line below the front matter
+4. Link all related content to the research line by using the identifier
+
+### Projects
+
+Projects are the funded projects, where researchers work on achieving a certain goal.
+
+To add a new project follow the following steps:
+
+1. Run `hugo new --kind project project/<identifier>`, which copies the template from archetypes or copy one of the existing projects
+2. Update the information (e.g., the research line to which it belongs) about the project in **content/project/<identifier>/_index.md**
+3. Add information about the project below the front matter
+
+### Publications
+
+To add a new publication follow the following steps:
+
+1. Run `hugo new --kind publication publication/<identifier>`, which copies the template from archetypes or copy one of the existing publications
+2. Update the information (e.g., the research line to which it belongs) about the publication in **content/publication/<identifier>/_index.md**
+3. Add information about the publication below the front matter
+
+### Tools
+
+To add a new tool follow the following steps:
+
+1. Run `hugo new --kind tool tool/<identifier>`, which copies the template from archetypes or copy one of the existing tools
+2. Update the information (e.g., the research line to which it belongs) about the tool in **content/tool/<identifier>/_index.md**
+3. Add information about the tool below the front matter
+
+### Events
+
+To add a new event follow the following steps:
+
+1. Run `hugo new --kind event event/<identifier>`, which copies the template from archetypes or copy one of the existing events
+2. Update the information (e.g., the research line to which it belongs) about the event in **content/event/<identifier>/_index.md**
+3. Add information about the event below the front matter
+
+### Vacancies
+
+To add a new vacancy follow the following steps:
+
+1. Run `hugo new --kind vacancy vacancy/<identifier>`, which copies the template from archetypes or copy one of the existing vacancies
+2. Update the information (e.g., the research line to which it belongs) about the vacancy in **content/vacancy/<identifier>/_index.md**
+3. Add information about the vacancy below the front matter
 
 ## Build and preview locally
 
