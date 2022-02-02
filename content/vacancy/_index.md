@@ -1,5 +1,6 @@
 ---
 title: Vacancies
+url: vacancies
 
 # View.
 #   1 = List

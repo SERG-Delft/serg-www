@@ -10,7 +10,7 @@ main:
     hasChildren: true
   - parent: SERG
     name: About SERG
-    url: "/about"
+    url: "/about#about-serg"
     weight: 11
   - parent: SERG
     name: Organization

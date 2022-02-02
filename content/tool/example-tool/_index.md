@@ -1,5 +1,8 @@
 ---
-title: Software & Tools
+title: Example tool linked to CI4SE
+
+research_lines:
+  - ci4se
 
 # View.
 #   1 = List
@@ -12,3 +15,5 @@ header:
   caption: ""
   image: ""
 ---
+
+Description of example tool
