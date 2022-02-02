@@ -4,6 +4,11 @@ title: AI for Fintech Research
 # Project name (shorthand)
 name: "AFR"
 
+# Should project show on the homepage
+tags: 
+  - cat-1
+  - featured
+
 # The start and end year of this project.
 # If the project is active, leave project_end empty. Otherwise, it becomes a past project.
 project_start: 2019
