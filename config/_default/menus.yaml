@@ -42,10 +42,10 @@ main:
     name: Tools
     url: "/tools"
     weight: 33
-  - parent: Research
-    name: Partners
-    url: "/partners"
-    weight: 34
+  # - parent: Research
+  #   name: Partners
+  #   url: "/partners"
+  #   weight: 34
   - name: Education
     weight: 40
     hasChildren: true
