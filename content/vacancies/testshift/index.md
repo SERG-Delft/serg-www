@@ -10,6 +10,11 @@ research_lines:
 #   3 = Card
 view: 2
 
+application_link: 
+deadline: 
+contacts: 
+- a.e.zaidman@tudelft.nl
+
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""

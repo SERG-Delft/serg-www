@@ -1,0 +1,64 @@
+{{- define "main" -}}
+
+<article class="article">
+
+  {{ partial "page_header" . }}
+
+  <div class="article-container">
+
+    {{ if .Params.application_link }}
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-4 pub-row-heading">Application link</div>
+          <div class="col-12 col-md-8"><a target="_blank" href="{{ .Params.application_link }}">Apply</a></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    {{ end }}
+    {{ if .Params.deadline }}
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-4 pub-row-heading">Deadline</div>
+          <div class="col-12 col-md-8">{{ .Params.deadline }}</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    {{ end }}
+    {{ if .Params.contacts }}
+    <div class="row">
+      <div class="col-md-1"></div>
+        <div class="col-md-10">
+          <div class="row">
+            <div class="col-12 col-md-4 pub-row-heading">Contact</div>
+            <div class="col-12 col-md-8">
+              {{ $len := .Params.contacts }}
+              {{ range $idx, $e := .Params.contacts }}
+                <a href="mailto:{{ $e }}">{{ $e }}</a>
+                {{- if (ne (add $idx 1) (len $len)) -}}
+                , 
+                {{- end -}}
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    {{ end }}
+
+    <div class="article-style article-container mt-3">
+      {{ .Content }}
+    </div>
+
+    <!-- {{ partial "page_footer" . }} -->
+
+  </div>
+</article>
+
+{{- end -}}
