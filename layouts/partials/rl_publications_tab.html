@@ -1,8 +1,7 @@
 {{/* Template for the research line projects tab */}}
+{{ $page := . }}
 
-{{/* To be added once tools are added */}}
-
-{{ $items := where (where site.RegularPages "Type" "publication") ".Params.research_lines" "intersect" (slice "ci4se") }}
+{{ $items := where (where site.RegularPages "Type" "publication") ".Params.research_lines" "intersect" (slice (path.Base $page.File.Dir)) }}
 {{ $talks_len := len $items }}
 {{ if ge $talks_len 1 }}
   <h2>Publications</h2>
