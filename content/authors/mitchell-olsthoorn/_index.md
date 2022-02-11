@@ -48,7 +48,7 @@ social:
     link: https://pure.tudelft.nl/portal/en/persons/mjg-olsthoorn(7e06b8fd-4be5-45f8-8a97-bd9c8ac80fd5).html
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 # Use one of the following values: 
