@@ -48,7 +48,7 @@ social:
     link: https://pure.tudelft.nl/portal/en/persons/a-panichella(48ad3f35-3014-4bab-a9e9-4ba228749fdd)/publications.html?pageSize=100&page=0
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 # Use one of the following values: 

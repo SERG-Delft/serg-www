@@ -36,7 +36,7 @@ social:
     link: https://www.linkedin.com/in/shemara-van-der-zwet-1a5b70122
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 # Use one of the following values: 

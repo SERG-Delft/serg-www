@@ -43,7 +43,7 @@ social:
     link: https://pure.tudelft.nl/portal/en/persons/dm-van-solingen(2669c7b5-81a6-4f70-9d9d-e21ead041426)/publications.html?pageSize=100&page=0
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 # Use one of the following values: 

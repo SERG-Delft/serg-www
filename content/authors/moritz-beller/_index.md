@@ -38,7 +38,7 @@ social:
     link: https://github.com/Inventitech
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 # Use one of the following values: 

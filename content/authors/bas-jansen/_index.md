@@ -40,7 +40,7 @@ social:
     link: https://pure.tudelft.nl/portal/en/persons/b-jansen(bfa125a2-c776-4191-bf18-e776dd145ff1)/publications.html
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 # Use one of the following values: 

@@ -47,7 +47,7 @@ social:
     link: hhttps://pure.tudelft.nl/portal/en/persons/m-finavaro-aniche(555c2765-502d-4254-82a6-d16ef65db961).html
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 # Use one of the following values: 

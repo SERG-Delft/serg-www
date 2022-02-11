@@ -32,7 +32,7 @@ social:
     link: https://www.aau.at/en/isys/serg/team/pinzger-martin/
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 # Use one of the following values: 

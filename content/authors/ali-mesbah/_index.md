@@ -32,7 +32,7 @@ social:
     link: https://dblp.uni-trier.de/pers/hd/m/Mesbah_0001:Ali
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 # Use one of the following values: 
