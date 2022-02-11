@@ -54,3 +54,14 @@ hr {
 p {
   margin-bottom: 0.5rem;
 }
+
+.event-large-date {
+  text-align: right; 
+  white-space: pre-wrap;
+}
+@media only screen and (max-width: 800px) {
+  .event-large-date {
+    text-align: left;
+    white-space: normal; 
+  }
+}
