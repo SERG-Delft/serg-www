@@ -12,8 +12,8 @@ member_end: 2021
 
 # Organizations/Affiliations
 organizations:
-  - name: Delft University of Technology
-    url: "https://www.tudelft.nl/"
+  - name: Picnic
+    url: "https://picnic.app/nl"
     country: NL
 
 # Short bio (displayed in user profile at end of posts)
