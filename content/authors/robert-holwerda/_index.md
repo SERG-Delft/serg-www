@@ -35,7 +35,7 @@ social:
     link: https://dblp.uni-trier.de/pid/140/8806.html
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 # Use one of the following values: 

@@ -44,7 +44,7 @@ social:
     link: https://pure.tudelft.nl/portal/en/persons/s-roy(3877362c-2ace-451c-9679-24c6e5b6ecf7)/publications.html
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 # Use one of the following values: 

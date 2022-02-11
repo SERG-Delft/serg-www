@@ -44,7 +44,7 @@ social:
     link: https://pure.tudelft.nl/portal/en/persons/sam-mir(6b4ddcf8-e30c-4da1-b667-a1f47d755217).html
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 # Use one of the following values: 

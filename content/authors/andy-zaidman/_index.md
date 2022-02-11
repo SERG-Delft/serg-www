@@ -47,7 +47,7 @@ social:
     link: https://pure.tudelft.nl/portal/en/persons/ae-zaidman(3d1ac38d-7304-44f4-bccb-087b6db66072)/publications.html
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 # Use one of the following values: 

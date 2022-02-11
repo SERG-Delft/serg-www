@@ -43,7 +43,7 @@ social:
     link: https://pure.tudelft.nl/portal/en/persons/ji-hejderup(65f98b5d-e9d8-47a0-b720-9a1270f816e0)/publications.html
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 # Use one of the following values: 
