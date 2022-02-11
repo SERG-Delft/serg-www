@@ -7,8 +7,8 @@ role: Ph.D. Candidate
 
 # The start and end year of being part of this group.
 # If the author is an active member, leave member_end empty. Otherwise, fill in.
-member_start: 
-member_end: 
+member_start: 2019
+member_end: 2021
 
 # Organizations/Affiliations
 organizations:
