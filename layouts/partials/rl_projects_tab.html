@@ -1,32 +1,11 @@
 {{/* Template for the research line projects tab */}}
+{{ $page := . }}
 
-{{ $assoc_projects := (where .Pages "Section" "project")}}
-
-
-<div class="universal-wrapper">
-  
-  {{ $projects := $assoc_projects }}
-  {{ $current := where $projects ".Params.project_end" "=" nil }}
-  {{ $past := where $projects ".Params.project_end" "!=" nil }}
-  {{ with $current }}
-  <h2 class="mb-4">
-    Current projects
-  </h2>
-  {{ range . }}
-    {{ partial "li_project" . }}
+{{ $items := where (where site.RegularPages "Type" "project") ".Params.research_lines" "intersect" (slice (path.Base $page.File.Dir)) }}
+{{ $talks_len := len $items }}
+{{ if ge $talks_len 1 }}
+  <h2>Projects</h2>
+  {{ range $items }}
+  {{ partial "li_card" . }}
   {{ end }}
-  {{ end }}
-
-  {{ with $past}}
-  <h2 class="mb-3">
-    Past projects
-  </h2>
-  {{ range . }}
-    {{ partial "li_project" . }}
-  {{ end }}
-  {{ end }}
-
-  {{ partial "pagination" . }}
-
-</div>
-
+{{ end }}

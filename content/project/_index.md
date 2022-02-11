@@ -7,7 +7,7 @@ url: projects
 #   2 = Compact
 #   3 = Card
 #   5 = Showcase
-# view: 1
+view: 3
 
 # Optional header image (relative to `static/media/` folder).
 header:

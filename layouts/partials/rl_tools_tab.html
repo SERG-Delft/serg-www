@@ -1,9 +1,11 @@
 {{/* Template for the research line projects tab */}}
+{{ $page := . }}
 
-{{/* To be added once tools are added */}}
-
-<h2>Tools</h2>
-
-{{ $pages := (where .Pages "Section" "tools")}}
-
-{{ partial "li_pages.html" $pages }}
+{{ $items := where (where site.RegularPages "Type" "tools") ".Params.research_lines" "intersect" (slice (path.Base $page.File.Dir)) }}
+{{ $talks_len := len $items }}
+{{ if ge $talks_len 1 }}
+  <h2>Tools</h2>
+  {{ range $items }}
+  {{ partial "li_list" . }}
+  {{ end }}
+{{ end }}
