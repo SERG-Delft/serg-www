@@ -2,8 +2,11 @@
 
 {{/* To be added once tools are added */}}
 
-<h2>Events</h2>
-
-{{ $pages := (where .Pages "Section" "events")}}
-
-{{ partial "li_pages.html" $pages }}
+{{ $items := where (where site.RegularPages "Type" "events") ".Params.research_lines" "intersect" (slice "ci4se") }}
+{{ $talks_len := len $items }}
+{{ if ge $talks_len 1 }}
+  <h2>Events</h2>
+  {{ range $items }}
+  {{ partial "li_list" . }}
+  {{ end }}
+{{ end }}

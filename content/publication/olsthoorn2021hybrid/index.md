@@ -69,6 +69,8 @@ image:
 #   Otherwise, set `projects: []`.
 projects: [ubri]
 
+research_lines: [ci4se]
+
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
