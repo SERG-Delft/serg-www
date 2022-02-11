@@ -1,9 +1,9 @@
 ---
-widget: portfolio
+widget: custom-portfolio
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Featured projects
+title: Research projects
 weight: 30
 
 content:
@@ -11,9 +11,9 @@ content:
   page_type: project
 
 # Uncomment to only show content with specific tags
-#  filters:
-#    tags:
-#      - featured project
+# filters:
+#   tags:
+#     - tag
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below)
   filter_default: 0
