@@ -7,6 +7,6 @@
 {{ if ge $talks_len 1 }}
   <h2>Projects</h2>
   {{ range $items }}
-  {{ partial "li_project" . }}
+  {{ partial "li_card" . }}
   {{ end }}
 {{ end }}

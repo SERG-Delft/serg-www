@@ -17,6 +17,8 @@
     {{ $view_file = "citation" }}
   {{ else if eq $view 5 }}
     {{ $view_file = "showcase" }}
+  {{ else if eq $view 6 }}
+    {{ $view_file = "card-simple" }}
   {{ else }}
     {{ $view_file = "compact" }}
   {{ end }}

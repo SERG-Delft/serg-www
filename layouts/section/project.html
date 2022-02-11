@@ -12,14 +12,14 @@
   {{ $current := where $projects ".Params.project_end" "=" nil }}
   {{ $past := where $projects ".Params.project_end" "!=" nil }}
   {{ range $current }}
-    {{ partial "li_project" . }}
+    {{ partial "li_card" . }}
   {{ end }}
 
   <h2>
     Past projects
   </h2>
   {{ range $past }}
-    {{ partial "li_project" . }}
+    {{ partial "li_card" . }}
   {{ end }}
 
 </div>
