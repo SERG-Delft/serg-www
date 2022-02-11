@@ -46,7 +46,7 @@
       </ul>
     </div>
 
-    <!-- {{ partial "page_footer" . }} -->
+    {{ partial "page_footer" . }}
 
     <div class="project-related-pages content-widget-hr">
       {{ $page := . }}
@@ -57,13 +57,7 @@
       {{ if ge $count 1 }}
         <h2>{{ (i18n "posts") }}</h2>
         {{ range $items }}
-          {{ if eq site.Params.projects.post_view 1 }}
-            {{ partial "li_list" . }}
-          {{ else if eq site.Params.projects.post_view 3 }}
-            {{ partial "li_card" . }}
-          {{ else }}
-            {{ partial "li_compact" . }}
-          {{ end }}
+          {{ partial "li_list" . }}
         {{ end }}
       {{ end }}
 
@@ -72,15 +66,7 @@
       {{ if ge $pubs_len 1 }}
         <h2>{{ (i18n "publications") }}</h2>
         {{ range $items }}
-          {{ if eq site.Params.projects.publication_view 1 }}
-            {{ partial "li_list" . }}
-          {{ else if eq site.Params.projects.publication_view 3 }}
-            {{ partial "li_card" . }}
-          {{ else if eq site.Params.projects.publication_view 4 }}
-            {{ partial "li_citation" . }}
-          {{ else }}
-            {{ partial "li_compact" . }}
-          {{ end }}
+          {{ partial "li_list" . }}
         {{ end }}
       {{ end }}
 
@@ -89,13 +75,7 @@
       {{ if ge $talks_len 1 }}
         <h2>{{ (i18n "talks") }}</h2>
         {{ range $items }}
-          {{ if eq site.Params.projects.talk_view 1 }}
-            {{ partial "li_list" . }}
-          {{ else if eq site.Params.projects.talk_view 3 }}
-            {{ partial "li_card" . }}
-          {{ else }}
-            {{ partial "li_compact" . }}
-          {{ end }}
+          {{ partial "li_list" . }}
         {{ end }}
       {{ end }}
     </div>

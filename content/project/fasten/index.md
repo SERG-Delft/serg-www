@@ -4,6 +4,9 @@ title: Fine-grained analysis of software ecosystems (FASTEN)
 # Project name (shorthand)
 name: "FASTEN"
 
+categories: 
+  - cat-2
+
 # The start and end year of this project.
 # If the project is active, leave project_end empty. Otherwise, it becomes a past project.
 project_start: 2019

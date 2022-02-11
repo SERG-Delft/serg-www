@@ -4,10 +4,10 @@ title: Big Software on the Run
 # Project name (shorthand)
 name: "BSR"
 
-# Should project show on the homepage
-tags: 
+categories: 
   - cat-2
-  - featured
+
+featured: true
 
 # The start and end year of this project.
 # If the project is active, leave project_end empty. Otherwise, it becomes a past project.

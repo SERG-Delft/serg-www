@@ -4,6 +4,11 @@ title: DevOps and testing for Cyber-physical systems
 # Project name (shorthand)
 name: "COSMOS"
 
+categories: 
+  - cat-1
+
+featured: true
+
 # The start and end year of this project.
 # If the project is active, leave project_end empty. Otherwise, it becomes a past project.
 project_start: 2021
