@@ -7,13 +7,13 @@ role: Ph.D. Candidate
 
 # The start and end year of being part of this group.
 # If the author is an active member, leave member_end empty. Otherwise, fill in.
-member_start: 
-member_end: 
+member_start: 2019
+member_end: 2021
 
 # Organizations/Affiliations
 organizations:
-  - name: Delft University of Technology
-    url: "https://www.tudelft.nl/"
+  - name: Picnic
+    url: "https://picnic.app/nl"
     country: NL
 
 # Short bio (displayed in user profile at end of posts)
