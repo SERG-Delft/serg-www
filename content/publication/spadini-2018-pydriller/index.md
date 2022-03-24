@@ -7,5 +7,10 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering*"
+
+url_pdf: "https://research.tudelft.nl/en/publications/pydriller-python-framework-for-mining-software-repositories"
 ---
+
+
+
 
