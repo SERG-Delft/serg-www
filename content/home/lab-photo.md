@@ -10,7 +10,7 @@ subtitle: ""
 design:
   columns: "1"
   background:
-    image: serg-group-photo.jpg
+    image: serg-group-photo-2021.jpeg
     image_parallax: false
     image_position: top
     image_size: cover
