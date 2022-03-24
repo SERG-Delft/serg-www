@@ -32,6 +32,8 @@ collaborators: []
 # Funding of this project
 funding:
   - ING
+
+external_link: "https://ing.nl"
 ---
 
 Details available from the project web site at [http://se.ewi.tudelft.nl/ai4fintech/](http://se.ewi.tudelft.nl/ai4fintech/)
