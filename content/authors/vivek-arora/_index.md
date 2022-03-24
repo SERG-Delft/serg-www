@@ -12,9 +12,9 @@ member_end: 2022
 
 # Organizations/Affiliations
 organizations:
-  - name: Delft University of Technology
-    url: "https://www.tudelft.nl/"
-    country: NL
+  - name: Microsoft
+    url: "https://www.microsoft.com/"
+    country: IN
 
 # Short bio (displayed in user profile at end of posts)
 bio: >
