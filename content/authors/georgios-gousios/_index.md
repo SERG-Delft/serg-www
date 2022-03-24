@@ -3,7 +3,7 @@
 title: Georgios Gousios
 
 # Role/position (e.g., (Assistant/Associate/Full) Professor, Postdoctoral Researchers, Ph.D. Candidate)
-role: Associate Professor
+role: Associate Professor (0.2fte)
 
 # The start and end year of being part of this group.
 # If the author is an active member, leave member_end empty. Otherwise, fill in.
@@ -61,5 +61,5 @@ highlight_name: false
 #   - Guests
 #   - Support
 user_groups:
-  - Guests
+  - Associate Professors
 ---
