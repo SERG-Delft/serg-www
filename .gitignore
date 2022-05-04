@@ -16,3 +16,6 @@ hugo.linux
 ### Wowchemy
 # Generated files by Wowchemy
 jsconfig.json
+
+## For MacOS users
+.DS_Store
