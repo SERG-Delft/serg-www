@@ -13,6 +13,12 @@ hugo.linux
 
 # End of https://www.toptal.com/developers/gitignore/api/hugo
 
+# Empty lock file used by hugo
+.hugo_build.lock
+
 ### Wowchemy
 # Generated files by Wowchemy
 jsconfig.json
+
+## For MacOS users
+.DS_Store
